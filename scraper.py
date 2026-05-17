@@ -105,6 +105,11 @@ def fetch_guidelines_list() -> list[dict]:
                     if status in badge_text and status not in status_tags:
                         status_tags.append(status)
 
+        # Filter out nav/utility links that aren't actual guidelines
+        nav_titles = {"guidelines", "search all guidelines", "practice guidelines library"}
+        if title.lower() in nav_titles:
+            continue
+
         # Deduplicate by href (same page linked multiple times)
         if any(g["detail_url"] == href for g in guidelines):
             continue
@@ -171,6 +176,12 @@ def fetch_guideline_detail(guideline: dict) -> dict:
             pub_date = m.group()
             break
     detail["publication_date"] = pub_date
+
+    # If year wasn't found on listing page, extract it from detail page date
+    if not detail.get("year") and pub_date:
+        year_m = re.search(r"\b(20\d{2})\b", pub_date)
+        if year_m:
+            detail["year"] = int(year_m.group(1))
 
     # PDF links — IDSA-hosted (freely downloadable)
     idsa_pdfs = []
