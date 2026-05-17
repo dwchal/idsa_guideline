@@ -10,7 +10,6 @@ import re
 import subprocess
 import sys
 import time
-import xml.etree.ElementTree as ET
 from collections import Counter, defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
@@ -50,59 +49,49 @@ def make_request(url: str, retries: int = 3) -> requests.Response | None:
     return None
 
 
-PMC_IDCONV_URL = "https://www.ncbi.nlm.nih.gov/pmc/utils/idconv/v1.0/"
-PMC_OA_URL = "https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi"
-PMC_HEADERS = {
-    "User-Agent": (
-        "IDSAGuidelineScraper/1.0 "
-        "(automated research tool; https://github.com/dwchal/idsa_guideline)"
-    )
-}
+UNPAYWALL_EMAIL = "doug@challener.net"
+# Publishers that block automated PDF downloads even for OA articles
+BLOCKED_HOSTS = {"academic.oup.com", "pmc.ncbi.nlm.nih.gov", "www.ncbi.nlm.nih.gov"}
 
 
-def doi_to_pmcid(doi: str) -> str | None:
-    """Convert a DOI to a PubMed Central ID using the NCBI ID Converter API."""
-    # Strip URL prefix if present
+def unpaywall_lookup(doi: str) -> dict:
+    """Query Unpaywall for open-access status and best free PDF URL.
+
+    Returns a dict with keys:
+      is_oa        - bool
+      oa_url       - best landing page or PDF URL for humans to click (may be None)
+      download_url - a PDF URL we can actually auto-download (non-blocked host), or None
+    """
     doi_clean = re.sub(r"^https?://doi\.org/", "", doi)
+    result = {"is_oa": False, "oa_url": None, "download_url": None}
     try:
         resp = requests.get(
-            PMC_IDCONV_URL,
-            params={"ids": doi_clean, "format": "json", "tool": "IDSAScraper"},
-            headers=PMC_HEADERS,
+            f"https://api.unpaywall.org/v2/{doi_clean}",
+            params={"email": UNPAYWALL_EMAIL},
+            headers=HEADERS,
             timeout=15,
         )
-        resp.raise_for_status()
+        if resp.status_code != 200:
+            return result
         data = resp.json()
-        records = data.get("records", [])
-        if records and "pmcid" in records[0]:
-            return records[0]["pmcid"]
+        result["is_oa"] = data.get("is_oa", False)
+
+        # Walk all OA locations: prefer one we can auto-download
+        for loc in data.get("oa_locations", []):
+            pdf_url = loc.get("url_for_pdf")
+            if not pdf_url:
+                continue
+            host = urlparse(pdf_url).hostname or ""
+            # Record the first PDF URL as the human-clickable link
+            if not result["oa_url"]:
+                result["oa_url"] = pdf_url
+            # Only auto-download from unblocked hosts (e.g. institutional repos)
+            if host not in BLOCKED_HOSTS and not result["download_url"]:
+                result["download_url"] = pdf_url
+
     except Exception:
         pass
-    return None
-
-
-def pmc_pdf_url(pmcid: str) -> str | None:
-    """Check PMC Open Access API for a free PDF download URL."""
-    try:
-        resp = requests.get(
-            PMC_OA_URL,
-            params={"id": pmcid},
-            headers=PMC_HEADERS,
-            timeout=15,
-        )
-        resp.raise_for_status()
-        root = ET.fromstring(resp.text)
-        for link in root.iter("link"):
-            if link.attrib.get("format") == "pdf":
-                ftp_url = link.attrib.get("href", "")
-                # Convert FTP to HTTPS
-                https_url = ftp_url.replace(
-                    "ftp://ftp.ncbi.nlm.nih.gov", "https://ftp.ncbi.nlm.nih.gov"
-                )
-                return https_url
-    except Exception:
-        pass
-    return None
+    return result
 
 
 def fetch_guidelines_list() -> list[dict]:
@@ -266,15 +255,18 @@ def fetch_guideline_detail(guideline: dict) -> dict:
                 journal_urls.append(href)
     detail["journal_urls"] = journal_urls
 
-    # PMC open-access PDF — resolve DOI → PMCID → free PDF URL
-    detail["pmc_pdf_url"] = None
+    # Unpaywall open-access lookup
+    detail["is_oa"] = False
+    detail["oa_url"] = None
+    detail["oa_download_url"] = None
     if doi:
-        pmcid = doi_to_pmcid(doi)
-        if pmcid:
-            detail["pmcid"] = pmcid
-            detail["pmc_pdf_url"] = pmc_pdf_url(pmcid)
-            if detail["pmc_pdf_url"]:
-                print(f"  PMC full-text available: {pmcid}")
+        oa = unpaywall_lookup(doi)
+        detail["is_oa"] = oa["is_oa"]
+        detail["oa_url"] = oa["oa_url"]
+        detail["oa_download_url"] = oa["download_url"]
+        if oa["is_oa"]:
+            status = "downloadable" if oa["download_url"] else "browser-only"
+            print(f"  Open access ({status}): {oa['oa_url']}")
 
     # Lead authors — look for common patterns
     authors = None
@@ -420,13 +412,17 @@ def generate_report(
         lines.append("")
 
     # --- Full table ---
+    oa_count = sum(1 for g in guidelines if g.get("is_oa"))
     lines += [
+        "",
+        f"**Open-access full text available:** {oa_count} of {total}  ",
+        "",
         "---",
         "",
         "## All Guidelines",
         "",
-        "| Title | Year | Status | DOI | Full Text | PDFs |",
-        "|-------|------|--------|-----|-----------|------|",
+        "| Title | Year | Status | DOI | Free PDF |  Supp. Files |",
+        "|-------|------|--------|-----|----------|--------------|",
     ]
 
     sorted_guidelines = sorted(
@@ -440,11 +436,11 @@ def generate_report(
         status = g.get("status", "Unknown")
         doi = g.get("doi", "")
         doi_cell = f"[DOI]({doi})" if doi else "—"
-        pmcid = g.get("pmcid", "")
-        pmc_cell = f"[PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/{pmcid}/)" if pmcid else "—"
+        oa_url = g.get("oa_url")
+        oa_cell = f"[PDF]({oa_url})" if oa_url else "—"
         pdf_count = len(g.get("pdfs_downloaded", []))
         pdf_cell = str(pdf_count) if pdf_count else "—"
-        lines.append(f"| {title} | {year} | {status} | {doi_cell} | {pmc_cell} | {pdf_cell} |")
+        lines.append(f"| {title} | {year} | {status} | {doi_cell} | {oa_cell} | {pdf_cell} |")
 
     lines.append("")
     return "\n".join(lines)
@@ -550,13 +546,13 @@ def main():
                 already_downloaded_urls.add(pdf_url)
                 time.sleep(REQUEST_DELAY)
 
-        # PMC open-access full-text PDF
-        pmc_url = detail.get("pmc_pdf_url")
-        if pmc_url:
-            dest = download_pdf(pmc_url, detail.get("year"), f"{slug}-fulltext", already_downloaded_urls)
+        # Open-access full-text PDF (repository-hosted, auto-downloadable)
+        oa_url = detail.get("oa_download_url")
+        if oa_url:
+            dest = download_pdf(oa_url, detail.get("year"), f"{slug}-fulltext", already_downloaded_urls)
             if dest:
-                newly_downloaded.append(pmc_url)
-                already_downloaded_urls.add(pmc_url)
+                newly_downloaded.append(oa_url)
+                already_downloaded_urls.add(oa_url)
                 time.sleep(REQUEST_DELAY)
 
         if newly_downloaded:
