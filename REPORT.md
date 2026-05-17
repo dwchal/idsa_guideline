@@ -1,14 +1,14 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-05-17 23:00 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-05-17 23:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
 ## Summary Statistics
 
-**Total guidelines tracked:** 110  
+**Total guidelines tracked:** 109  
 **Total PDFs downloaded:** 151  
-**Previous run:** 2026-05-17T22:57:36.612062+00:00  
+**Previous run:** 2026-05-17T23:00:54.543235+00:00  
 
 ### Guidelines Published per Year
 
@@ -38,7 +38,6 @@ _Last updated: 2026-05-17 23:00 UTC — auto-generated daily by [scraper.py](scr
 | 2005 | 1 |
 | 2004 | 1 |
 | 2003 | 1 |
-| Unknown | 1 |
 
 ### Status Breakdown
 
@@ -46,7 +45,7 @@ _Last updated: 2026-05-17 23:00 UTC — auto-generated daily by [scraper.py](scr
 - **Archived:** 28
 - **Endorsed:** 37
 - **In Development:** 5
-- **Unknown:** 5
+- **Unknown:** 4
 
 ---
 
@@ -169,4 +168,3 @@ _No changes since last run._
 | Control of Tuberculosis in the United States | 2005 | Endorsed | — | — |
 | Bacterial Meningitis | 2004 | Archived | [DOI](https://doi.org/10.1086/425368) | — |
 | Management of Dyslipidemia in Adults Receiving ART | 2003 | Archived | [DOI](https://doi.org/10.1086/378131) | — |
-| Looking for Practice Guidelines? | None | Unknown | — | — |

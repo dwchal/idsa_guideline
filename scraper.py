@@ -110,6 +110,7 @@ def fetch_guidelines_list() -> list[dict]:
             "guidelines", "search all guidelines", "practice guidelines library",
             "a-z guideline listing", "view all practice guidelines",
             "all guidelines", "practice guidelines",
+            "looking for practice guidelines?",
         }
         if title.lower() in nav_titles:
             continue
