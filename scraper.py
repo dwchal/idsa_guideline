@@ -106,7 +106,11 @@ def fetch_guidelines_list() -> list[dict]:
                         status_tags.append(status)
 
         # Filter out nav/utility links that aren't actual guidelines
-        nav_titles = {"guidelines", "search all guidelines", "practice guidelines library"}
+        nav_titles = {
+            "guidelines", "search all guidelines", "practice guidelines library",
+            "a-z guideline listing", "view all practice guidelines",
+            "all guidelines", "practice guidelines",
+        }
         if title.lower() in nav_titles:
             continue
 
@@ -226,12 +230,16 @@ def slugify(text: str) -> str:
     return text.strip("-")[:80]
 
 
-def download_pdf(url: str, year: int | None, slug: str) -> Path | None:
-    """Download a PDF to pdfs/<year>/<slug>.pdf. Returns path or None if skipped."""
+def download_pdf(
+    url: str, year: int | None, slug: str, already_downloaded_urls: set[str]
+) -> Path | None:
+    """Download a PDF to pdfs/<year>/<filename>. Returns path or None if skipped."""
+    if url in already_downloaded_urls:
+        return None  # already tracked in state
+
     year_dir = PDFS_DIR / str(year if year else "unknown")
     year_dir.mkdir(parents=True, exist_ok=True)
 
-    # Use the URL filename as base, fall back to slug
     url_path = urlparse(url).path
     filename = Path(url_path).name or f"{slug}.pdf"
     if not filename.endswith(".pdf"):
@@ -239,7 +247,7 @@ def download_pdf(url: str, year: int | None, slug: str) -> Path | None:
 
     dest = year_dir / filename
     if dest.exists():
-        return None  # already downloaded
+        return dest  # file exists but URL not in state — re-register it
 
     print(f"  Downloading PDF: {filename}")
     resp = make_request(url)
@@ -288,6 +296,7 @@ def generate_report(
             status_counter[s.strip()] += 1
 
     total = len(guidelines)
+    # pdfs_downloaded stores URLs of downloaded files
     total_pdfs = sum(len(g.get("pdfs_downloaded", [])) for g in guidelines)
 
     # --- Build report ---
@@ -456,15 +465,18 @@ def main():
             detail["first_seen"] = existing.get("first_seen")
 
         detail["last_updated"] = datetime.now().date().isoformat()
+        # pdfs_downloaded tracks URLs (not paths) to avoid re-downloading on year change
         detail["pdfs_downloaded"] = existing.get("pdfs_downloaded", [])
+        already_downloaded_urls = set(detail["pdfs_downloaded"])
 
         # 3. Download freely available PDFs
         newly_downloaded = []
         for pdf_url in detail.get("idsa_pdf_urls", []):
             slug = slugify(detail["title"])
-            dest = download_pdf(pdf_url, detail.get("year"), slug)
+            dest = download_pdf(pdf_url, detail.get("year"), slug, already_downloaded_urls)
             if dest:
-                newly_downloaded.append(str(dest))
+                newly_downloaded.append(pdf_url)
+                already_downloaded_urls.add(pdf_url)
                 time.sleep(REQUEST_DELAY)
 
         if newly_downloaded:
