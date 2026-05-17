@@ -1,32 +1,32 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-05-17 22:44 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-05-17 23:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
 ## Summary Statistics
 
-**Total guidelines tracked:** 111  
+**Total guidelines tracked:** 109  
 **Total PDFs downloaded:** 151  
-**Previous run:** N/A  
+**Previous run:** 2026-05-17T23:00:54.543235+00:00  
 
 ### Guidelines Published per Year
 
 | Year | Count |
 |------|-------|
 | 2026 | 6 |
-| 2025 | 9 |
-| 2024 | 9 |
+| 2025 | 10 |
+| 2024 | 10 |
 | 2023 | 7 |
 | 2022 | 3 |
 | 2021 | 5 |
 | 2020 | 8 |
-| 2019 | 5 |
+| 2019 | 6 |
 | 2018 | 7 |
 | 2017 | 5 |
 | 2016 | 7 |
 | 2015 | 3 |
-| 2014 | 1 |
+| 2014 | 2 |
 | 2013 | 2 |
 | 2012 | 3 |
 | 2011 | 5 |
@@ -38,7 +38,6 @@ _Last updated: 2026-05-17 22:44 UTC — auto-generated daily by [scraper.py](scr
 | 2005 | 1 |
 | 2004 | 1 |
 | 2003 | 1 |
-| Unknown | 6 |
 
 ### Status Breakdown
 
@@ -46,124 +45,13 @@ _Last updated: 2026-05-17 22:44 UTC — auto-generated daily by [scraper.py](scr
 - **Archived:** 28
 - **Endorsed:** 37
 - **In Development:** 5
-- **Unknown:** 6
+- **Unknown:** 4
 
 ---
 
 ## Recent Changes
 
-### New Guidelines
-- **Guidelines** (None)
-- **Search All Guidelines** (None)
-- **AMR Guidance** (None)
-- **Community-Acquired Pneumonia in Adults** (None)
-- **Complicated Urinary Tract Infections** (None)
-- **Skin and Soft Tissue Infections** (None)
-- **Acute Bacterial Arthritis in Pediatrics** (2023)
-- **Acute Hematogenous Osteomyelitis in Pediatrics** (2021)
-- **Antimicrobial Prophylaxis for Adult Patients with Cancer-Related Immunosuppression** (2018)
-- **Antimicrobial Prophylaxis in Surgery** (2013)
-- **Antimicrobial Stewardship** (2007)
-- **Aspergillosis** (2016)
-- **Asymptomatic Bacteriuria** (2019)
-- **Babesiosis** (2020)
-- **Bacterial Meningitis** (2004)
-- **Blastomycosis** (2008)
-- **Candidiasis** (2015)
-- **Cardiovascular Implantable Electronic Device Lead Management and Extraction** (2017)
-- **Cardiovascular Infection** (2024)
-- **Catheter-Associated Urinary Tract Infection** (2010)
-- **Childhood and Adolescent Immunization Schedule: United States 2026 Policy Statement** (2026)
-- **Chronic Kidney Disease in HIV** (2014)
-- **Clostridioides difficile 2021 Focused Update** (2021)
-- **Clostridioides difficile Prevention** (2018)
-- **Clostridium difficile** (2018)
-- **Coccidioidomycosis** (2016)
-- **Combat-Related Infections** (2011)
-- **Community-Acquired Pneumonia in Infants and Children** (2026)
-- **Community-Acquired Pneumonia in Infants and Children** (2011)
-- **Control of Tuberculosis in the United States** (2005)
-- **COVID-19 Guideline Part 1: Treatment and Management** (2025)
-- **COVID-19 Guideline Part 2: Infection Prevention** (2021)
-- **COVID-19 Guideline Part 3: Molecular Diagnostic Testing** (2023)
-- **COVID-19 Guideline Part 4: Serology** (2024)
-- **COVID-19 Guideline Part 5: Antigen Testing** (2022)
-- **Cryptococcal Disease** (2010)
-- **Cryptococcosis** (2024)
-- **Dental Procedures** (2024)
-- **Diabetic Foot Infections** (2023)
-- **Diagnosis of Tuberculosis in Adults and Children** (2016)
-- **Encephalitis** (2008)
-- **Endocarditis Management** (2015)
-- **Fever and Infection in Long-term Care Facilities** (2009)
-- **Fever and Neutropenia in Adults with Cancer** (2018)
-- **Group A Streptococcal Pharyngitis** (2012)
-- **Group A Streptococcal Pharyngitis** (2025)
-- **HCV Guidance** (2023)
-- **Healthcare Facility Infection Prevention and Control Programs** (2025)
-- **Healthcare Personnel Living with Hepatitis B, Hepatitis C, or Human Immunodeficiency Virus** (2020)
-- **Healthcare-Associated Ventriculitis and Meningitis** (2017)
-- **Hepatitis B** (2025)
-- **Hepatitis B** (2009)
-- **Histoplasmosis** (2025)
-- **Histoplasmosis** (2007)
-- **HIV Chronic Pain Management** (2017)
-- **Hospital-Acquired and Ventilator-Associated Pneumonia** (2016)
-- **Immunization of Infants, Children, Adolescents, and Adults** (2009)
-- **Immunomodulators** (2009)
-- **Implementing an ASP** (2016)
-- **Infection Prevention and Control in Nursing Homes** (2025)
-- **Infectious Diarrhea** (2017)
-- **Influenza** (2018)
-- **Intra-abdominal Infections** (2010)
-- **Intra-abdominal Infections** (2024)
-- **IV Catheter** (2009)
-- **Knowledge and Skills Required for Antimicrobial Stewardship Leaders** (2026)
-- **Laboratory Diagnosis of Infectious Diseases** (2024)
-- **Leishmaniasis** (2016)
-- **Lyme Disease** (2020)
-- **Management of Dyslipidemia in Adults Receiving ART** (2003)
-- **Maternal Immunizations** (2026)
-- **Nervous System Lyme Disease** (2007)
-- **Neurocysticercosis** (2018)
-- **Neutropenic Patients with Cancer** (2011)
-- **New Fever in Critically Ill Patients** (2023)
-- **Nontuberculous Mycobacterial Diseases** (2020)
-- **Opportunistic Infections Among Hematopoietic Stem Cell Transplant Recipients** (2009)
-- **Outbreak Response Training Program** (2017)
-- **Outpatient Parenteral Antimicrobial Therapy** (2018)
-- **Periprosthetic Joint Infections** (2019)
-- **Prevention and Treatment of Opportunistic Infections Among Adults and Adolescents** (2020)
-- **Prevention and Treatment of Opportunistic Infections Among Children With HIV** (2019)
-- **Prevention of Catheter-related Infections** (2011)
-- **Prevention of Infective Endocarditis** (2007)
-- **Prevention of Surgical Site Infections After Major Extremity Trauma** (2022)
-- **Primary Care Guidance for Persons With HIV** (2024)
-- **Prolonged-Infusion Beta-Lactams** (2023)
-- **Prosthetic Joint Infection** (2012)
-- **Reliability of Nonlocalizing Signs and Symptoms as Indicators of the Presence of Infection in Nursing-Home Residents** (2020)
-- **Rhinosinusitis** (2012)
-- **Seasonal RTI Vaccinations in Immunocompromised Patients** (2025)
-- **Sporotrichosis** (2007)
-- **Staphylococcus aureus Bacteremia** (2025)
-- **Staphylococcus aureus Disease Prevention** (2020)
-- **Sterilization and High-Level Disinfection** (2025)
-- **Stewardship During Public Health Emergencies** (2022)
-- **Strategies to Prevent Healthcare-Associated Infections** (2023)
-- **Surviving Sepsis Campaign Adult Guidelines 2021** (2021)
-- **Surviving Sepsis Campaign Adult Guidelines 2026** (2026)
-- **Surviving Sepsis Campaign Children Guidelines 2026** (2026)
-- **Suspected Sepsis Report** (2021)
-- **Tonsillectomy in Children** (2019)
-- **Travel Medicine** (2006)
-- **Treatment of Drug-Resistant and Drug-Susceptible TB** (2024)
-- **Treatment of Drug-Resistant TB** (2019)
-- **Treatment of Drug-Susceptible TB** (2016)
-- **Tuberculosis in Community Settings** (2024)
-- **Uncomplicated Cystitis and Pyelonephritis (UTI)** (2011)
-- **Vaccination of the Immunocompromised Host** (2013)
-- **Vancomycin** (2020)
-- **Vertebral Osteomyelitis** (2015)
+_No changes since last run._
 
 ---
 
@@ -178,6 +66,7 @@ _Last updated: 2026-05-17 22:44 UTC — auto-generated daily by [scraper.py](scr
 | Surviving Sepsis Campaign Adult Guidelines 2026 | 2026 | Current, Endorsed | — | — |
 | Surviving Sepsis Campaign Children Guidelines 2026 | 2026 | Current, Endorsed | — | — |
 | COVID-19 Guideline Part 1: Treatment and Management | 2025 | Current | [DOI](https://doi.org/10.1093/cid/ciaf424) | 87 |
+| Complicated Urinary Tract Infections | 2025 | Unknown | — | 19 |
 | Group A Streptococcal Pharyngitis | 2025 | Current | [DOI](https://doi.org/10.1093/cid/ciaf668) | 2 |
 | Healthcare Facility Infection Prevention and Control Programs | 2025 | Endorsed | [DOI](https://doi.org/10.1017/ice.2025.73) | — |
 | Hepatitis B | 2025 | Current | — | — |
@@ -186,6 +75,7 @@ _Last updated: 2026-05-17 22:44 UTC — auto-generated daily by [scraper.py](scr
 | Seasonal RTI Vaccinations in Immunocompromised Patients | 2025 | Current | — | 3 |
 | Staphylococcus aureus Bacteremia | 2025 | Current, Archived, In Development, Endorsed | — | — |
 | Sterilization and High-Level Disinfection | 2025 | Endorsed | — | — |
+| AMR Guidance | 2024 | Unknown | [DOI](https://doi.org/10.1093/cid/ciae403) | — |
 | COVID-19 Guideline Part 4: Serology | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae121) | 3 |
 | Cardiovascular Infection | 2024 | Endorsed | [DOI](https://doi.org/10.1093/cid/ciae046) | — |
 | Cryptococcosis | 2024 | Endorsed | [DOI](https://doi.org/10.1016/S1473-3099(23)00731-4) | — |
@@ -219,6 +109,7 @@ _Last updated: 2026-05-17 22:44 UTC — auto-generated daily by [scraper.py](scr
 | Staphylococcus aureus Disease Prevention | 2020 | Endorsed | [DOI](https://doi.org/10.1017/ice.2020.51) | — |
 | Vancomycin | 2020 | Current | [DOI](https://doi.org/10.1093/ajhp/zxaa036) | — |
 | Asymptomatic Bacteriuria | 2019 | Current | [DOI](https://doi.org/10.1093/cid/ciy1121) | — |
+| Community-Acquired Pneumonia in Adults | 2019 | Unknown | — | 4 |
 | Periprosthetic Joint Infections | 2019 | Endorsed | — | 1 |
 | Prevention and Treatment of Opportunistic Infections Among Children With HIV | 2019 | Endorsed | — | — |
 | Tonsillectomy in Children | 2019 | Endorsed | [DOI](https://doi.org/10.1177/0194599818801757) | — |
@@ -246,6 +137,7 @@ _Last updated: 2026-05-17 22:44 UTC — auto-generated daily by [scraper.py](scr
 | Endocarditis Management | 2015 | Endorsed | — | — |
 | Vertebral Osteomyelitis | 2015 | Current | [DOI](https://doi.org/10.1093/cid/civ482) | — |
 | Chronic Kidney Disease in HIV | 2014 | Current | [DOI](https://doi.org/10.1093/cid/ciu617) | — |
+| Skin and Soft Tissue Infections | 2014 | Unknown | [DOI](https://doi.org/10.1093/cid/ciu296) | — |
 | Antimicrobial Prophylaxis in Surgery | 2013 | Archived, In Development | [DOI](https://doi.org/10.2146/ajhp120568) | — |
 | Vaccination of the Immunocompromised Host | 2013 | Archived | [DOI](https://doi.org/10.1093/cid/cit684) | — |
 | Group A Streptococcal Pharyngitis | 2012 | Archived | [DOI](https://doi.org/10.1093/cid/cis629) | — |
@@ -276,9 +168,3 @@ _Last updated: 2026-05-17 22:44 UTC — auto-generated daily by [scraper.py](scr
 | Control of Tuberculosis in the United States | 2005 | Endorsed | — | — |
 | Bacterial Meningitis | 2004 | Archived | [DOI](https://doi.org/10.1086/425368) | — |
 | Management of Dyslipidemia in Adults Receiving ART | 2003 | Archived | [DOI](https://doi.org/10.1086/378131) | — |
-| AMR Guidance | None | Unknown | [DOI](https://doi.org/10.1093/cid/ciae403) | — |
-| Community-Acquired Pneumonia in Adults | None | Unknown | — | 4 |
-| Complicated Urinary Tract Infections | None | Unknown | — | 19 |
-| Guidelines | None | Unknown | — | — |
-| Search All Guidelines | None | Unknown | — | — |
-| Skin and Soft Tissue Infections | None | Unknown | [DOI](https://doi.org/10.1093/cid/ciu296) | — |

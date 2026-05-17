@@ -49,6 +49,51 @@ def make_request(url: str, retries: int = 3) -> requests.Response | None:
     return None
 
 
+UNPAYWALL_EMAIL = "doug@challener.net"
+# Publishers that block automated PDF downloads even for OA articles
+BLOCKED_HOSTS = {"academic.oup.com", "pmc.ncbi.nlm.nih.gov", "www.ncbi.nlm.nih.gov"}
+
+
+def unpaywall_lookup(doi: str) -> dict:
+    """Query Unpaywall for open-access status and best free PDF URL.
+
+    Returns a dict with keys:
+      is_oa        - bool
+      oa_url       - best landing page or PDF URL for humans to click (may be None)
+      download_url - a PDF URL we can actually auto-download (non-blocked host), or None
+    """
+    doi_clean = re.sub(r"^https?://doi\.org/", "", doi)
+    result = {"is_oa": False, "oa_url": None, "download_url": None}
+    try:
+        resp = requests.get(
+            f"https://api.unpaywall.org/v2/{doi_clean}",
+            params={"email": UNPAYWALL_EMAIL},
+            headers=HEADERS,
+            timeout=15,
+        )
+        if resp.status_code != 200:
+            return result
+        data = resp.json()
+        result["is_oa"] = data.get("is_oa", False)
+
+        # Walk all OA locations: prefer one we can auto-download
+        for loc in data.get("oa_locations", []):
+            pdf_url = loc.get("url_for_pdf")
+            if not pdf_url:
+                continue
+            host = urlparse(pdf_url).hostname or ""
+            # Record the first PDF URL as the human-clickable link
+            if not result["oa_url"]:
+                result["oa_url"] = pdf_url
+            # Only auto-download from unblocked hosts (e.g. institutional repos)
+            if host not in BLOCKED_HOSTS and not result["download_url"]:
+                result["download_url"] = pdf_url
+
+    except Exception:
+        pass
+    return result
+
+
 def fetch_guidelines_list() -> list[dict]:
     """Scrape the main IDSA guidelines listing page."""
     print(f"Fetching guidelines list from {LISTING_URL}")
@@ -104,6 +149,16 @@ def fetch_guidelines_list() -> list[dict]:
                 for status in ("Current", "Archived", "In Development", "Endorsed"):
                     if status in badge_text and status not in status_tags:
                         status_tags.append(status)
+
+        # Filter out nav/utility links that aren't actual guidelines
+        nav_titles = {
+            "guidelines", "search all guidelines", "practice guidelines library",
+            "a-z guideline listing", "view all practice guidelines",
+            "all guidelines", "practice guidelines",
+            "looking for practice guidelines?",
+        }
+        if title.lower() in nav_titles:
+            continue
 
         # Deduplicate by href (same page linked multiple times)
         if any(g["detail_url"] == href for g in guidelines):
@@ -172,6 +227,12 @@ def fetch_guideline_detail(guideline: dict) -> dict:
             break
     detail["publication_date"] = pub_date
 
+    # If year wasn't found on listing page, extract it from detail page date
+    if not detail.get("year") and pub_date:
+        year_m = re.search(r"\b(20\d{2})\b", pub_date)
+        if year_m:
+            detail["year"] = int(year_m.group(1))
+
     # PDF links — IDSA-hosted (freely downloadable)
     idsa_pdfs = []
     for a in soup.find_all("a", href=True):
@@ -194,6 +255,19 @@ def fetch_guideline_detail(guideline: dict) -> dict:
                 journal_urls.append(href)
     detail["journal_urls"] = journal_urls
 
+    # Unpaywall open-access lookup
+    detail["is_oa"] = False
+    detail["oa_url"] = None
+    detail["oa_download_url"] = None
+    if doi:
+        oa = unpaywall_lookup(doi)
+        detail["is_oa"] = oa["is_oa"]
+        detail["oa_url"] = oa["oa_url"]
+        detail["oa_download_url"] = oa["download_url"]
+        if oa["is_oa"]:
+            status = "downloadable" if oa["download_url"] else "browser-only"
+            print(f"  Open access ({status}): {oa['oa_url']}")
+
     # Lead authors — look for common patterns
     authors = None
     for tag in soup.find_all(["p", "div", "span"]):
@@ -215,12 +289,16 @@ def slugify(text: str) -> str:
     return text.strip("-")[:80]
 
 
-def download_pdf(url: str, year: int | None, slug: str) -> Path | None:
-    """Download a PDF to pdfs/<year>/<slug>.pdf. Returns path or None if skipped."""
+def download_pdf(
+    url: str, year: int | None, slug: str, already_downloaded_urls: set[str]
+) -> Path | None:
+    """Download a PDF to pdfs/<year>/<filename>. Returns path or None if skipped."""
+    if url in already_downloaded_urls:
+        return None  # already tracked in state
+
     year_dir = PDFS_DIR / str(year if year else "unknown")
     year_dir.mkdir(parents=True, exist_ok=True)
 
-    # Use the URL filename as base, fall back to slug
     url_path = urlparse(url).path
     filename = Path(url_path).name or f"{slug}.pdf"
     if not filename.endswith(".pdf"):
@@ -228,7 +306,7 @@ def download_pdf(url: str, year: int | None, slug: str) -> Path | None:
 
     dest = year_dir / filename
     if dest.exists():
-        return None  # already downloaded
+        return dest  # file exists but URL not in state — re-register it
 
     print(f"  Downloading PDF: {filename}")
     resp = make_request(url)
@@ -277,6 +355,7 @@ def generate_report(
             status_counter[s.strip()] += 1
 
     total = len(guidelines)
+    # pdfs_downloaded stores URLs of downloaded files
     total_pdfs = sum(len(g.get("pdfs_downloaded", [])) for g in guidelines)
 
     # --- Build report ---
@@ -333,13 +412,17 @@ def generate_report(
         lines.append("")
 
     # --- Full table ---
+    oa_count = sum(1 for g in guidelines if g.get("is_oa"))
     lines += [
+        "",
+        f"**Open-access full text available:** {oa_count} of {total}  ",
+        "",
         "---",
         "",
         "## All Guidelines",
         "",
-        "| Title | Year | Status | DOI | PDFs |",
-        "|-------|------|--------|-----|------|",
+        "| Title | Year | Status | DOI | Free PDF |  Supp. Files |",
+        "|-------|------|--------|-----|----------|--------------|",
     ]
 
     sorted_guidelines = sorted(
@@ -353,9 +436,11 @@ def generate_report(
         status = g.get("status", "Unknown")
         doi = g.get("doi", "")
         doi_cell = f"[DOI]({doi})" if doi else "—"
+        oa_url = g.get("oa_url")
+        oa_cell = f"[PDF]({oa_url})" if oa_url else "—"
         pdf_count = len(g.get("pdfs_downloaded", []))
         pdf_cell = str(pdf_count) if pdf_count else "—"
-        lines.append(f"| {title} | {year} | {status} | {doi_cell} | {pdf_cell} |")
+        lines.append(f"| {title} | {year} | {status} | {doi_cell} | {oa_cell} | {pdf_cell} |")
 
     lines.append("")
     return "\n".join(lines)
@@ -445,15 +530,29 @@ def main():
             detail["first_seen"] = existing.get("first_seen")
 
         detail["last_updated"] = datetime.now().date().isoformat()
+        # pdfs_downloaded tracks URLs (not paths) to avoid re-downloading on year change
         detail["pdfs_downloaded"] = existing.get("pdfs_downloaded", [])
+        already_downloaded_urls = set(detail["pdfs_downloaded"])
 
         # 3. Download freely available PDFs
         newly_downloaded = []
+        slug = slugify(detail["title"])
+
+        # IDSA-hosted supplementary PDFs
         for pdf_url in detail.get("idsa_pdf_urls", []):
-            slug = slugify(detail["title"])
-            dest = download_pdf(pdf_url, detail.get("year"), slug)
+            dest = download_pdf(pdf_url, detail.get("year"), slug, already_downloaded_urls)
             if dest:
-                newly_downloaded.append(str(dest))
+                newly_downloaded.append(pdf_url)
+                already_downloaded_urls.add(pdf_url)
+                time.sleep(REQUEST_DELAY)
+
+        # Open-access full-text PDF (repository-hosted, auto-downloadable)
+        oa_url = detail.get("oa_download_url")
+        if oa_url:
+            dest = download_pdf(oa_url, detail.get("year"), f"{slug}-fulltext", already_downloaded_urls)
+            if dest:
+                newly_downloaded.append(oa_url)
+                already_downloaded_urls.add(oa_url)
                 time.sleep(REQUEST_DELAY)
 
         if newly_downloaded:
