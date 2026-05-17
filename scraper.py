@@ -10,6 +10,7 @@ import re
 import subprocess
 import sys
 import time
+import xml.etree.ElementTree as ET
 from collections import Counter, defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
@@ -46,6 +47,61 @@ def make_request(url: str, retries: int = 3) -> requests.Response | None:
                 time.sleep(wait)
             else:
                 print(f"  Failed after {retries} attempts: {url} — {e}")
+    return None
+
+
+PMC_IDCONV_URL = "https://www.ncbi.nlm.nih.gov/pmc/utils/idconv/v1.0/"
+PMC_OA_URL = "https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi"
+PMC_HEADERS = {
+    "User-Agent": (
+        "IDSAGuidelineScraper/1.0 "
+        "(automated research tool; https://github.com/dwchal/idsa_guideline)"
+    )
+}
+
+
+def doi_to_pmcid(doi: str) -> str | None:
+    """Convert a DOI to a PubMed Central ID using the NCBI ID Converter API."""
+    # Strip URL prefix if present
+    doi_clean = re.sub(r"^https?://doi\.org/", "", doi)
+    try:
+        resp = requests.get(
+            PMC_IDCONV_URL,
+            params={"ids": doi_clean, "format": "json", "tool": "IDSAScraper"},
+            headers=PMC_HEADERS,
+            timeout=15,
+        )
+        resp.raise_for_status()
+        data = resp.json()
+        records = data.get("records", [])
+        if records and "pmcid" in records[0]:
+            return records[0]["pmcid"]
+    except Exception:
+        pass
+    return None
+
+
+def pmc_pdf_url(pmcid: str) -> str | None:
+    """Check PMC Open Access API for a free PDF download URL."""
+    try:
+        resp = requests.get(
+            PMC_OA_URL,
+            params={"id": pmcid},
+            headers=PMC_HEADERS,
+            timeout=15,
+        )
+        resp.raise_for_status()
+        root = ET.fromstring(resp.text)
+        for link in root.iter("link"):
+            if link.attrib.get("format") == "pdf":
+                ftp_url = link.attrib.get("href", "")
+                # Convert FTP to HTTPS
+                https_url = ftp_url.replace(
+                    "ftp://ftp.ncbi.nlm.nih.gov", "https://ftp.ncbi.nlm.nih.gov"
+                )
+                return https_url
+    except Exception:
+        pass
     return None
 
 
@@ -210,6 +266,16 @@ def fetch_guideline_detail(guideline: dict) -> dict:
                 journal_urls.append(href)
     detail["journal_urls"] = journal_urls
 
+    # PMC open-access PDF — resolve DOI → PMCID → free PDF URL
+    detail["pmc_pdf_url"] = None
+    if doi:
+        pmcid = doi_to_pmcid(doi)
+        if pmcid:
+            detail["pmcid"] = pmcid
+            detail["pmc_pdf_url"] = pmc_pdf_url(pmcid)
+            if detail["pmc_pdf_url"]:
+                print(f"  PMC full-text available: {pmcid}")
+
     # Lead authors — look for common patterns
     authors = None
     for tag in soup.find_all(["p", "div", "span"]):
@@ -359,8 +425,8 @@ def generate_report(
         "",
         "## All Guidelines",
         "",
-        "| Title | Year | Status | DOI | PDFs |",
-        "|-------|------|--------|-----|------|",
+        "| Title | Year | Status | DOI | Full Text | PDFs |",
+        "|-------|------|--------|-----|-----------|------|",
     ]
 
     sorted_guidelines = sorted(
@@ -374,9 +440,11 @@ def generate_report(
         status = g.get("status", "Unknown")
         doi = g.get("doi", "")
         doi_cell = f"[DOI]({doi})" if doi else "—"
+        pmcid = g.get("pmcid", "")
+        pmc_cell = f"[PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/{pmcid}/)" if pmcid else "—"
         pdf_count = len(g.get("pdfs_downloaded", []))
         pdf_cell = str(pdf_count) if pdf_count else "—"
-        lines.append(f"| {title} | {year} | {status} | {doi_cell} | {pdf_cell} |")
+        lines.append(f"| {title} | {year} | {status} | {doi_cell} | {pmc_cell} | {pdf_cell} |")
 
     lines.append("")
     return "\n".join(lines)
@@ -472,12 +540,23 @@ def main():
 
         # 3. Download freely available PDFs
         newly_downloaded = []
+        slug = slugify(detail["title"])
+
+        # IDSA-hosted supplementary PDFs
         for pdf_url in detail.get("idsa_pdf_urls", []):
-            slug = slugify(detail["title"])
             dest = download_pdf(pdf_url, detail.get("year"), slug, already_downloaded_urls)
             if dest:
                 newly_downloaded.append(pdf_url)
                 already_downloaded_urls.add(pdf_url)
+                time.sleep(REQUEST_DELAY)
+
+        # PMC open-access full-text PDF
+        pmc_url = detail.get("pmc_pdf_url")
+        if pmc_url:
+            dest = download_pdf(pmc_url, detail.get("year"), f"{slug}-fulltext", already_downloaded_urls)
+            if dest:
+                newly_downloaded.append(pmc_url)
+                already_downloaded_urls.add(pmc_url)
                 time.sleep(REQUEST_DELAY)
 
         if newly_downloaded:
