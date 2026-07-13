@@ -454,20 +454,14 @@ def generate_report(
 
 
 def git_commit_and_push(message: str):
-    """Commit REPORT.md if changed and push to remote."""
-    # Check if there are changes to REPORT.md
-    result = subprocess.run(
-        ["git", "diff", "--quiet", "HEAD", "--", "REPORT.md"],
-        capture_output=True,
-    )
-    # exit code 1 = there are differences; also handle untracked files
+    """Commit REPORT.md and any new/changed PDFs, then push to remote."""
     status = subprocess.run(
-        ["git", "status", "--porcelain", "REPORT.md"],
+        ["git", "status", "--porcelain", "REPORT.md", "pdfs/"],
         capture_output=True,
         text=True,
     )
     if not status.stdout.strip():
-        print("REPORT.md unchanged — skipping commit")
+        print("Nothing changed — skipping commit")
         return
 
     branch = subprocess.run(
@@ -477,7 +471,7 @@ def git_commit_and_push(message: str):
     ).stdout.strip()
 
     cmds = [
-        ["git", "add", "REPORT.md", ".gitignore", "requirements.txt", "scraper.py"],
+        ["git", "add", "REPORT.md", ".gitignore", "requirements.txt", "scraper.py", "pdfs/"],
         ["git", "commit", "-m", message],
         ["git", "push", "-u", "origin", branch],
     ]
