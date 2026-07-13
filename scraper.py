@@ -5,6 +5,7 @@ Daily script to download new IDSA practice guideline PDFs and update a GitHub
 markdown report with statistics and metadata.
 """
 
+import hashlib
 import json
 import re
 import subprocess
@@ -303,6 +304,12 @@ def download_pdf(
     filename = Path(url_path).name or f"{slug}.pdf"
     if not filename.endswith(".pdf"):
         filename += ".pdf"
+
+    # Some hosts (e.g. Cambridge Core) embed the full article title in the
+    # PDF path, which can exceed the filesystem's 255-byte filename limit.
+    if len(filename.encode()) > 200:
+        url_hash = hashlib.sha1(url.encode()).hexdigest()[:10]
+        filename = f"{slug[:100]}-{url_hash}.pdf"
 
     dest = year_dir / filename
     if dest.exists():
