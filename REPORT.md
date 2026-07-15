@@ -1,14 +1,14 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-07-14 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-07-15 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
 ## Summary Statistics
 
 **Total guidelines tracked:** 111  
-**Total PDFs downloaded:** 165  
-**Previous run:** 2026-07-13T20:14:55.544546+00:00  
+**Total PDFs downloaded:** 166  
+**Previous run:** 2026-07-14T10:04:13.475740+00:00  
 
 ### Guidelines Published per Year
 
@@ -51,7 +51,8 @@ _Last updated: 2026-07-14 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 ## Recent Changes
 
-_No changes since last run._
+### Updated (new PDFs downloaded)
+- **Primary Care Guidance for Persons With HIV** — 1 new PDF(s)
 
 
 **Open-access full text available:** 67 of 111  
@@ -87,7 +88,7 @@ _No changes since last run._
 | Dental Procedures | 2024 | Endorsed | — | — | 1 |
 | Intra-abdominal Infections | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae347) | — | 1 |
 | Laboratory Diagnosis of Infectious Diseases | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae104) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciae104/57262354/ciae104.pdf) | — |
-| Primary Care Guidance for Persons With HIV | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae479) | [PDF](https://escholarship.org/content/qt2595546v/qt2595546v.pdf) | — |
+| Primary Care Guidance for Persons With HIV | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae479) | [PDF](https://escholarship.org/content/qt2595546v/qt2595546v.pdf) | 1 |
 | Treatment of Drug-Resistant and Drug-Susceptible TB | 2024 | Current | [DOI](https://doi.org/10.1164/rccm.202410-2096ST) | [PDF](https://discovery.ucl.ac.uk/id/eprint/10209599/3/Lipman_NCHHSTP_final%20accepted%20document%20Nov%202024.pdf) | 1 |
 | Tuberculosis in Community Settings | 2024 | Endorsed | [DOI](https://doi.org/10.1093/cid/ciae199) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciae199/57262824/ciae199.pdf) | — |
 | Acute Bacterial Arthritis in Pediatrics | 2023 | Current | [DOI](https://doi.org/10.1093/jpids/piad089) | [PDF](https://academic.oup.com/jpids/advance-article-pdf/doi/10.1093/jpids/piad089/52952535/piad089.pdf) | — |
