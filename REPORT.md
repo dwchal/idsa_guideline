@@ -1,6 +1,6 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-07-15 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-07-16 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
@@ -8,7 +8,7 @@ _Last updated: 2026-07-15 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 **Total guidelines tracked:** 111  
 **Total PDFs downloaded:** 166  
-**Previous run:** 2026-07-14T10:04:13.475740+00:00  
+**Previous run:** 2026-07-15T10:04:29.363898+00:00  
 
 ### Guidelines Published per Year
 
@@ -51,8 +51,7 @@ _Last updated: 2026-07-15 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 ## Recent Changes
 
-### Updated (new PDFs downloaded)
-- **Primary Care Guidance for Persons With HIV** — 1 new PDF(s)
+_No changes since last run._
 
 
 **Open-access full text available:** 67 of 111  
