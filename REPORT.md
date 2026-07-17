@@ -1,6 +1,6 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-07-16 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-07-17 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
@@ -8,7 +8,7 @@ _Last updated: 2026-07-16 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 **Total guidelines tracked:** 111  
 **Total PDFs downloaded:** 166  
-**Previous run:** 2026-07-15T10:04:29.363898+00:00  
+**Previous run:** 2026-07-16T10:04:05.480267+00:00  
 
 ### Guidelines Published per Year
 
@@ -83,7 +83,7 @@ _No changes since last run._
 | AMR Guidance | 2024 | Unknown | [DOI](https://doi.org/10.1093/cid/ciae403) | — | — |
 | COVID-19 Guideline Part 4: Serology | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae121) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciae121/56990784/ciae121.pdf) | 3 |
 | Cardiovascular Infection | 2024 | Endorsed | [DOI](https://doi.org/10.1093/cid/ciae046) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciae046/56827414/ciae046.pdf) | — |
-| Cryptococcosis | 2024 | Endorsed | [DOI](https://doi.org/10.1016/S1473-3099(23)00731-4) | — | — |
+| Cryptococcosis | 2024 | Endorsed | [DOI](https://doi.org/10.1016/S1473-3099(23)00731-4) | [PDF](https://pmc.ncbi.nlm.nih.gov/articles/PMC11526416/pdf/nihms-2026967.pdf) | — |
 | Dental Procedures | 2024 | Endorsed | — | — | 1 |
 | Intra-abdominal Infections | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae347) | — | 1 |
 | Laboratory Diagnosis of Infectious Diseases | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae104) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciae104/57262354/ciae104.pdf) | — |
