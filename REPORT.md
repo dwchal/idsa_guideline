@@ -1,6 +1,6 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-07-21 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-07-22 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
@@ -8,7 +8,7 @@ _Last updated: 2026-07-21 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 **Total guidelines tracked:** 111  
 **Total PDFs downloaded:** 166  
-**Previous run:** 2026-07-20T10:04:06.158735+00:00  
+**Previous run:** 2026-07-21T10:04:10.057629+00:00  
 
 ### Guidelines Published per Year
 
@@ -54,7 +54,7 @@ _Last updated: 2026-07-21 10:04 UTC — auto-generated daily by [scraper.py](scr
 _No changes since last run._
 
 
-**Open-access full text available:** 67 of 111  
+**Open-access full text available:** 66 of 111  
 
 ---
 
@@ -99,7 +99,7 @@ _No changes since last run._
 | Strategies to Prevent Healthcare-Associated Infections | 2023 | Endorsed | [DOI](https://doi.org/10.1017/ice.2022.88) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A2124BA9B088027AE30BE46C28887084/S0899823X22000885a.pdf/div-class-title-strategies-to-prevent-ventilator-associated-pneumonia-ventilator-associated-events-and-nonventilator-hospital-acquired-pneumonia-in-acute-care-hospitals-2022-update-div.pdf) | 1 |
 | COVID-19 Guideline Part 5: Antigen Testing | 2022 | Current | [DOI](https://doi.org/10.1093/cid/ciad032) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciad032/48909309/ciad032.pdf) | 4 |
 | Prevention of Surgical Site Infections After Major Extremity Trauma | 2022 | Endorsed | — | — | 2 |
-| Stewardship During Public Health Emergencies | 2022 | Endorsed | [DOI](https://doi.org/10.1017/ice.2022.194) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C38220B116C139D007872C85A19968EA/S0899823X22001945a.pdf/div-class-title-shea-statement-on-antibiotic-stewardship-in-hospitals-during-public-health-emergencies-div.pdf) | 1 |
+| Stewardship During Public Health Emergencies | 2022 | Endorsed | [DOI](https://doi.org/10.1017/ice.2022.194) | — | 1 |
 | Acute Hematogenous Osteomyelitis in Pediatrics | 2021 | Current | [DOI](https://doi.org/10.1093/jpids/piab027) | — | — |
 | COVID-19 Guideline Part 2: Infection Prevention | 2021 | Current | [DOI](https://doi.org/10.1093/cid/ciab953) | — | 2 |
 | Clostridioides difficile 2021 Focused Update | 2021 | Current | [DOI](https://doi.org/10.1093/cid/ciab549) | [PDF](https://academic.oup.com/cid/article-pdf/73/5/e1029/40326165/ciab549.pdf) | — |
