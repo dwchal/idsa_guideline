@@ -1,20 +1,20 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-07-23 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-07-24 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
 ## Summary Statistics
 
-**Total guidelines tracked:** 111  
+**Total guidelines tracked:** 112  
 **Total PDFs downloaded:** 166  
-**Previous run:** 2026-07-22T10:04:30.017622+00:00  
+**Previous run:** 2026-07-23T10:04:06.154943+00:00  
 
 ### Guidelines Published per Year
 
 | Year | Count |
 |------|-------|
-| 2026 | 8 |
+| 2026 | 9 |
 | 2025 | 10 |
 | 2024 | 10 |
 | 2023 | 7 |
@@ -41,9 +41,9 @@ _Last updated: 2026-07-23 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 ### Status Breakdown
 
-- **Current:** 54
+- **Current:** 55
 - **Archived:** 28
-- **Endorsed:** 39
+- **Endorsed:** 40
 - **In Development:** 5
 - **Unknown:** 4
 
@@ -51,10 +51,11 @@ _Last updated: 2026-07-23 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 ## Recent Changes
 
-_No changes since last run._
+### New Guidelines
+- **Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Patients** (2026)
 
 
-**Open-access full text available:** 67 of 111  
+**Open-access full text available:** 67 of 112  
 
 ---
 
@@ -62,6 +63,7 @@ _No changes since last run._
 
 | Title | Year | Status | DOI | Free PDF |  Supp. Files |
 |-------|------|--------|-----|----------|--------------|
+| Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Patients | 2026 | Current, Endorsed | [DOI](https://doi.org/10.1002/phar.70181) | — | — |
 | Childhood and Adolescent Immunization Schedule: United States 2026 Policy Statement | 2026 | Current, Endorsed | [DOI](https://doi.org/10.1542/peds.2025-075754) | [PDF](https://publications.aap.org/pediatrics/article-pdf/doi/10.1542/peds.2025-075754/1908868/peds_2025075754.pdf) | — |
 | Community-Acquired Pneumonia in Infants and Children | 2026 | Current, Endorsed | — | — | 10 |
 | Infection Prevention and Control of Candida auris in Pediatric Settings | 2026 | Current, Endorsed | [DOI](https://doi.org/10.1017/ash.2026.10419) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D1012137F51BF268BC89FE5DBCC1DA8A/S2732494X26104197a.pdf/div-class-title-infection-prevention-and-control-of-em-class-italic-candida-auris-em-in-pediatric-settings-div.pdf) | 1 |
