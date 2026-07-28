@@ -1,0 +1,1252 @@
+
+
+
+<!doctype html>
+<html lang="en" data-gtm-url="/news--publications-new/articles/2020/idsa-releases-guidance-on-treatment-of-antimicrobial-resistant-infections/" data-gtm-profile="" data-gtm-user="ID_LO">
+<head>
+		<!-- OneT -->
+		<script type="text/javascript" src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-domain-script="01956306-23a1-726a-9cd3-552565d9a645" charset="UTF-8"></script>
+		<script type="text/javascript">
+			function OptanonWrapper() { }
+		</script>
+
+	<link rel="icon" href="/favicon.ico">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="referrer" content="no-referrer-when-downgrade">
+
+
+	
+
+	
+
+
+<meta property="og:type" content="article" />
+<meta property="og:title" content="IDSA Releases Guidance On Treatment Of Antimicrobial-Resistant Infections" />
+
+        <meta property="og:url" content="https://www.idsociety.org/news--publications-new/articles/2020/idsa-releases-guidance-on-treatment-of-antimicrobial-resistant-infections/" />
+        <meta name="twitter:site" content="IDSAInfo" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="author" content="IDSA" />
+
+
+
+
+
+	<title>IDSA Releases Guidance On Treatment Of Antimicrobial-Resistant Infections</title>
+
+		<link rel="canonical" href="https://www.idsociety.org/news--publications-new/articles/2020/idsa-releases-guidance-on-treatment-of-antimicrobial-resistant-infections/" />
+	<!-- Begin Google Tag Manager (script) -->
+    <script>
+		(function (w, d, s, l, i) {
+		w[l] = w[l] || []; w[l].push({
+		'gtm.start':
+		new Date().getTime(), event: 'gtm.js'
+		}); var f = d.getElementsByTagName(s)[0],
+		j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+		'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-TSH8X5L');</script>
+    <!-- End Google Tag Manager (script) -->
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.js" integrity="sha512-Ysw1DcK1P+uYLqprEAzNQJP+J4hTx4t/3X2nbVwszao8wD+9afLjBQYjz7Uk4ADP+Er++mJoScI42ueGtQOzEA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css" integrity="sha512-rd0qOHVMOcez6pLWPVFIv7EfSdGKLt+eafXh4RO/12Fgr41hDQxfGvoi1Vy55QIVcQEujUE1LQrATCLl2Fs+ag==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<link rel="stylesheet" href="/v-504911232000000000/fonts/idsa/style.css" />
+	<link rel="stylesheet" href="/v-504911232000000000/bundles/site.min.css" />
+
+
+	<script type="text/javascript">
+		window.googletag = window.googletag || { cmd: [] };
+	</script>
+	<script type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+
+
+    
+
+    
+
+<!-- #Ad - Interstitial -->
+<div class="idsaAdvertisement idsaAdvertisement-interstitial">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 text-center">
+                <div id='div-gpt-ad-1602686325289-3'>
+                    <script>
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1602686325289-3'); });
+                    </script>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+	
+
+	<script>
+!function(T,l,y){var S=T.location,k="script",D="instrumentationKey",C="ingestionendpoint",I="disableExceptionTracking",E="ai.device.",b="toLowerCase",w="crossOrigin",N="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"5",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[b](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,u,p,l;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][b]()]=i[1])}if(!e[C]){var r=e.endpointsuffix,o=r?e.location:null;e[C]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[D]||d[D]||"",u=s[C],p=u?u+"/v2/track":d.endpointUrl,(l=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=p,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),l.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,p)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:N,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(N,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(l,p))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(k);n.src=h;var e=y[w];return!e&&""!==e||"undefined"==n[w]||(n[w]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(k)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[I]&&!0!==s[I]){var c="onerror";t(["_"+c]);var u=T[c];T[c]=function(e,t,n,a,i){var r=u&&u(e,t,n,a,i);return!0!==r&&m["_"+c]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);function a(){y.onInit&&y.onInit(n)}(T[t]=n).queue&&0===n.queue.length?(n.queue.push(a),n.trackPageView({})):a()}(window,document,{src: "https://js.monitor.azure.com/scripts/b/ai.2.gbl.min.js", crossOrigin: "anonymous", cfg: {connectionString: 'InstrumentationKey=fb96c16f-215a-4ac6-ab4a-8c3869ca15ed;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus.livediagnostics.monitor.azure.com/;ApplicationId=f1cab205-c8fb-4c8f-ae4d-8cbf686df775', disableCookiesUsage: false }});
+</script>
+
+
+		<!-- *** Site = HIVMA -  *** -->
+		<!-- BEGIN Google tag (gtag.js) -->
+        <!-- END Google tag (gtag.js) -->
+
+	<script>
+!function(T,l,y){var S=T.location,k="script",D="instrumentationKey",C="ingestionendpoint",I="disableExceptionTracking",E="ai.device.",b="toLowerCase",w="crossOrigin",N="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"5",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[b](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,u,p,l;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][b]()]=i[1])}if(!e[C]){var r=e.endpointsuffix,o=r?e.location:null;e[C]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[D]||d[D]||"",u=s[C],p=u?u+"/v2/track":d.endpointUrl,(l=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=p,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),l.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,p)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:N,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(N,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(l,p))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(k);n.src=h;var e=y[w];return!e&&""!==e||"undefined"==n[w]||(n[w]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(k)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[I]&&!0!==s[I]){var c="onerror";t(["_"+c]);var u=T[c];T[c]=function(e,t,n,a,i){var r=u&&u(e,t,n,a,i);return!0!==r&&m["_"+c]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);function a(){y.onInit&&y.onInit(n)}(T[t]=n).queue&&0===n.queue.length?(n.queue.push(a),n.trackPageView({})):a()}(window,document,{src: "https://js.monitor.azure.com/scripts/b/ai.2.gbl.min.js", crossOrigin: "anonymous", cfg: {connectionString: 'InstrumentationKey=fb96c16f-215a-4ac6-ab4a-8c3869ca15ed;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus.livediagnostics.monitor.azure.com/;ApplicationId=f1cab205-c8fb-4c8f-ae4d-8cbf686df775', disableCookiesUsage: false }});
+</script>
+
+</head>
+<body class="idsa-theme" data-ga-id="" data-search-results-url="/system/search-results2/">
+	
+
+    <!-- Begin Google Tag Manager (noscript) -->
+		<noscript>
+			<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TSH8X5L"
+					height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		</noscript>
+	<!-- End Google Tag Manager (noscript) -->
+    
+    <!--[if lte IE 9]>
+		<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+	<![endif]-->
+
+<div id="idsa-ad-top" class="idsaAdvertisement idsaAdvertisement-leaderboard" style="display:none;">
+    <span id="idsa-ad-close" class="idsa-ad-close">
+        <svg width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <mask id="mask0_5_861" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="10" y="1" width="2" height="2">
+                <path d="M11.4095 1.67485L11.3291 1.59448L11.0705 1.85315L10.8118 1.59448L10.7314 1.67485L10.9901 1.93351L10.7314 2.19218L10.8118 2.27255L11.0705 2.01388L11.3291 2.27255L11.4095 2.19218L11.1508 1.93351L11.4095 1.67485Z" fill="white" />
+            </mask>
+            <g mask="url(#mask0_5_861)">
+                <mask id="mask1_5_861" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="1" y="1" width="12" height="20">
+                    <path d="M12.2642 1.0166H1.86719V20.3037H12.2642V1.0166Z" fill="white" />
+                </mask>
+                <g mask="url(#mask1_5_861)">
+                    <path d="M11.4363 1.56909H10.708V2.29738H11.4363V1.56909Z" fill="white" />
+                </g>
+            </g>
+            <path d="M17.3599 -7.9822e-05L0 17.3599L1.63726 18.9971L18.9972 1.63718L17.3599 -7.9822e-05Z" fill="white" />
+            <path d="M18.9996 17.3607L1.63965 0.000732422L0.00238692 1.63799L17.3623 18.9979L18.9996 17.3607Z" fill="white" />
+        </svg>
+    </span>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 text-center">
+                <!-- #Ad - Leaderboard -->
+                <div class="idsaAdvertisement-leaderboard">Advertisement</div>
+                <div id='div-gpt-ad-1602686325289-0'>
+                    <script>
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1602686325289-0'); });
+                    </script>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function setCookie(name, value, days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + (value || "") + expires + "; path=/";
+    }
+
+    function getCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    function eraseCookie(name) {
+        document.cookie = name + '=; Max-Age=-99999999;';
+    }
+
+    function hideAdBanner() {
+        var adBanner = document.getElementById('idsa-ad-top');
+        adBanner.style.transition = 'all 0.5s ease';
+        adBanner.style.height = 0;
+        adBanner.style.padding = 0;
+        adBanner.style.display = 'none';
+    }
+
+    document.addEventListener('DOMContentLoaded', function () {
+        document.getElementById('idsa-ad-top').style.display = 'block';
+        document.getElementById('idsa-ad-close').addEventListener('click', function () {
+            hideAdBanner();
+        });
+    });
+</script>    
+	
+
+
+
+
+
+<a class="visually-hidden-focusable" href="#idsa-main-nav">Skip to nav</a>
+<a class="visually-hidden-focusable" href="#idsa-main-content">Skip to content</a>
+
+<header class="idsa-header">
+    <div class="idsa-header-utility">
+        <div class="idsa-header-utility-container">
+            <div class="idsa-header-utility-row">
+                <div class="idsa-header-utility-sites">
+                        <nav aria-label="Site Links">
+                            <ul>
+                                    <li>
+                                        <a href="/" target="_top" class="active">IDSA</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.idsafoundation.org/" target="_blank" >Foundation</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://idweek.org/" target="_blank" >IDWeek</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.hivma.org/" target="_blank" >HIVMA</a>
+                                    </li>
+                            </ul>
+                        </nav>
+                </div>
+                <div class="idsa-header-utility-links">
+        <nav class="idsa-header-utility-links-nav" aria-label="Utility Links">
+            <ul>
+                        <li>
+                            <a href="/about-us/" class="idsa-header-utility--link">About</a>
+                        </li>
+                        <li>
+                            <a href="/practice-guideline/all-practice-guidelines/" class="idsa-header-utility--link">Guidelines</a>
+                        </li>
+                        <li>
+                            <a href="/journals/journals--publications/" class="idsa-header-utility--link">Journals</a>
+                        </li>
+                        <li>
+                            <a href="/event-listing/" class="idsa-header-utility--link">Events</a>
+                        </li>
+                        <li>
+                            <a href="/science-speaks-blog/" class="idsa-header-utility--link">Blog</a>
+                        </li>
+                        <li>
+                            <a href="/news--publications-new/" class="idsa-header-utility--link">News</a>
+                        </li>
+
+                        <li class="idsa-header-utility-login">
+                            <a id="login-link" class="idsa-header-utility-btn" href="/login/?returnUrl=%2Fnews--publications-new%2Farticles%2F2020%2Fidsa-releases-guidance-on-treatment-of-antimicrobial-resistant-infections%2F">Login</a>
+                        </li>
+            </ul>
+        </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="idsa-header-main">
+        <div class="container-fluid">
+            <div class="idsa-header-main-row">
+                <button class="idsa-header-main-nav-trigger" role="button" data-toggle="collapse" data-target="#idsa-header-main-nav" aria-controls="idsa-header-main-nav" aria-label="Expands Mobile Navigation" aria-expanded="false" tabindex="0">
+                    <span class="fas fa-bars" role="presentation"></span>
+                </button>
+                <div class="idsa-header-main-logo">
+                    <a href="/" alt="home">
+                        <img src="/contentassets/6d9bd5c5d90b4071b89b11f5ab2f294b/idsa-logo-green.png" />
+                    </a>
+                </div>
+                <div id="idsa-header-main-nav" class="idsa-header-main-nav collapse">
+                    <button class="idsa-header-main-nav-trigger" role="button" data-toggle="collapse" data-target="#idsa-header-main-nav" aria-controls="idsa-header-main-nav" aria-label="Closes Mobile Navigation" aria-expanded="false">
+                        <span class="fas fa-close" role="presentation"></span>
+                    </button>
+                    <div class="idsa-header-main-nav-head">
+                        <div class="idsa-header-main-logo">
+                            <a href="/" alt="home">
+                                <img src="/contentassets/6d9bd5c5d90b4071b89b11f5ab2f294b/idsa-logo-green.png" />
+                            </a>
+                        </div>
+                    </div>
+                    
+
+    <nav id="idsa-main-nav" aria-label="Main Navigation">
+        <ul class="lvl-0">
+                <li class="lvl-0 hasChildren">
+                    <div class="main-nav-item-mobile lvl-0 hasChildren" >
+                            <button class="main-nav-trigger-close" role="button" aria-label="Close Submenu" aria-expanded="true"></button>
+            <span class="lvl-0 hasChildren" >Practice Resources</span>
+                            <button class="main-nav-trigger-open" role="button" aria-label="Open Submenu" aria-expanded="false"></button>
+                    </div>
+            <span class="main-nav-item-desktop lvl-0 hasChildren" >Practice Resources</span>
+                    <div class="main-nav-dropdown">
+                        <div class="main-nav-dropdownwrap">
+                                <div class="main-nav-dropdown-children">
+                                                <ul class="lvl-1 " >
+                    <li class="lvl-1 hasChildren">
+                            <div class="main-nav-item-mobile-lvl-1">
+            <span class="lvl-1 hasChildren" >Guidelines</span>
+                                    <button class="main-nav-item-mobile-lvl-1-trigger collapsed" role="button" data-toggle="collapse" data-target="#idsa-header-main-sub-lvl2-0-0" aria-controls="idsa-header-main-sub-lvl2-0-0" aria-label="Toggle Submenu" aria-expanded="false"><span class="fas fa-chevron-up" role="presentation" aria-hidden="true"></span></button>
+                            </div>
+            <span class="main-nav-item-desktop-lvl-1 lvl-1 hasChildren" >Guidelines</span>
+            <ul class="lvl-2 collapse" id="idsa-header-main-sub-lvl2-0-0">
+                    <li class="lvl-2">
+            <a href="/practice-guideline/all-practice-guidelines/" class="lvl-2"  >A-Z Guideline Listing</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/practice-guideline-draft-folder/idsa-practice-guidelines-app/" class="lvl-2"  >Guidelines App</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/practice-guideline/practice-guidelines/" class="lvl-2"  >Search All Guidelines</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/clinical-practice-guidelines-development-training-and-resources/" class="lvl-2"  >Training & Resources</a>
+                    </li>
+            </ul>
+                    </li>
+                    <li class="lvl-1 hasChildren">
+                            <div class="main-nav-item-mobile-lvl-1">
+            <span class="lvl-1 hasChildren" >Featured Guidelines</span>
+                                    <button class="main-nav-item-mobile-lvl-1-trigger collapsed" role="button" data-toggle="collapse" data-target="#idsa-header-main-sub-lvl2-0-1" aria-controls="idsa-header-main-sub-lvl2-0-1" aria-label="Toggle Submenu" aria-expanded="false"><span class="fas fa-chevron-up" role="presentation" aria-hidden="true"></span></button>
+                            </div>
+            <span class="main-nav-item-desktop-lvl-1 lvl-1 hasChildren" >Featured Guidelines</span>
+            <ul class="lvl-2 collapse" id="idsa-header-main-sub-lvl2-0-1">
+                    <li class="lvl-2">
+            <a href="/practice-guideline/amr-guidance/" class="lvl-2"  >AMR Guidance</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/practice-guideline/community-acquired-pneumonia-cap-in-adults/" class="lvl-2"  >Community-Acquired Pneumonia in Adults</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/practice-guideline/complicated-urinary-tract-infections/" class="lvl-2"  >Complicated Urinary Tract Infections</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/practice-guideline/skin-and-soft-tissue-infections/" class="lvl-2"  >Skin and Soft Tissue Infections</a>
+                    </li>
+            </ul>
+                    </li>
+                    <li class="lvl-1 hasChildren">
+                            <div class="main-nav-item-mobile-lvl-1">
+            <span class="lvl-1 hasChildren" >Practice Tools</span>
+                                    <button class="main-nav-item-mobile-lvl-1-trigger collapsed" role="button" data-toggle="collapse" data-target="#idsa-header-main-sub-lvl2-0-2" aria-controls="idsa-header-main-sub-lvl2-0-2" aria-label="Toggle Submenu" aria-expanded="false"><span class="fas fa-chevron-up" role="presentation" aria-hidden="true"></span></button>
+                            </div>
+            <span class="main-nav-item-desktop-lvl-1 lvl-1 hasChildren" >Practice Tools</span>
+            <ul class="lvl-2 collapse" id="idsa-header-main-sub-lvl2-0-2">
+                    <li class="lvl-2">
+            <a href="/practice-resources/practice-tools/antimicrobial-stewardship/" class="lvl-2"  >Antimicrobial Stewardship</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/practice-resources/practice-tools/coding-and-payment/" class="lvl-2"  >Coding and Payment</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/practice-resources/professional-development/id-physician-compensation-initiative/" class="lvl-2"  >ID Physician Compensation</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/practice-resources/practice-tools/quality-measurement-and-improvement/" class="lvl-2"  >Quality Measurement and Improvement</a>
+                    </li>
+            </ul>
+                    </li>
+            </ul>
+
+                                </div>
+                                <div class="main-nav-dropdown-body ">
+                                    <div class="main-nav-dropdown-body-row">
+                                            <div class="main-nav-dropdown-body-col">
+                                                
+<div>
+
+
+
+
+<div class="menu-item-content-block">
+        <div class="menu-item-content-image" role="presentation">
+            <picture class="picture-align-x-center picture-align-y-center"><source srcset="/globalassets/new-branding-photos/intern.png?width=420&height=240&format=webp&rxy=0.5%2c0.5&rmode=crop" /><img src="/globalassets/new-branding-photos/intern.png?width=420&height=240&format=webp&rxy=0.5%2c0.5&rmode=crop" loading="eager" decoding="auto" /></picture>
+                <div class="menu-item-content-clip">
+                    <div class="menu-item-content-clip-tl"></div>
+                    <div class="menu-item-content-clip-br"></div>
+
+                    <div class="row menu-item-content-pills">
+                        <div class="col-auto">
+                            <span class="pill pill-primary text-uppercase">Guidelines</span>
+                        </div>
+                    </div>
+                </div>
+        </div>
+
+        <a href="/practice-guideline/practice-guidelines/" role="button" class="menu-item-content-item">
+            <h6 class="menu-item-content-title line-clamp-2">View all Practice Guidelines </h6>
+        </a>
+</div></div>
+                                            </div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="lvl-0 hasChildren">
+                    <div class="main-nav-item-mobile lvl-0 hasChildren" >
+                            <button class="main-nav-trigger-close" role="button" aria-label="Close Submenu" aria-expanded="true"></button>
+            <a class="lvl-0 hasChildren"  tabindex="0">Health Topics</a>
+                            <button class="main-nav-trigger-open" role="button" aria-label="Open Submenu" aria-expanded="false"></button>
+                    </div>
+            <a class="main-nav-item-desktop lvl-0 hasChildren"  tabindex="0">Health Topics</a>
+                    <div class="main-nav-dropdown">
+                        <div class="main-nav-dropdownwrap">
+                                <div class="main-nav-dropdown-children">
+                                                <ul class="lvl-1 " >
+                    <li class="lvl-1 hasChildren">
+                            <div class="main-nav-item-mobile-lvl-1">
+            <span class="lvl-1 hasChildren" >Infectious Diseases</span>
+                                    <button class="main-nav-item-mobile-lvl-1-trigger collapsed" role="button" data-toggle="collapse" data-target="#idsa-header-main-sub-lvl2-1-0" aria-controls="idsa-header-main-sub-lvl2-1-0" aria-label="Toggle Submenu" aria-expanded="false"><span class="fas fa-chevron-up" role="presentation" aria-hidden="true"></span></button>
+                            </div>
+            <span class="main-nav-item-desktop-lvl-1 lvl-1 hasChildren" >Infectious Diseases</span>
+            <ul class="lvl-2 collapse" id="idsa-header-main-sub-lvl2-1-0">
+                    <li class="lvl-2">
+            <a href="/ID-topics/Health-topics/" class="lvl-2"  >A-Z Health Topics Listing</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/ID-topics/infectious-disease/covid-19/" class="lvl-2"  >COVID-19 </a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/ID-topics/infectious-disease/ebola/" class="lvl-2"  >Ebola</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/ID-topics/infectious-disease/hantavirus/" class="lvl-2"  >Hantavirus</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/ID-topics/infectious-disease/influenza/" class="lvl-2"  >Influenza</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/ID-topics/infectious-disease/lyme-disease/" class="lvl-2"  >Lyme Disease</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/ID-topics/infectious-disease/measles/" class="lvl-2"  >Measles  </a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/ID-topics/infectious-disease/Viral-hepatitis/" class="lvl-2"  >Viral Hepatitis</a>
+                    </li>
+            </ul>
+                    </li>
+                    <li class="lvl-1 hasChildren">
+                            <div class="main-nav-item-mobile-lvl-1">
+            <span class="lvl-1 hasChildren" >Special Topics</span>
+                                    <button class="main-nav-item-mobile-lvl-1-trigger collapsed" role="button" data-toggle="collapse" data-target="#idsa-header-main-sub-lvl2-1-1" aria-controls="idsa-header-main-sub-lvl2-1-1" aria-label="Toggle Submenu" aria-expanded="false"><span class="fas fa-chevron-up" role="presentation" aria-hidden="true"></span></button>
+                            </div>
+            <span class="main-nav-item-desktop-lvl-1 lvl-1 hasChildren" >Special Topics</span>
+            <ul class="lvl-2 collapse" id="idsa-header-main-sub-lvl2-1-1">
+                    <li class="lvl-2">
+            <a href="/ID-topics/special-topics/antimicrobial-resistance/" class="lvl-2"  >Antimicrobial Resistance</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/ID-topics/special-topics/climate-change/" class="lvl-2"  >Climate Change</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/ID-topics/infectious-disease/emerging-infections-and-infectious-threats/" class="lvl-2"  >Emerging Infections</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/ID-topics/special-topics/hurricane-resources/" class="lvl-2"  >Hurricanes and Flooding</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/ID-topics/special-topics/immunization/" class="lvl-2"  >Immunization & Vaccination</a>
+                    </li>
+            </ul>
+                    </li>
+            </ul>
+
+                                </div>
+                                <div class="main-nav-dropdown-body ">
+                                    <div class="main-nav-dropdown-body-row">
+                                            <div class="main-nav-dropdown-body-col">
+                                                
+<div>
+
+
+
+
+<div class="menu-item-content-block">
+        <div class="menu-item-content-image" role="presentation">
+            <picture class="picture-align-x-center picture-align-y-center"><source srcset="/globalassets/new-branding-photos/intern.png?width=420&height=240&format=webp&rxy=0.5%2c0.5&rmode=crop" /><img src="/globalassets/new-branding-photos/intern.png?width=420&height=240&format=webp&rxy=0.5%2c0.5&rmode=crop" loading="eager" decoding="auto" /></picture>
+                <div class="menu-item-content-clip">
+                    <div class="menu-item-content-clip-tl"></div>
+                    <div class="menu-item-content-clip-br"></div>
+
+                    <div class="row menu-item-content-pills">
+                        <div class="col-auto">
+                            <span class="pill pill-primary text-uppercase">Guidelines</span>
+                        </div>
+                    </div>
+                </div>
+        </div>
+
+        <a href="/practice-guideline/all-practice-guidelines/" role="button" class="menu-item-content-item">
+            <h6 class="menu-item-content-title line-clamp-2">Looking for Practice Guidelines? </h6>
+        </a>
+</div></div>
+                                            </div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="lvl-0 hasChildren">
+                    <div class="main-nav-item-mobile lvl-0 hasChildren" >
+                            <button class="main-nav-trigger-close" role="button" aria-label="Close Submenu" aria-expanded="true"></button>
+            <span class="lvl-0 hasChildren" >Education </span>
+                            <button class="main-nav-trigger-open" role="button" aria-label="Open Submenu" aria-expanded="false"></button>
+                    </div>
+            <span class="main-nav-item-desktop lvl-0 hasChildren" >Education </span>
+                    <div class="main-nav-dropdown">
+                        <div class="main-nav-dropdownwrap">
+                                <div class="main-nav-dropdown-children">
+                                                <ul class="lvl-1 " >
+                    <li class="lvl-1 hasChildren">
+                            <div class="main-nav-item-mobile-lvl-1">
+            <span class="lvl-1 hasChildren" >Career Stages</span>
+                                    <button class="main-nav-item-mobile-lvl-1-trigger collapsed" role="button" data-toggle="collapse" data-target="#idsa-header-main-sub-lvl2-2-0" aria-controls="idsa-header-main-sub-lvl2-2-0" aria-label="Toggle Submenu" aria-expanded="false"><span class="fas fa-chevron-up" role="presentation" aria-hidden="true"></span></button>
+                            </div>
+            <span class="main-nav-item-desktop-lvl-1 lvl-1 hasChildren" >Career Stages</span>
+            <ul class="lvl-2 collapse" id="idsa-header-main-sub-lvl2-2-0">
+                    <li class="lvl-2">
+            <a href="/education--training/medical-student/" class="lvl-2"  >Medical Student</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/education--training/medical-student/" class="lvl-2"  >Resident</a>
+                    </li>
+            </ul>
+                    </li>
+                    <li class="lvl-1 hasChildren">
+                            <div class="main-nav-item-mobile-lvl-1">
+            <span class="lvl-1 hasChildren" >Professional Development</span>
+                                    <button class="main-nav-item-mobile-lvl-1-trigger collapsed" role="button" data-toggle="collapse" data-target="#idsa-header-main-sub-lvl2-2-1" aria-controls="idsa-header-main-sub-lvl2-2-1" aria-label="Toggle Submenu" aria-expanded="false"><span class="fas fa-chevron-up" role="presentation" aria-hidden="true"></span></button>
+                            </div>
+            <span class="main-nav-item-desktop-lvl-1 lvl-1 hasChildren" >Professional Development</span>
+            <ul class="lvl-2 collapse" id="idsa-header-main-sub-lvl2-2-1">
+                    <li class="lvl-2">
+            <a href="https://academy.idsociety.org/" class="lvl-2"  >IDSA Academy</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/practice-resources/professional-development/idmentorship365-program/" class="lvl-2"  >iDMentorship365</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/practice-resources/grants-and-funding/id-spark-train-educate-and-prepare-program/" class="lvl-2"  >ID STEP Program</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/education--training/idsa-leadership-institute/" class="lvl-2"  >Leadership Institute</a>
+                    </li>
+            </ul>
+                    </li>
+                    <li class="lvl-1 hasChildren">
+                            <div class="main-nav-item-mobile-lvl-1">
+            <span class="lvl-1 hasChildren" >Training and Curriculum</span>
+                                    <button class="main-nav-item-mobile-lvl-1-trigger collapsed" role="button" data-toggle="collapse" data-target="#idsa-header-main-sub-lvl2-2-2" aria-controls="idsa-header-main-sub-lvl2-2-2" aria-label="Toggle Submenu" aria-expanded="false"><span class="fas fa-chevron-up" role="presentation" aria-hidden="true"></span></button>
+                            </div>
+            <span class="main-nav-item-desktop-lvl-1 lvl-1 hasChildren" >Training and Curriculum</span>
+            <ul class="lvl-2 collapse" id="idsa-header-main-sub-lvl2-2-2">
+                    <li class="lvl-2">
+            <a href="/education--training/training-and-curriculum/fellows-in-training-resources/" class="lvl-2"  >Fellows-in-Training Career Resources</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/education--training/training-and-curriculum/fellows-in-training-exam/" class="lvl-2"  >Fellows In-Training Exam</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/education--training/training-and-curriculum/id-fellowship-match/" class="lvl-2"  >ID Fellowship Match</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/education--training/training-and-curriculum/id-fellowship-training-program-directory/" class="lvl-2"  >ID Fellowship Training Program Directory</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/education--training/jobs-in-id/" class="lvl-2"  >Jobs in ID</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/education--training/training-and-curriculum/fellows-in-training-resources/training-program-director-resources/" class="lvl-2"  >Training Program Director Resources</a>
+                    </li>
+            </ul>
+                    </li>
+            </ul>
+
+                                </div>
+                                <div class="main-nav-dropdown-body ">
+                                    <div class="main-nav-dropdown-body-row">
+                                            <div class="main-nav-dropdown-body-col">
+                                                
+<div>
+
+
+
+
+<div class="menu-item-content-block">
+        <div class="menu-item-content-image" role="presentation">
+            <picture class="picture-align-x-center picture-align-y-center"><source srcset="/globalassets/new-branding-photos/the-work_06_shot-of-a-young-man-writing-on-a-whiteboard-while-students-look-on.jpg?width=420&height=240&format=webp&quality=100&rxy=0.44%2c0.42&rmode=crop" /><img src="/globalassets/new-branding-photos/the-work_06_shot-of-a-young-man-writing-on-a-whiteboard-while-students-look-on.jpg?width=420&height=240&format=webp&quality=100&rxy=0.44%2c0.42&rmode=crop" loading="eager" decoding="auto" /></picture>
+                <div class="menu-item-content-clip">
+                    <div class="menu-item-content-clip-tl"></div>
+                    <div class="menu-item-content-clip-br"></div>
+
+                    <div class="row menu-item-content-pills">
+                        <div class="col-auto">
+                            <span class="pill pill-primary text-uppercase">training</span>
+                        </div>
+                    </div>
+                </div>
+        </div>
+
+        <a href="https://academy.idsociety.org/" role="button" class="menu-item-content-item">
+            <h6 class="menu-item-content-title line-clamp-2">Browse IDSA Academy Courses</h6>
+        </a>
+</div></div>
+                                            </div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="lvl-0 hasChildren">
+                    <div class="main-nav-item-mobile lvl-0 hasChildren" >
+                            <button class="main-nav-trigger-close" role="button" aria-label="Close Submenu" aria-expanded="true"></button>
+            <a class="lvl-0 hasChildren"  tabindex="0">Policy & Advocacy</a>
+                            <button class="main-nav-trigger-open" role="button" aria-label="Open Submenu" aria-expanded="false"></button>
+                    </div>
+            <a class="main-nav-item-desktop lvl-0 hasChildren"  tabindex="0">Policy & Advocacy</a>
+                    <div class="main-nav-dropdown">
+                        <div class="main-nav-dropdownwrap">
+                                <div class="main-nav-dropdown-children">
+                                                <ul class="lvl-1 " >
+                    <li class="lvl-1 hasChildren">
+                            <div class="main-nav-item-mobile-lvl-1">
+            <span class="lvl-1 hasChildren" >Advocacy and Action</span>
+                                    <button class="main-nav-item-mobile-lvl-1-trigger collapsed" role="button" data-toggle="collapse" data-target="#idsa-header-main-sub-lvl2-3-0" aria-controls="idsa-header-main-sub-lvl2-3-0" aria-label="Toggle Submenu" aria-expanded="false"><span class="fas fa-chevron-up" role="presentation" aria-hidden="true"></span></button>
+                            </div>
+            <span class="main-nav-item-desktop-lvl-1 lvl-1 hasChildren" >Advocacy and Action</span>
+            <ul class="lvl-2 collapse" id="idsa-header-main-sub-lvl2-3-0">
+                    <li class="lvl-2">
+            <a href="/policy--advocacy/advocacy/" class="lvl-2"  >Advocacy</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/policy--advocacy/federal-policy-watch/" class="lvl-2"  >Federal Policy Watch</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="https://idsociety.quorum.us/home_page/" class="lvl-2" target=&quot;_blank&quot; >Take Action</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/policy--advocacy/member-advocacy-program/" class="lvl-2"  >Member Advocacy Program</a>
+                    </li>
+            </ul>
+                    </li>
+                    <li class="lvl-1 hasChildren">
+                            <div class="main-nav-item-mobile-lvl-1">
+            <span class="lvl-1 hasChildren" >IDSA Policy and Priorities</span>
+                                    <button class="main-nav-item-mobile-lvl-1-trigger collapsed" role="button" data-toggle="collapse" data-target="#idsa-header-main-sub-lvl2-3-1" aria-controls="idsa-header-main-sub-lvl2-3-1" aria-label="Toggle Submenu" aria-expanded="false"><span class="fas fa-chevron-up" role="presentation" aria-hidden="true"></span></button>
+                            </div>
+            <span class="main-nav-item-desktop-lvl-1 lvl-1 hasChildren" >IDSA Policy and Priorities</span>
+            <ul class="lvl-2 collapse" id="idsa-header-main-sub-lvl2-3-1">
+                    <li class="lvl-2">
+            <a href="/policy--advocacy/reimbursement-and-compensation/" class="lvl-2"  >Access & Reimbursement</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/ID-topics/special-topics/antimicrobial-resistance/" class="lvl-2"  >Antimicrobial Resistance</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/policy--advocacy/diagnostics/" class="lvl-2"  >Diagnostics</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/policy--advocacy/funding/" class="lvl-2"  >Funding Policy</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/policy--advocacy/global-health/" class="lvl-2"  >Global Health</a>
+                    </li>
+            </ul>
+                    </li>
+                    <li class="lvl-1 hasChildren">
+                            <div class="main-nav-item-mobile-lvl-1">
+            <span class="lvl-1 hasChildren" >Professional Practice Advocacy</span>
+                                    <button class="main-nav-item-mobile-lvl-1-trigger collapsed" role="button" data-toggle="collapse" data-target="#idsa-header-main-sub-lvl2-3-2" aria-controls="idsa-header-main-sub-lvl2-3-2" aria-label="Toggle Submenu" aria-expanded="false"><span class="fas fa-chevron-up" role="presentation" aria-hidden="true"></span></button>
+                            </div>
+            <span class="main-nav-item-desktop-lvl-1 lvl-1 hasChildren" >Professional Practice Advocacy</span>
+            <ul class="lvl-2 collapse" id="idsa-header-main-sub-lvl2-3-2">
+                    <li class="lvl-2">
+            <a href="/policy--advocacy/bio-preparedness-workforce-pilot-program/" class="lvl-2"  >Bio-Preparedness Workforce Pilot</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/practice-resources/professional-development/id-workforce/" class="lvl-2"  >ID Workforce Initiative</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="https://www.hivma.org/policy--advocacy/professional-practice-advocacy/national-prep-program/" class="lvl-2" target=&quot;_blank&quot; >National PrEP Program</a>
+                    </li>
+            </ul>
+                    </li>
+            </ul>
+
+                                </div>
+                                <div class="main-nav-dropdown-body ">
+                                    <div class="main-nav-dropdown-body-row">
+                                            <div class="main-nav-dropdown-body-col">
+                                                
+<div>
+
+
+
+
+<div class="menu-item-content-block">
+        <div class="menu-item-content-image" role="presentation">
+            <picture class="picture-align-x-center picture-align-y-center"><source srcset="/globalassets/global-blocks/hero-blocks/hero-3.jpg?width=420&height=240&format=webp&quality=100&rxy=0.5%2c0.5&rmode=crop" /><img src="/globalassets/global-blocks/hero-blocks/hero-3.jpg?width=420&height=240&format=webp&quality=100&rxy=0.5%2c0.5&rmode=crop" loading="eager" decoding="auto" /></picture>
+                <div class="menu-item-content-clip">
+                    <div class="menu-item-content-clip-tl"></div>
+                    <div class="menu-item-content-clip-br"></div>
+
+                    <div class="row menu-item-content-pills">
+                        <div class="col-auto">
+                            <span class="pill pill-primary text-uppercase">Advocacy</span>
+                        </div>
+                    </div>
+                </div>
+        </div>
+
+        <a href="https://idsociety.quorum.us/home_page/" target="_blank" role="button" class="menu-item-content-item">
+            <h6 class="menu-item-content-title line-clamp-2">Become an IDSA/HIVMA Advocate!</h6>
+        </a>
+</div></div>
+                                            </div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="lvl-0 hasChildren lastItem">
+                    <div class="main-nav-item-mobile lvl-0 hasChildren lastItem" >
+                            <button class="main-nav-trigger-close" role="button" aria-label="Close Submenu" aria-expanded="true"></button>
+            <a class="lvl-0 hasChildren lastItem"  tabindex="0">Membership </a>
+                            <button class="main-nav-trigger-open" role="button" aria-label="Open Submenu" aria-expanded="false"></button>
+                    </div>
+            <a class="main-nav-item-desktop lvl-0 hasChildren lastItem"  tabindex="0">Membership </a>
+                    <div class="main-nav-dropdown">
+                        <div class="main-nav-dropdownwrap">
+                                <div class="main-nav-dropdown-children">
+                                                <ul class="lvl-1 " >
+                    <li class="lvl-1 hasChildren">
+                            <div class="main-nav-item-mobile-lvl-1">
+            <span class="lvl-1 hasChildren" >Membership Services</span>
+                                    <button class="main-nav-item-mobile-lvl-1-trigger collapsed" role="button" data-toggle="collapse" data-target="#idsa-header-main-sub-lvl2-4-0" aria-controls="idsa-header-main-sub-lvl2-4-0" aria-label="Toggle Submenu" aria-expanded="false"><span class="fas fa-chevron-up" role="presentation" aria-hidden="true"></span></button>
+                            </div>
+            <span class="main-nav-item-desktop-lvl-1 lvl-1 hasChildren" >Membership Services</span>
+            <ul class="lvl-2 collapse" id="idsa-header-main-sub-lvl2-4-0">
+                    <li class="lvl-2">
+            <a href="/membership-community/membership/" class="lvl-2"  >Benefits of Membership</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/membership-community/fellow-of-idsa/" class="lvl-2"  >Fellow of IDSA</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/about-us/Committees/" class="lvl-2"  >Governance</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="https://profile.idsociety.org/s/my-profile/memberships" class="lvl-2" target=&quot;_blank&quot; >Membership Renewal</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="https://profile.idsociety.org/idp/login?app=0spPn000000010v" class="lvl-2" target=&quot;_blank&quot; >MyIDSA</a>
+                    </li>
+            </ul>
+                    </li>
+                    <li class="lvl-1 hasChildren">
+                            <div class="main-nav-item-mobile-lvl-1">
+            <span class="lvl-1 hasChildren" >Networking</span>
+                                    <button class="main-nav-item-mobile-lvl-1-trigger collapsed" role="button" data-toggle="collapse" data-target="#idsa-header-main-sub-lvl2-4-1" aria-controls="idsa-header-main-sub-lvl2-4-1" aria-label="Toggle Submenu" aria-expanded="false"><span class="fas fa-chevron-up" role="presentation" aria-hidden="true"></span></button>
+                            </div>
+            <span class="main-nav-item-desktop-lvl-1 lvl-1 hasChildren" >Networking</span>
+            <ul class="lvl-2 collapse" id="idsa-header-main-sub-lvl2-4-1">
+                    <li class="lvl-2">
+            <a href="/about-us/Committees/" class="lvl-2"  >Committees</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="https://ein.idsociety.org/" class="lvl-2" target=&quot;_blank&quot; >EIN (Emerging Infections Network)</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="https://my.idsociety.org/network/members" class="lvl-2"  >Member Directory</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/membership-community/member-interest-groups/" class="lvl-2"  >Member interest groups</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/membership-community/state-and-regional-affiliate-program/" class="lvl-2"  >State & Regional Affiliate Program</a>
+                    </li>
+            </ul>
+                    </li>
+                    <li class="lvl-1 hasChildren">
+                            <div class="main-nav-item-mobile-lvl-1">
+            <span class="lvl-1 hasChildren" >Opportunities</span>
+                                    <button class="main-nav-item-mobile-lvl-1-trigger collapsed" role="button" data-toggle="collapse" data-target="#idsa-header-main-sub-lvl2-4-2" aria-controls="idsa-header-main-sub-lvl2-4-2" aria-label="Toggle Submenu" aria-expanded="false"><span class="fas fa-chevron-up" role="presentation" aria-hidden="true"></span></button>
+                            </div>
+            <span class="main-nav-item-desktop-lvl-1 lvl-1 hasChildren" >Opportunities</span>
+            <ul class="lvl-2 collapse" id="idsa-header-main-sub-lvl2-4-2">
+                    <li class="lvl-2">
+            <a href="/event-listing/" class="lvl-2"  >Events</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/practice-resources/grants-and-funding/funding-alerts/" class="lvl-2"  >Funding Opportunities</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/about-us/awards/society-awards/" class="lvl-2"  >Society Awards</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/about-us/lecturers/past-award-lecturers/" class="lvl-2"  >Past Award Lecturers</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/membership-community/volunteer-opportunities/" class="lvl-2"  >Volunteer Opportunities</a>
+                    </li>
+                    <li class="lvl-2">
+            <a href="/about-us/board-of-directors/Board-of-Directors-Call-for-Volunteers/" class="lvl-2"  >Board Elections</a>
+                    </li>
+            </ul>
+                    </li>
+            </ul>
+
+                                </div>
+                                <div class="main-nav-dropdown-body ">
+                                    <div class="main-nav-dropdown-body-row">
+                                            <div class="main-nav-dropdown-body-col">
+                                                
+<div>
+
+
+
+
+<div class="menu-item-content-block">
+        <div class="menu-item-content-image" role="presentation">
+            <picture class="picture-align-x-center picture-align-y-center"><source srcset="/globalassets/idsa/jobs-in-id/idsa_jobseeker_mobile-1.png?width=420&height=240&format=webp&rxy=0.5%2c0.5&rmode=crop" /><img src="/globalassets/idsa/jobs-in-id/idsa_jobseeker_mobile-1.png?width=420&height=240&format=webp&rxy=0.5%2c0.5&rmode=crop" loading="eager" decoding="auto" /></picture>
+                <div class="menu-item-content-clip">
+                    <div class="menu-item-content-clip-tl"></div>
+                    <div class="menu-item-content-clip-br"></div>
+
+                    <div class="row menu-item-content-pills">
+                        <div class="col-auto">
+                            <span class="pill pill-primary text-uppercase">Career</span>
+                        </div>
+                    </div>
+                </div>
+        </div>
+
+        <a href="/education--training/jobs-in-id/" role="button" class="menu-item-content-item">
+            <h6 class="menu-item-content-title line-clamp-2">Find your next role in ID!</h6>
+        </a>
+</div></div>
+                                            </div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                </li>
+        </ul>
+    </nav>
+
+
+        <nav class="idsa-header-utility-links-nav" aria-label="Utility Links">
+            <ul>
+                        <li>
+                            <a href="/about-us/" class="idsa-header-utility--link">About</a>
+                        </li>
+                        <li>
+                            <a href="/practice-guideline/all-practice-guidelines/" class="idsa-header-utility--link">Guidelines</a>
+                        </li>
+                        <li>
+                            <a href="/journals/journals--publications/" class="idsa-header-utility--link">Journals</a>
+                        </li>
+                        <li>
+                            <a href="/event-listing/" class="idsa-header-utility--link">Events</a>
+                        </li>
+                        <li>
+                            <a href="/science-speaks-blog/" class="idsa-header-utility--link">Blog</a>
+                        </li>
+                        <li>
+                            <a href="/news--publications-new/" class="idsa-header-utility--link">News</a>
+                        </li>
+
+                        <li class="idsa-header-utility-login">
+                            <a id="login-link" class="idsa-header-utility-btn" href="/login/?returnUrl=%2Fnews--publications-new%2Farticles%2F2020%2Fidsa-releases-guidance-on-treatment-of-antimicrobial-resistant-infections%2F">Login</a>
+                        </li>
+            </ul>
+        </nav>
+                </div>
+                    <button class="idsa-header-main-search" data-toggle="collapse" data-target="#idsa-header-search" aria-controls="idsa-header-search" aria-expanded="false" aria-label="Toggle Search" role="button" tabindex="0">
+                        <div class="fa-solid fa-magnifying-glass" role="presentation"></div>
+                    </button>
+            </div>
+                <div id="idsa-header-search" class="idsa-header-search collapse">
+                    <div class="idsa-header-search-wrap">
+                        <form class="idsa-header-main-search-overlay" action="/system/search-results2/">
+                            <div class="idsa-header-main-search-overlay-frame">
+                                
+
+<input id="searchInput" class="search-input typeahead" autocomplete="off" type="text" name="query" placeholder="Enter Search Term" aria-label="Search">
+<div class="input-group-append">
+    <button class="search-submit">
+        <i class="fa-solid fa-magnifying-glass"></i><span>Search</span>
+        <span class="sr-only">Search</span>
+    </button>
+</div>
+
+                            </div>
+                        </form>
+                    </div>
+                </div>
+        </div>
+    </div>
+</header>
+
+
+	<div id="idsa-main-content" class="idsa-main-content main-content-container">
+		
+
+
+
+
+
+
+
+<div class="container page-title">
+    <div class="page-title-heading">
+
+        <h1 class="page-title-heading__title" ></h1>
+
+
+    </div>
+</div>
+
+
+
+
+    <div class="container standardpage-container">
+        <div class="row standardpage-row">
+            <div class="col-auto standardpage-col standardpage-col-left">
+                <div class="standardpage-left-restraint">
+
+<h2 style="text-align: center;">IDSA Releases Guidance On Treatment Of Antimicrobial-Resistant Infections</h2>
+<p style="text-align: center;"><span style="color: #000000;"><em>Timely recommendations for treating three common pathogens&nbsp;</em><em>keep global health issue at forefront</em></span></p>
+<p><span style="color: #000000;">ARLINGTON, Va. &ndash; <a href="/practice-guideline/amr-guidance/">New guidance</a> from the Infectious Diseases Society of America offers timely practice advice for the clinical treatment of three of the most common drug-resistant pathogens.</span></p>
+<p><span style="color: #000000;">Antibiotics save countless lives, but bacteria and other microbes can evolve in ways that enable them to resist a drug&rsquo;s intended effect. Misuse or overuse of antibiotics has resulted in widespread antimicrobial resistance (AMR), and experts say the COVID-19 pandemic could make it much worse.</span></p>
+<p><span style="color: #000000;">AMR pathogens caused more than 2.8 million infections and over 35,000 deaths annually in the United States from 2012 through 2017, according to the Centers for Disease Control and Prevention.</span></p>
+<p><span style="color: #000000;">Developed by a panel of six infectious diseases specialists with clinical and research expertise in the treatment of AMR bacterial infections, this first-in-a-series guidance addresses three groups of AMR Gram-negative bacteria that pose particular therapeutic challenges and have been designated as urgent or serious threats by CDC:</span></p>
+<ul>
+<li><span style="color: #000000;">Extended-spectrum &beta;-lactamase producing Enterobacterales (ESBL-E)</span></li>
+<li><span style="color: #000000;">Carbapenem-resistant Enterobacterales (CRE)</span></li>
+<li><span style="color: #000000;">Difficult-to-treat resistance (DTR)-<em>Pseudomonas aeruginosa</em></span></li>
+</ul>
+<p><span style="color: #000000;">The AMR field is rapidly evolving, and the treatment of these infections is complex. Updates to this AMR treatment guidance document will occur regularly through an iterative review process that will incorporate new evidence Furthermore, the panel will expand recommendations to include other problematic Gram-negative pathogens in future iterations.</span></p>
+<p><span style="color: #000000;">&ldquo;Clinicians rely on evidence-based guidelines from other clinicians who have considered the literature and available data,&rdquo; says Cornelius J. Clancy, M.D., a panel co-chair, VA Pittsburgh Healthcare System&rsquo;s chief of infectious diseases, and an associate professor of medicine and director of the XDR Pathogen Lab at the University of Pittsburgh. &ldquo;This guidance provides clinicians with real-word recommendations on how to deal with real-world problems.&rdquo;</span></p>
+<p><span style="color: #000000;">Experts acknowledge that the ability to address rapidly evolving topics such as AMR is limited by prolonged timelines needed to generate new or updated clinical practice guidelines. As an alternative and a complement to comprehensive clinical management guidelines, which can take several years to produce and publish, IDSA endorsed developing more narrowly focused guidance documents for the treatment of some infectious diseases. These documents will address specific clinical questions for difficult-to-manage infections that are not covered by present guidelines.&nbsp;</span></p>
+<p><span style="color: #000000;">&ldquo;Clinicians will find this to be an easy-to-use resource,&rdquo; says Pranita Tamma, M.D., a panel co-chair and director of the Pediatric Antimicrobial Stewardship Program at Johns Hopkins University School of Medicine. &ldquo;Infectious diseases physicians are taking the lead in providing practical recommendations for reducing resistance, and the development of this guidance affirms the specialty&rsquo;s commitment to preparing clinicians for high-quality patient care.&rdquo;</span></p>
+<p><span style="color: #000000;"><strong>The Dual Pandemic of COVID-19 and AMR</strong></span></p>
+<p><span style="color: #000000;">Experts say the risk posed by AMR pathogens is compounded by the COVID-19 pandemic because patients who are hospitalized after contracting the novel coronavirus can become further sickened by infections that are difficult to treat without antibiotics.</span></p>
+<p><span style="color: #000000;">&ldquo;Antibiotics are unique among drugs in medicine, and we have an imperative to use them responsibly to limit the emergence of resistance. Now there&rsquo;s pressure on [antibiotic] stewardship programs to help clinicians come up with a plan to use antibiotics responsibly to treat COVID patients,&rdquo; says Dr. Clancy.</span></p>
+<p><span style="color: #000000;">Because COVID-19 patients are often given a broad spectrum of antibiotics when they enter a hospital, it changes their microbiomes &ndash; a major concern of physicians. Infectious diseases experts say they are constantly learning more about the complications of this new disease, as well as how and when to use antibiotics to treat infections in patients with COVID-19.</span></p>
+<p><span style="color: #000000;">&ldquo;More and more, as we get through this pandemic, we&rsquo;re going to see AMR raise its ugly head,&rdquo; says Thomas M. File, Jr., M.D., president of IDSA. &ldquo;Now more than ever, it&rsquo;s important for us to prioritize antimicrobial stewardship&mdash;we can&rsquo;t forget that this, too, is a global health crisis.&rdquo;</span></p>
+<p><span style="color: #000000;"><strong>IDSA Centers of Excellence</strong></span></p>
+<p><span style="color: #000000;">The development of this guidance is only one facet of IDSA&rsquo;s continued organizational commitment to AMR and stewardship. IDSA&rsquo;s Antimicrobial Stewardship Centers of Excellence program recognizes institutions that have created stewardship programs led by infectious diseases physicians and ID-trained pharmacists that are of the highest quality. A total of 101 programs nationwide have received the designation since the program&rsquo;s launch in 2017.</span></p>
+<p><span style="color: #000000;">The guidance panel was co-chaired by Drs. Tamma and Clancy. Other members of the panel include Samuel L. Aitken, PharmD, MPH; Robert A. Bonomo, M.D.; David van Duin, M.D., Ph.D.; and Amy J. Mathers, M.D.</span></p>
+<p><span style="color: #000000;">IDSA has published more than 50 treatment guidelines on various conditions and infections, ranging from HIV/AIDS to skin and soft tissue infections.</span></p>                </div>
+                
+
+            </div>
+            <div class="col-auto standardpage-col standardpage-col-right">
+                
+<div class="col-12">
+
+<div class="container-idsa">
+    <div class="clearfix HtmlBlock html-block">
+        
+<h3>Contact</h3>
+<p><a href="mailto:idsa@MessagePartnersPR.com" target="_blank" rel="noopener">idsa@MessagePartnersPR.com</a></p>
+    </div>
+</div></div>
+<!-- #Ad - Sidebar -->
+<!--
+display = div-gpt-ad-1602686325289-1    
+
+
+-->
+<div class="idsaAdvertisement idsaAdvertisement-sidebar">
+    <div class="idsaAdvertisement-sidebar">Advertisement</div>
+    <div id='div-gpt-ad-1602686325289-1'>
+        <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1602686325289-1'); });
+        </script>
+    </div>
+</div>            </div>
+        </div>
+    </div>
+
+
+
+
+<!-- #Ad - Banner -->
+<div class="idsaAdvertisement idsaAdvertisement-banner">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 text-center">
+                <div id='div-gpt-ad-1602686325289-2'>
+                    <script>
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1602686325289-2'); });
+                    </script>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+	</div>
+
+
+
+<footer class="idsa-footer">
+    <div class="container">
+        <div class="idsa-footer-top">
+            <div class="row">
+                <div class="col-lg-5 col-xl-3">
+                    <div class="idsa-footer-info">
+                            <img src="/contentassets/6d9bd5c5d90b4071b89b11f5ab2f294b/logo.png" alt="">
+                            <div class="idsa-footer-title">Phone: (703) 299-0200</div>
+                    </div>
+                </div>
+                <div class="col-lg-7 col-xl-9">
+                    <nav class="idsa-footer-nav" aria-label="Footer Navigation">
+                            <ul class="lvl-0">
+                                    <li class="lvl-0">
+                                        <div class="lvl-0 idsa-footer-nav-header">
+                                                <span class="idsa-footer-nav-item lvl-0">About IDSA</span>
+                                                <button class="idsa-footer-nav-header-trigger collapsed" data-toggle="collapse" href="#idsa-footer-nav-dropdown-0" role="button" aria-expanded="false" aria-controls="idsa-footer-nav-dropdown-0"><span class="fas fa-chevron-up"></span></button>
+                                        </div>
+                                                <ul class="lvl-1 collapse" id="idsa-footer-nav-dropdown-0">
+                                                    <li class="lvl-1">
+                                                            <a class="idsa-footer-nav-item lvl-1" href="/about-us/" target="_self">
+                                                                About
+                                                            </a>
+                                                    </li>
+                                                    <li class="lvl-1">
+                                                            <a class="idsa-footer-nav-item lvl-1" href="/about-us/board-of-directors/" target="_self">
+                                                                Board of Directors 
+                                                            </a>
+                                                    </li>
+                                                    <li class="lvl-1">
+                                                            <a class="idsa-footer-nav-item lvl-1" href="/global/contact-us/" target="_self">
+                                                                Contact Us
+                                                            </a>
+                                                    </li>
+                                                    <li class="lvl-1">
+                                                            <a class="idsa-footer-nav-item lvl-1" href="/education--training/jobs-in-id/" target="_self">
+                                                                Jobs in ID
+                                                            </a>
+                                                    </li>
+                                                    <li class="lvl-1">
+                                                            <a class="idsa-footer-nav-item lvl-1" href="/about-us/inclusion-diversity-access--equity/" target="_self">
+                                                                Inclusion, Diversity, Access and Equity
+                                                            </a>
+                                                    </li>
+                                                    <li class="lvl-1">
+                                                            <a class="idsa-footer-nav-item lvl-1" href="/about-us/industry-relations/" target="_self">
+                                                                Industry Relations
+                                                            </a>
+                                                    </li>
+                                            </ul>
+                                    </li>
+                            </ul>
+                            <ul class="lvl-0">
+                                    <li class="lvl-0">
+                                        <div class="lvl-0 idsa-footer-nav-header">
+                                                <span class="idsa-footer-nav-item lvl-0">News &amp; Insights</span>
+                                                <button class="idsa-footer-nav-header-trigger collapsed" data-toggle="collapse" href="#idsa-footer-nav-dropdown-1" role="button" aria-expanded="false" aria-controls="idsa-footer-nav-dropdown-1"><span class="fas fa-chevron-up"></span></button>
+                                        </div>
+                                                <ul class="lvl-1 collapse" id="idsa-footer-nav-dropdown-1">
+                                                    <li class="lvl-1">
+                                                            <a class="idsa-footer-nav-item lvl-1" href="/value-of-id/" target="_self">
+                                                                Value of ID
+                                                            </a>
+                                                    </li>
+                                                    <li class="lvl-1">
+                                                            <a class="idsa-footer-nav-item lvl-1" href="/science-speaks-blog/" target="_self">
+                                                                Science Speaks Blog
+                                                            </a>
+                                                    </li>
+                                                    <li class="lvl-1">
+                                                            <a class="idsa-footer-nav-item lvl-1" href="/news--publications-new/" target="_self">
+                                                                News 
+                                                            </a>
+                                                    </li>
+                                                    <li class="lvl-1">
+                                                            <a class="idsa-footer-nav-item lvl-1" href="/multimedia/" target="_self">
+                                                                Multimedia
+                                                            </a>
+                                                    </li>
+                                                    <li class="lvl-1">
+                                                            <a class="idsa-footer-nav-item lvl-1" href="/journals/journals--publications/" target="_self">
+                                                                Journals
+                                                            </a>
+                                                    </li>
+                                                    <li class="lvl-1">
+                                                            <a class="idsa-footer-nav-item lvl-1" href="/event-listing/" target="_self">
+                                                                Events
+                                                            </a>
+                                                    </li>
+                                            </ul>
+                                    </li>
+                            </ul>
+                            <ul class="lvl-0">
+                                    <li class="lvl-0">
+                                        <div class="lvl-0 idsa-footer-nav-header">
+                                                <span class="idsa-footer-nav-item lvl-0">Membership &amp; Community</span>
+                                                <button class="idsa-footer-nav-header-trigger collapsed" data-toggle="collapse" href="#idsa-footer-nav-dropdown-2" role="button" aria-expanded="false" aria-controls="idsa-footer-nav-dropdown-2"><span class="fas fa-chevron-up"></span></button>
+                                        </div>
+                                                <ul class="lvl-1 collapse" id="idsa-footer-nav-dropdown-2">
+                                                    <li class="lvl-1">
+                                                            <a class="idsa-footer-nav-item lvl-1" href="/membership-community/volunteer-opportunities/" target="_self">
+                                                                Volunteer Opportunities
+                                                            </a>
+                                                    </li>
+                                                    <li class="lvl-1">
+                                                            <a class="idsa-footer-nav-item lvl-1" href="/membership-community/state-and-regional-affiliate-program/" target="_self">
+                                                                State &amp; Regional Affiliate Program
+                                                            </a>
+                                                    </li>
+                                                    <li class="lvl-1">
+                                                            <a class="idsa-footer-nav-item lvl-1" href="/about-us/awards/society-awards/" target="_self">
+                                                                Society Awards
+                                                            </a>
+                                                    </li>
+                                                    <li class="lvl-1">
+                                                            <a class="idsa-footer-nav-item lvl-1" href="/policy--advocacy/member-advocacy-program/" target="_self">
+                                                                Member Advocacy Program
+                                                            </a>
+                                                    </li>
+                                                    <li class="lvl-1">
+                                                            <a class="idsa-footer-nav-item lvl-1" href="https://my.idsociety.org/home" target="_self">
+                                                                MyIDSA
+                                                            </a>
+                                                    </li>
+                                                    <li class="lvl-1">
+                                                            <a class="idsa-footer-nav-item lvl-1" href="https://my.idsociety.org/communities/allcommunities" target="_blank">
+                                                                Member Communities
+                                                            </a>
+                                                    </li>
+                                                    <li class="lvl-1">
+                                                            <a class="idsa-footer-nav-item lvl-1" href="/membership-community/membership/" target="_self">
+                                                                Join IDSA
+                                                            </a>
+                                                    </li>
+                                            </ul>
+                                    </li>
+                            </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="idsa-footer-base">
+            <div class="idsa-footer-social">
+                <div class="container">
+                    <div class="idsa-footer-social-links">
+                        <nav aria-label="Social Links">
+                            <div class="idsa-footer-social-link-clip-bl" role="presentation"></div>
+                            <div class="idsa-footer-social-link-clip-br" role="presentation"></div>
+                            <ul>
+                                    <li><a id="LinkedIn" href="https://www.linkedin.com/company/idsociety/" target="_blank"><i class="fa-brands fa-linkedin-in"><span class="sr-only">Linkedin</span></i></a></li>
+                                    <li><a id="Facebook" href="https://www.facebook.com/IDSociety" target="_blank"><i class="fa-brands fa-facebook-f"><span class="sr-only">Facebook</span></i></a></li>
+                                        <li><a id="Instagram" href="https://www.instagram.com/idsainfo/" target="_blank"><i class="fa-brands fa-instagram"><span class="sr-only">Instagram</span></i></a></li>
+                                    <li><a id="Twitter" href="https://twitter.com/idsainfo" target="_blank"><i class="fa-brands fa-x-twitter"><span class="sr-only">Twitter</span></i></a></li>
+                                    <li><a id="TikTok" href="https://www.tiktok.com/@idsainfo" target="_blank"><i class="fa-brands fa-tiktok"><span class="sr-only">TikTok</span></i></a></li>
+                                    <li><a id="Threads" href="https://www.threads.net/@idsainfo" target="_blank"><i class="fa-brands fa-threads"><span class="sr-only">Threads</span></i></a></li>
+                                    <li><a id="BlueSky" href="https://bsky.app/profile/idsainfo.bsky.social" target="_blank"><i class="fa-brands fa-bluesky"><span class="sr-only">BlueSky</span></i></a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        <div class="idsa-footer-base-content">
+            <div class="container">
+                <div class="idsa-footer-base-content-row row">
+                    <div class="idsa-footer-base-content-col idsa-footer-base-content-body col-12 col-lg-6">
+                            <div class="idsa-footer-base-copy">&#xA9;2026 Infectious Diseases Society of America</div>
+                            <div class="idsa-footer-base-legallinks">
+                                <ul>
+                                        <li><a href="/link/b2335d30fd854d2fa562016520dfc7cc.aspx">Terms of Use</a></li>
+                                        <li><a href="/link/15ddf31ec52b49eb9b38a308f8ddaed4.aspx">Privacy Policy</a></li>
+                                </ul>
+                            </div>
+                    </div>
+                    <div class="idsa-footer-base-content-col idsa-footer-base-content-logos col-12 col-lg-6">
+
+<div>
+    <a href="http://idweek.org/">
+        <img src="/globalassets/footer/idweek_green_logo.png" class="img-fluid logo h-65">
+    </a>
+</div>
+<div>
+    <a href="https://www.idsafoundation.org/">
+        <img src="/globalassets/new-branding-logos/idsa_fnd_gn.png" class="img-fluid logo h-65">
+    </a>
+</div>
+<div>
+    <a href="http://hivma.org/">
+        <img src="/contentassets/5c603dae86df4e09b9b0101963c08a7d/hivma_2025_gn.png" class="img-fluid logo h-65">
+    </a>
+</div>
+<div>
+    <a href="https://ein.idsociety.org/">
+        <img src="/globalassets/footer/ein_green_logo.png" class="img-fluid logo h-65">
+    </a>
+</div>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.10/lodash.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/tempusdominus-bootstrap-4/5.0.0-alpha14/js/tempusdominus-bootstrap-4.min.js"></script>
+
+	<script src="/v-504911232000000000/bundles/site.min.js"></script>
+	<script src="/v-504911232000000000/bundles/bravo-search.js"></script>
+
+	
+	<script defer="defer" src="/Util/Find/epi-util/find.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded',function(){if(typeof FindApi === 'function'){var api = new FindApi();api.setApplicationUrl('/');api.setServiceApiBaseUrl('/find_v2/');api.processEventFromCurrentUri();api.bindWindowEvents();api.bindAClickEvent();api.sendBufferedEvents();}})
+</script>
+
+		<script>
+		(function () {
+			var attemptsRemaining = 40;
+
+			function displayAndRefreshAds() {
+				googletag.cmd.push(function () {
+					var pubads = googletag.pubads();
+					var pageSlots = pubads.getSlots().filter(function (slot) {
+						var elementId = slot.getSlotElementId();
+						return elementId && document.getElementById(elementId);
+					});
+
+					if (pageSlots.length === 0 && attemptsRemaining-- > 0) {
+						window.setTimeout(displayAndRefreshAds, 250);
+						return;
+					}
+
+					if (pageSlots.length === 0) {
+						return;
+					}
+
+					// An earlier display call may have run before GTM defined the slot.
+					pageSlots.forEach(function (slot) {
+						googletag.display(slot);
+					});
+
+					pubads.refresh(pageSlots);
+				});
+			}
+
+			displayAndRefreshAds();
+		}());
+		</script>
+</body>
+</html>
