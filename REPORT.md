@@ -1,6 +1,6 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-07-28 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-07-29 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
@@ -8,15 +8,15 @@ _Last updated: 2026-07-28 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 **Total guidelines tracked:** 112  
 **Total PDFs downloaded:** 168  
-**Previous run:** 2026-07-27T10:04:06.608207+00:00  
+**Previous run:** 2026-07-28T10:04:18.284562+00:00  
 
 ### Guidelines Published per Year
 
 | Year | Count |
 |------|-------|
-| 2026 | 10 |
+| 2026 | 9 |
 | 2025 | 10 |
-| 2024 | 9 |
+| 2024 | 10 |
 | 2023 | 7 |
 | 2022 | 3 |
 | 2021 | 5 |
@@ -51,8 +51,7 @@ _Last updated: 2026-07-28 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 ## Recent Changes
 
-### Updated (new PDFs downloaded)
-- **AMR Guidance** — 2 new PDF(s)
+_No changes since last run._
 
 
 **Open-access full text available:** 68 of 112  
@@ -63,7 +62,6 @@ _Last updated: 2026-07-28 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 | Title | Year | Status | DOI | Free PDF |  Supp. Files |
 |-------|------|--------|-----|----------|--------------|
-| AMR Guidance | 2026 | Unknown | [DOI](https://doi.org/10.1093/cid/ciae403) | — | 2 |
 | Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Patients | 2026 | Current, Endorsed | [DOI](https://doi.org/10.1002/phar.70181) | — | — |
 | Childhood and Adolescent Immunization Schedule: United States 2026 Policy Statement | 2026 | Current, Endorsed | [DOI](https://doi.org/10.1542/peds.2025-075754) | [PDF](https://publications.aap.org/pediatrics/article-pdf/doi/10.1542/peds.2025-075754/1908868/peds_2025075754.pdf) | — |
 | Community-Acquired Pneumonia in Infants and Children | 2026 | Current, Endorsed | — | — | 10 |
@@ -83,9 +81,10 @@ _Last updated: 2026-07-28 10:04 UTC — auto-generated daily by [scraper.py](scr
 | Seasonal RTI Vaccinations in Immunocompromised Patients | 2025 | Current | — | — | 3 |
 | Staphylococcus aureus Bacteremia | 2025 | Current, Archived, In Development, Endorsed | — | — | — |
 | Sterilization and High-Level Disinfection | 2025 | Endorsed | — | — | — |
+| AMR Guidance | 2024 | Unknown | [DOI](https://doi.org/10.1093/cid/ciae403) | — | 2 |
 | COVID-19 Guideline Part 4: Serology | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae121) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciae121/56990784/ciae121.pdf) | 3 |
 | Cardiovascular Infection | 2024 | Endorsed | [DOI](https://doi.org/10.1093/cid/ciae046) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciae046/56827414/ciae046.pdf) | — |
-| Cryptococcosis | 2024 | Endorsed | [DOI](https://doi.org/10.1016/S1473-3099(23)00731-4) | — | — |
+| Cryptococcosis | 2024 | Endorsed | [DOI](https://doi.org/10.1016/S1473-3099(23)00731-4) | [PDF](https://pmc.ncbi.nlm.nih.gov/articles/PMC11526416/pdf/nihms-2026967.pdf) | — |
 | Dental Procedures | 2024 | Endorsed | — | — | 1 |
 | Intra-abdominal Infections | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae347) | — | 1 |
 | Laboratory Diagnosis of Infectious Diseases | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae104) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciae104/57262354/ciae104.pdf) | — |
