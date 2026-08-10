@@ -1,6 +1,6 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-08-09 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-08-10 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
@@ -8,7 +8,7 @@ _Last updated: 2026-08-09 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 **Total guidelines tracked:** 112  
 **Total PDFs downloaded:** 173  
-**Previous run:** 2026-08-08T10:04:05.498586+00:00  
+**Previous run:** 2026-08-09T10:04:12.951093+00:00  
 
 ### Guidelines Published per Year
 
@@ -51,8 +51,7 @@ _Last updated: 2026-08-09 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 ## Recent Changes
 
-### Updated (new PDFs downloaded)
-- **Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Patients** — 1 new PDF(s)
+_No changes since last run._
 
 
 **Open-access full text available:** 69 of 112  
