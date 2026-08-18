@@ -1,20 +1,20 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-08-17 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-08-18 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
 ## Summary Statistics
 
-**Total guidelines tracked:** 112  
+**Total guidelines tracked:** 113  
 **Total PDFs downloaded:** 173  
-**Previous run:** 2026-08-16T10:04:11.395055+00:00  
+**Previous run:** 2026-08-17T10:04:14.062552+00:00  
 
 ### Guidelines Published per Year
 
 | Year | Count |
 |------|-------|
-| 2026 | 10 |
+| 2026 | 11 |
 | 2025 | 10 |
 | 2024 | 9 |
 | 2023 | 7 |
@@ -41,9 +41,9 @@ _Last updated: 2026-08-17 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 ### Status Breakdown
 
-- **Current:** 55
+- **Current:** 56
 - **Archived:** 28
-- **Endorsed:** 40
+- **Endorsed:** 41
 - **In Development:** 5
 - **Unknown:** 4
 
@@ -51,10 +51,11 @@ _Last updated: 2026-08-17 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 ## Recent Changes
 
-_No changes since last run._
+### New Guidelines
+- **Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Adults** (2026)
 
 
-**Open-access full text available:** 69 of 112  
+**Open-access full text available:** 70 of 113  
 
 ---
 
@@ -63,6 +64,7 @@ _No changes since last run._
 | Title | Year | Status | DOI | Free PDF |  Supp. Files |
 |-------|------|--------|-----|----------|--------------|
 | AMR Guidance | 2026 | Unknown | [DOI](https://doi.org/10.1093/cid/ciae403) | — | 6 |
+| Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Adults | 2026 | Current, Endorsed | [DOI](https://doi.org/10.1002/phar.70188) | — | — |
 | Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Patients | 2026 | Current, Endorsed | [DOI](https://doi.org/10.1002/phar.70181) | — | 1 |
 | Childhood and Adolescent Immunization Schedule: United States 2026 Policy Statement | 2026 | Current, Endorsed | [DOI](https://doi.org/10.1542/peds.2025-075754) | [PDF](https://publications.aap.org/pediatrics/article-pdf/doi/10.1542/peds.2025-075754/1908868/peds_2025075754.pdf) | — |
 | Community-Acquired Pneumonia in Infants and Children | 2026 | Current, Endorsed | — | — | 10 |
