@@ -1,6 +1,6 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-08-19 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-08-20 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
@@ -8,7 +8,7 @@ _Last updated: 2026-08-19 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 **Total guidelines tracked:** 113  
 **Total PDFs downloaded:** 174  
-**Previous run:** 2026-08-18T10:04:15.102793+00:00  
+**Previous run:** 2026-08-19T10:04:10.657677+00:00  
 
 ### Guidelines Published per Year
 
@@ -51,11 +51,10 @@ _Last updated: 2026-08-19 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 ## Recent Changes
 
-### Updated (new PDFs downloaded)
-- **Asymptomatic Bacteriuria** — 1 new PDF(s)
+_No changes since last run._
 
 
-**Open-access full text available:** 68 of 113  
+**Open-access full text available:** 69 of 113  
 
 ---
 
@@ -122,7 +121,7 @@ _Last updated: 2026-08-19 10:04 UTC — auto-generated daily by [scraper.py](scr
 | Prevention and Treatment of Opportunistic Infections Among Children With HIV | 2019 | Endorsed | — | — | — |
 | Tonsillectomy in Children | 2019 | Endorsed | [DOI](https://doi.org/10.1177/0194599818801757) | — | — |
 | Treatment of Drug-Resistant TB | 2019 | Current | — | — | 2 |
-| Antimicrobial Prophylaxis for Adult Patients with Cancer-Related Immunosuppression | 2018 | Current | [DOI](https://doi.org/10.1200/JOP.18.00366) | — | — |
+| Antimicrobial Prophylaxis for Adult Patients with Cancer-Related Immunosuppression | 2018 | Current | [DOI](https://doi.org/10.1200/JOP.18.00366) | [PDF](https://ascopubs.org/doi/pdfdirect/10.1200/JOP.18.00366) | — |
 | Clostridioides difficile Prevention | 2018 | Endorsed | [DOI](https://doi.org/10.1017/ice.2018.209) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/58A118CA053D3275655703216DD64610/S0899823X1800209Xa.pdf/div-class-title-shea-neonatal-intensive-care-unit-nicu-white-paper-series-practical-approaches-to-span-class-italic-clostridioides-difficile-span-prevention-div.pdf) | 1 |
 | Clostridium difficile | 2018 | Current | [DOI](https://doi.org/10.1093/cid/cix1085) | [PDF](https://academic.oup.com/cid/article-pdf/66/7/e1/25084560/cix1085.pdf) | — |
 | Fever and Neutropenia in Adults with Cancer | 2018 | Current | — | — | — |
