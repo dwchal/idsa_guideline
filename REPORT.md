@@ -1,20 +1,20 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-08-20 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-08-21 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
 ## Summary Statistics
 
-**Total guidelines tracked:** 113  
+**Total guidelines tracked:** 114  
 **Total PDFs downloaded:** 174  
-**Previous run:** 2026-08-19T10:04:10.657677+00:00  
+**Previous run:** 2026-08-20T10:04:24.324357+00:00  
 
 ### Guidelines Published per Year
 
 | Year | Count |
 |------|-------|
-| 2026 | 11 |
+| 2026 | 12 |
 | 2025 | 10 |
 | 2024 | 9 |
 | 2023 | 7 |
@@ -41,9 +41,9 @@ _Last updated: 2026-08-20 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 ### Status Breakdown
 
-- **Current:** 56
+- **Current:** 53
 - **Archived:** 28
-- **Endorsed:** 41
+- **Endorsed:** 42
 - **In Development:** 5
 - **Unknown:** 4
 
@@ -51,10 +51,11 @@ _Last updated: 2026-08-20 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 ## Recent Changes
 
-_No changes since last run._
+### New Guidelines
+- **Cardiovascular Implantable Electronic Device Lead Management and Extraction** (2026)
 
 
-**Open-access full text available:** 69 of 113  
+**Open-access full text available:** 69 of 114  
 
 ---
 
@@ -63,9 +64,10 @@ _No changes since last run._
 | Title | Year | Status | DOI | Free PDF |  Supp. Files |
 |-------|------|--------|-----|----------|--------------|
 | AMR Guidance | 2026 | Unknown | [DOI](https://doi.org/10.1093/cid/ciae403) | — | 6 |
-| Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Adults | 2026 | Current, Endorsed | [DOI](https://doi.org/10.1002/phar.70188) | — | — |
-| Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Patients | 2026 | Current, Endorsed | [DOI](https://doi.org/10.1002/phar.70181) | — | 1 |
-| Childhood and Adolescent Immunization Schedule: United States 2026 Policy Statement | 2026 | Current, Endorsed | [DOI](https://doi.org/10.1542/peds.2025-075754) | [PDF](https://publications.aap.org/pediatrics/article-pdf/doi/10.1542/peds.2025-075754/1908868/peds_2025075754.pdf) | — |
+| Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Adults | 2026 | Endorsed | [DOI](https://doi.org/10.1002/phar.70188) | — | — |
+| Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Patients | 2026 | Endorsed | [DOI](https://doi.org/10.1002/phar.70181) | — | 1 |
+| Cardiovascular Implantable Electronic Device Lead Management and Extraction | 2026 | Endorsed | [DOI](https://doi.org/10.1016/j.hrthm.2026.04.015) | — | — |
+| Childhood and Adolescent Immunization Schedule: United States 2026 Policy Statement | 2026 | Endorsed | [DOI](https://doi.org/10.1542/peds.2025-075754) | [PDF](https://publications.aap.org/pediatrics/article-pdf/doi/10.1542/peds.2025-075754/1908868/peds_2025075754.pdf) | — |
 | Community-Acquired Pneumonia in Infants and Children | 2026 | Current, Endorsed | — | — | 10 |
 | Infection Prevention and Control of Candida auris in Pediatric Settings | 2026 | Current, Endorsed | [DOI](https://doi.org/10.1017/ash.2026.10419) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D1012137F51BF268BC89FE5DBCC1DA8A/S2732494X26104197a.pdf/div-class-title-infection-prevention-and-control-of-em-class-italic-candida-auris-em-in-pediatric-settings-div.pdf) | 1 |
 | Knowledge and Skills Required for Antimicrobial Stewardship Leaders | 2026 | Current, Endorsed | [DOI](https://doi.org/10.1017/ash.2026.10344) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3B710B07D042BDF0A2B3D2090E1B9665/S2732494X26103441a.pdf/div-class-title-guidance-for-the-knowledge-and-skills-required-for-antimicrobial-stewardship-leaders-an-update-from-the-society-for-healthcare-epidemiology-of-america-infectious-diseases-society-of-america-pediatric-infectious-diseases-society-and-the-society-of-infectious-diseases-pharmacists-div.pdf) | 1 |
