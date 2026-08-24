@@ -1,6 +1,6 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-08-23 10:05 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-08-24 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
@@ -8,7 +8,7 @@ _Last updated: 2026-08-23 10:05 UTC — auto-generated daily by [scraper.py](scr
 
 **Total guidelines tracked:** 114  
 **Total PDFs downloaded:** 175  
-**Previous run:** 2026-08-22T10:04:30.490208+00:00  
+**Previous run:** 2026-08-23T10:05:43.793807+00:00  
 
 ### Guidelines Published per Year
 
@@ -54,7 +54,7 @@ _Last updated: 2026-08-23 10:05 UTC — auto-generated daily by [scraper.py](scr
 _No changes since last run._
 
 
-**Open-access full text available:** 63 of 114  
+**Open-access full text available:** 69 of 114  
 
 ---
 
@@ -91,7 +91,7 @@ _No changes since last run._
 | Intra-abdominal Infections | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae347) | [PDF](https://digitalcommons.library.tmc.edu/cgi/viewcontent.cgi?article=7706&context=baylor_docs) | 1 |
 | Laboratory Diagnosis of Infectious Diseases | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae104) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciae104/57262354/ciae104.pdf) | — |
 | Primary Care Guidance for Persons With HIV | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae479) | [PDF](https://escholarship.org/content/qt2595546v/qt2595546v.pdf) | 1 |
-| Treatment of Drug-Resistant and Drug-Susceptible TB | 2024 | Current | [DOI](https://doi.org/10.1164/rccm.202410-2096ST) | — | 1 |
+| Treatment of Drug-Resistant and Drug-Susceptible TB | 2024 | Current | [DOI](https://doi.org/10.1164/rccm.202410-2096ST) | [PDF](https://discovery.ucl.ac.uk/id/eprint/10209599/3/Lipman_NCHHSTP_final%20accepted%20document%20Nov%202024.pdf) | 1 |
 | Tuberculosis in Community Settings | 2024 | Endorsed | [DOI](https://doi.org/10.1093/cid/ciae199) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciae199/57262824/ciae199.pdf) | — |
 | Acute Bacterial Arthritis in Pediatrics | 2023 | Current | [DOI](https://doi.org/10.1093/jpids/piad089) | [PDF](https://academic.oup.com/jpids/advance-article-pdf/doi/10.1093/jpids/piad089/52952535/piad089.pdf) | — |
 | COVID-19 Guideline Part 3: Molecular Diagnostic Testing | 2023 | Current | [DOI](https://doi.org/10.1093/cid/ciab048) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciab048/38834447/ciab048.pdf) | 4 |
@@ -99,22 +99,22 @@ _No changes since last run._
 | HCV Guidance | 2023 | Current | [DOI](https://doi.org/10.1093/cid/ciad319) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciad319/50454086/ciad319.pdf) | — |
 | New Fever in Critically Ill Patients | 2023 | Current | — | — | — |
 | Prolonged-Infusion Beta-Lactams | 2023 | Endorsed | [DOI](https://doi.org/10.1002/phar.2842) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/phar.2842) | — |
-| Strategies to Prevent Healthcare-Associated Infections | 2023 | Endorsed | [DOI](https://doi.org/10.1017/ice.2022.88) | — | 1 |
+| Strategies to Prevent Healthcare-Associated Infections | 2023 | Endorsed | [DOI](https://doi.org/10.1017/ice.2022.88) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A2124BA9B088027AE30BE46C28887084/S0899823X22000885a.pdf/div-class-title-strategies-to-prevent-ventilator-associated-pneumonia-ventilator-associated-events-and-nonventilator-hospital-acquired-pneumonia-in-acute-care-hospitals-2022-update-div.pdf) | 1 |
 | COVID-19 Guideline Part 5: Antigen Testing | 2022 | Current | [DOI](https://doi.org/10.1093/cid/ciad032) | [PDF](https://pmc.ncbi.nlm.nih.gov/articles/PMC12098014/pdf/ciad032.pdf) | 4 |
 | Prevention of Surgical Site Infections After Major Extremity Trauma | 2022 | Endorsed | — | — | 2 |
-| Stewardship During Public Health Emergencies | 2022 | Endorsed | [DOI](https://doi.org/10.1017/ice.2022.194) | — | 1 |
+| Stewardship During Public Health Emergencies | 2022 | Endorsed | [DOI](https://doi.org/10.1017/ice.2022.194) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C38220B116C139D007872C85A19968EA/S0899823X22001945a.pdf/div-class-title-shea-statement-on-antibiotic-stewardship-in-hospitals-during-public-health-emergencies-div.pdf) | 1 |
 | Acute Hematogenous Osteomyelitis in Pediatrics | 2021 | Current | [DOI](https://doi.org/10.1093/jpids/piab027) | — | — |
 | COVID-19 Guideline Part 2: Infection Prevention | 2021 | Current | [DOI](https://doi.org/10.1093/cid/ciab953) | — | 2 |
 | Clostridioides difficile 2021 Focused Update | 2021 | Current | [DOI](https://doi.org/10.1093/cid/ciab549) | [PDF](https://academic.oup.com/cid/article-pdf/73/5/e1029/40326165/ciab549.pdf) | — |
-| Surviving Sepsis Campaign Adult Guidelines 2021 | 2021 | Archived, Endorsed | [DOI](https://doi.org/10.1007/s00134-021-06506-y) | — | 1 |
-| Suspected Sepsis Report | 2021 | Endorsed | [DOI](https://doi.org/10.1016/j.annemergmed.2021.02.006) | — | — |
+| Surviving Sepsis Campaign Adult Guidelines 2021 | 2021 | Archived, Endorsed | [DOI](https://doi.org/10.1007/s00134-021-06506-y) | [PDF](https://link.springer.com/content/pdf/10.1007/s00134-021-06506-y.pdf) | 1 |
+| Suspected Sepsis Report | 2021 | Endorsed | [DOI](https://doi.org/10.1016/j.annemergmed.2021.02.006) | [PDF](http://www.annemergmed.com/article/S0196064421001177/pdf) | — |
 | Babesiosis | 2020 | Current | [DOI](https://doi.org/10.1093/cid/ciab275) | — | — |
 | Healthcare Personnel Living with Hepatitis B, Hepatitis C, or Human Immunodeficiency Virus | 2020 | Endorsed | — | — | — |
 | Lyme Disease | 2020 | Current | [DOI](https://doi.org/10.1093/cid/ciaa1215) | [PDF](https://academic.oup.com/cid/article-pdf/72/1/e1/39075868/ciaa1215.pdf) | 1 |
 | Nontuberculous Mycobacterial Diseases | 2020 | Current | [DOI](https://doi.org/10.1093/cid/ciaa241) | [PDF](https://academic.oup.com/cid/article-pdf/71/4/e1/35000000/ciaa241.pdf) | — |
 | Prevention and Treatment of Opportunistic Infections Among Adults and Adolescents | 2020 | Endorsed | — | — | — |
 | Reliability of Nonlocalizing Signs and Symptoms as Indicators of the Presence of Infection in Nursing-Home Residents | 2020 | Endorsed | [DOI](https://doi.org/10.1017/ice.2020.1282) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7293386E2E61A4224C7F71C66D48B835/S0899823X20012829a.pdf/div-class-title-reliability-of-nonlocalizing-signs-and-symptoms-as-indicators-of-the-presence-of-infection-in-nursing-home-residents-div.pdf) | 1 |
-| Staphylococcus aureus Disease Prevention | 2020 | Endorsed | [DOI](https://doi.org/10.1017/ice.2020.51) | — | 1 |
+| Staphylococcus aureus Disease Prevention | 2020 | Endorsed | [DOI](https://doi.org/10.1017/ice.2020.51) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B54E657100142EEE0FD4AEE4CC5D824E/S0899823X20000513a.pdf/div-class-title-shea-neonatal-intensive-care-unit-nicu-white-paper-series-practical-approaches-to-span-class-italic-staphylococcus-aureus-span-disease-prevention-div.pdf) | 1 |
 | Vancomycin | 2020 | Current | [DOI](https://doi.org/10.1093/ajhp/zxaa036) | [PDF](https://academic.oup.com/ajhp/article-pdf/77/11/835/33235943/zxaa036.pdf) | — |
 | Asymptomatic Bacteriuria | 2019 | Current | [DOI](https://doi.org/10.1093/cid/ciy1121) | [PDF](https://pure.amsterdamumc.nl/files/156943245/Clinical-practice-guideline-for-the-management-of-asymptomatic-bacteriuria-2019-update-by-the-infectious-diseases-socie.pdf) | 2 |
 | Community-Acquired Pneumonia in Adults | 2019 | Unknown | — | — | 4 |
