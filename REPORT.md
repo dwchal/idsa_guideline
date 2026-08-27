@@ -1,6 +1,6 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-08-26 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-08-27 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
@@ -8,7 +8,7 @@ _Last updated: 2026-08-26 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 **Total guidelines tracked:** 114  
 **Total PDFs downloaded:** 175  
-**Previous run:** 2026-08-25T10:04:11.457597+00:00  
+**Previous run:** 2026-08-26T10:04:12.861433+00:00  
 
 ### Guidelines Published per Year
 
@@ -116,7 +116,7 @@ _No changes since last run._
 | Reliability of Nonlocalizing Signs and Symptoms as Indicators of the Presence of Infection in Nursing-Home Residents | 2020 | Endorsed | [DOI](https://doi.org/10.1017/ice.2020.1282) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7293386E2E61A4224C7F71C66D48B835/S0899823X20012829a.pdf/div-class-title-reliability-of-nonlocalizing-signs-and-symptoms-as-indicators-of-the-presence-of-infection-in-nursing-home-residents-div.pdf) | 1 |
 | Staphylococcus aureus Disease Prevention | 2020 | Endorsed | [DOI](https://doi.org/10.1017/ice.2020.51) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B54E657100142EEE0FD4AEE4CC5D824E/S0899823X20000513a.pdf/div-class-title-shea-neonatal-intensive-care-unit-nicu-white-paper-series-practical-approaches-to-span-class-italic-staphylococcus-aureus-span-disease-prevention-div.pdf) | 1 |
 | Vancomycin | 2020 | Current | [DOI](https://doi.org/10.1093/ajhp/zxaa036) | [PDF](https://academic.oup.com/ajhp/article-pdf/77/11/835/33235943/zxaa036.pdf) | — |
-| Asymptomatic Bacteriuria | 2019 | Current | [DOI](https://doi.org/10.1093/cid/ciy1121) | [PDF](https://pure.amsterdamumc.nl/ws/files/156943245/Clinical-practice-guideline-for-the-management-of-asymptomatic-bacteriuria-2019-update-by-the-infectious-diseases-socie.pdf) | 2 |
+| Asymptomatic Bacteriuria | 2019 | Current | [DOI](https://doi.org/10.1093/cid/ciy1121) | [PDF](https://pure.amsterdamumc.nl/files/156943245/Clinical-practice-guideline-for-the-management-of-asymptomatic-bacteriuria-2019-update-by-the-infectious-diseases-socie.pdf) | 2 |
 | Community-Acquired Pneumonia in Adults | 2019 | Unknown | — | — | 4 |
 | Periprosthetic Joint Infections | 2019 | Endorsed | — | — | 1 |
 | Prevention and Treatment of Opportunistic Infections Among Children With HIV | 2019 | Endorsed | — | — | — |
