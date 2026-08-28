@@ -1,14 +1,14 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-08-27 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-08-28 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
 ## Summary Statistics
 
 **Total guidelines tracked:** 114  
-**Total PDFs downloaded:** 175  
-**Previous run:** 2026-08-26T10:04:12.861433+00:00  
+**Total PDFs downloaded:** 176  
+**Previous run:** 2026-08-27T10:04:18.314276+00:00  
 
 ### Guidelines Published per Year
 
@@ -51,10 +51,11 @@ _Last updated: 2026-08-27 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 ## Recent Changes
 
-_No changes since last run._
+### Updated (new PDFs downloaded)
+- **Healthcare-Associated Ventriculitis and Meningitis** — 1 new PDF(s)
 
 
-**Open-access full text available:** 69 of 114  
+**Open-access full text available:** 70 of 114  
 
 ---
 
@@ -131,7 +132,7 @@ _No changes since last run._
 | Outpatient Parenteral Antimicrobial Therapy | 2018 | Current | [DOI](https://doi.org/10.1093/cid/ciy745) | [PDF](https://academic.oup.com/cid/article-pdf/68/1/e1/27201589/ciy745.pdf) | — |
 | Cardiovascular Implantable Electronic Device Lead Management and Extraction | 2017 | Endorsed | — | — | — |
 | HIV Chronic Pain Management | 2017 | Current | [DOI](https://doi.org/10.1093/cid/cix636) | [PDF](https://academic.oup.com/cid/article-pdf/65/10/e1/24266976/cix636.pdf) | — |
-| Healthcare-Associated Ventriculitis and Meningitis | 2017 | Current | [DOI](https://doi.org/10.1093/cid/ciw861) | [PDF](https://academic.oup.com/cid/article-pdf/64/6/e34/29172643/ciw861.pdf) | — |
+| Healthcare-Associated Ventriculitis and Meningitis | 2017 | Current | [DOI](https://doi.org/10.1093/cid/ciw861) | [PDF](https://academic.oup.com/cid/article-pdf/64/6/e34/29172643/ciw861.pdf) | 1 |
 | Infectious Diarrhea | 2017 | Current | [DOI](https://doi.org/10.1093/cid/cix669) | [PDF](https://academic.oup.com/cid/article-pdf/65/12/e45/24267059/cix669.pdf) | — |
 | Outbreak Response Training Program | 2017 | Endorsed | [DOI](https://doi.org/10.1017/ice.2017.212) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8C035426B3C86E075BBB0AFFAE42F0AC/S0899823X17002124a.pdf/div-class-title-outbreak-response-and-incident-management-shea-guidance-and-resources-for-healthcare-epidemiologists-in-united-states-acute-care-hospitals-div.pdf) | 1 |
 | Aspergillosis | 2016 | Current, In Development | [DOI](https://doi.org/10.1093/cid/ciw326) | [PDF](https://escholarship.org/content/qt66q4f120/qt66q4f120.pdf) | — |
