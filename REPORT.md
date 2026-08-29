@@ -1,6 +1,6 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-08-28 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-08-29 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
@@ -8,7 +8,7 @@ _Last updated: 2026-08-28 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 **Total guidelines tracked:** 114  
 **Total PDFs downloaded:** 176  
-**Previous run:** 2026-08-27T10:04:18.314276+00:00  
+**Previous run:** 2026-08-28T10:04:12.808949+00:00  
 
 ### Guidelines Published per Year
 
@@ -51,8 +51,7 @@ _Last updated: 2026-08-28 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 ## Recent Changes
 
-### Updated (new PDFs downloaded)
-- **Healthcare-Associated Ventriculitis and Meningitis** — 1 new PDF(s)
+_No changes since last run._
 
 
 **Open-access full text available:** 70 of 114  
