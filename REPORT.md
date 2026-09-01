@@ -1,6 +1,6 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-08-31 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-09-01 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
@@ -8,7 +8,7 @@ _Last updated: 2026-08-31 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 **Total guidelines tracked:** 114  
 **Total PDFs downloaded:** 177  
-**Previous run:** 2026-08-30T10:04:09.048914+00:00  
+**Previous run:** 2026-08-31T10:04:14.573187+00:00  
 
 ### Guidelines Published per Year
 
@@ -54,7 +54,7 @@ _Last updated: 2026-08-31 10:04 UTC — auto-generated daily by [scraper.py](scr
 _No changes since last run._
 
 
-**Open-access full text available:** 70 of 114  
+**Open-access full text available:** 69 of 114  
 
 ---
 
@@ -86,7 +86,7 @@ _No changes since last run._
 | Sterilization and High-Level Disinfection | 2025 | Endorsed | — | — | — |
 | COVID-19 Guideline Part 4: Serology | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae121) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciae121/56990784/ciae121.pdf) | 3 |
 | Cardiovascular Infection | 2024 | Endorsed | [DOI](https://doi.org/10.1093/cid/ciae046) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciae046/56827414/ciae046.pdf) | — |
-| Cryptococcosis | 2024 | Endorsed | [DOI](https://doi.org/10.1016/S1473-3099(23)00731-4) | — | — |
+| Cryptococcosis | 2024 | Endorsed | [DOI](https://doi.org/10.1016/S1473-3099(23)00731-4) | [PDF](https://pmc.ncbi.nlm.nih.gov/articles/PMC11526416/pdf/nihms-2026967.pdf) | — |
 | Dental Procedures | 2024 | Endorsed | — | — | 1 |
 | Intra-abdominal Infections | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae347) | [PDF](https://digitalcommons.library.tmc.edu/cgi/viewcontent.cgi?article=7706&context=baylor_docs) | 1 |
 | Laboratory Diagnosis of Infectious Diseases | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae104) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciae104/57262354/ciae104.pdf) | — |
@@ -115,7 +115,7 @@ _No changes since last run._
 | Prevention and Treatment of Opportunistic Infections Among Adults and Adolescents | 2020 | Endorsed | — | — | — |
 | Reliability of Nonlocalizing Signs and Symptoms as Indicators of the Presence of Infection in Nursing-Home Residents | 2020 | Endorsed | [DOI](https://doi.org/10.1017/ice.2020.1282) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7293386E2E61A4224C7F71C66D48B835/S0899823X20012829a.pdf/div-class-title-reliability-of-nonlocalizing-signs-and-symptoms-as-indicators-of-the-presence-of-infection-in-nursing-home-residents-div.pdf) | 1 |
 | Staphylococcus aureus Disease Prevention | 2020 | Endorsed | [DOI](https://doi.org/10.1017/ice.2020.51) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B54E657100142EEE0FD4AEE4CC5D824E/S0899823X20000513a.pdf/div-class-title-shea-neonatal-intensive-care-unit-nicu-white-paper-series-practical-approaches-to-span-class-italic-staphylococcus-aureus-span-disease-prevention-div.pdf) | 1 |
-| Vancomycin | 2020 | Current | [DOI](https://doi.org/10.1093/ajhp/zxaa036) | [PDF](https://academic.oup.com/ajhp/article-pdf/77/11/835/33235943/zxaa036.pdf) | — |
+| Vancomycin | 2020 | Current | [DOI](https://doi.org/10.1093/ajhp/zxaa036) | — | — |
 | Asymptomatic Bacteriuria | 2019 | Current | [DOI](https://doi.org/10.1093/cid/ciy1121) | [PDF](https://pure.amsterdamumc.nl/files/156943245/Clinical-practice-guideline-for-the-management-of-asymptomatic-bacteriuria-2019-update-by-the-infectious-diseases-socie.pdf) | 2 |
 | Community-Acquired Pneumonia in Adults | 2019 | Unknown | — | — | 4 |
 | Periprosthetic Joint Infections | 2019 | Endorsed | — | — | 1 |
