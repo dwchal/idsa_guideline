@@ -1,6 +1,6 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-09-01 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-09-02 10:07 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
@@ -8,7 +8,7 @@ _Last updated: 2026-09-01 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 **Total guidelines tracked:** 114  
 **Total PDFs downloaded:** 177  
-**Previous run:** 2026-08-31T10:04:14.573187+00:00  
+**Previous run:** 2026-09-01T10:04:44.313535+00:00  
 
 ### Guidelines Published per Year
 
@@ -54,7 +54,7 @@ _Last updated: 2026-09-01 10:04 UTC — auto-generated daily by [scraper.py](scr
 _No changes since last run._
 
 
-**Open-access full text available:** 69 of 114  
+**Open-access full text available:** 62 of 114  
 
 ---
 
@@ -93,7 +93,7 @@ _No changes since last run._
 | Primary Care Guidance for Persons With HIV | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae479) | [PDF](https://escholarship.org/content/qt2595546v/qt2595546v.pdf) | 1 |
 | Treatment of Drug-Resistant and Drug-Susceptible TB | 2024 | Current | [DOI](https://doi.org/10.1164/rccm.202410-2096ST) | [PDF](https://discovery.ucl.ac.uk/id/eprint/10209599/3/Lipman_NCHHSTP_final%20accepted%20document%20Nov%202024.pdf) | 1 |
 | Tuberculosis in Community Settings | 2024 | Endorsed | [DOI](https://doi.org/10.1093/cid/ciae199) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciae199/57262824/ciae199.pdf) | — |
-| Acute Bacterial Arthritis in Pediatrics | 2023 | Current | [DOI](https://doi.org/10.1093/jpids/piad089) | [PDF](https://academic.oup.com/jpids/advance-article-pdf/doi/10.1093/jpids/piad089/52952535/piad089.pdf) | — |
+| Acute Bacterial Arthritis in Pediatrics | 2023 | Current | [DOI](https://doi.org/10.1093/jpids/piad089) | — | — |
 | COVID-19 Guideline Part 3: Molecular Diagnostic Testing | 2023 | Current | [DOI](https://doi.org/10.1093/cid/ciab048) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciab048/38834447/ciab048.pdf) | 4 |
 | Diabetic Foot Infections | 2023 | Current | [DOI](https://doi.org/10.1093/cid/ciad527) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciad527/51821045/ciad527.pdf) | — |
 | HCV Guidance | 2023 | Current | [DOI](https://doi.org/10.1093/cid/ciad319) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciad319/50454086/ciad319.pdf) | — |
@@ -115,14 +115,14 @@ _No changes since last run._
 | Prevention and Treatment of Opportunistic Infections Among Adults and Adolescents | 2020 | Endorsed | — | — | — |
 | Reliability of Nonlocalizing Signs and Symptoms as Indicators of the Presence of Infection in Nursing-Home Residents | 2020 | Endorsed | [DOI](https://doi.org/10.1017/ice.2020.1282) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7293386E2E61A4224C7F71C66D48B835/S0899823X20012829a.pdf/div-class-title-reliability-of-nonlocalizing-signs-and-symptoms-as-indicators-of-the-presence-of-infection-in-nursing-home-residents-div.pdf) | 1 |
 | Staphylococcus aureus Disease Prevention | 2020 | Endorsed | [DOI](https://doi.org/10.1017/ice.2020.51) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B54E657100142EEE0FD4AEE4CC5D824E/S0899823X20000513a.pdf/div-class-title-shea-neonatal-intensive-care-unit-nicu-white-paper-series-practical-approaches-to-span-class-italic-staphylococcus-aureus-span-disease-prevention-div.pdf) | 1 |
-| Vancomycin | 2020 | Current | [DOI](https://doi.org/10.1093/ajhp/zxaa036) | — | — |
-| Asymptomatic Bacteriuria | 2019 | Current | [DOI](https://doi.org/10.1093/cid/ciy1121) | [PDF](https://pure.amsterdamumc.nl/files/156943245/Clinical-practice-guideline-for-the-management-of-asymptomatic-bacteriuria-2019-update-by-the-infectious-diseases-socie.pdf) | 2 |
+| Vancomycin | 2020 | Current | [DOI](https://doi.org/10.1093/ajhp/zxaa036) | [PDF](https://academic.oup.com/ajhp/article-pdf/77/11/835/33235943/zxaa036.pdf) | — |
+| Asymptomatic Bacteriuria | 2019 | Current | [DOI](https://doi.org/10.1093/cid/ciy1121) | — | 2 |
 | Community-Acquired Pneumonia in Adults | 2019 | Unknown | — | — | 4 |
 | Periprosthetic Joint Infections | 2019 | Endorsed | — | — | 1 |
 | Prevention and Treatment of Opportunistic Infections Among Children With HIV | 2019 | Endorsed | — | — | — |
 | Tonsillectomy in Children | 2019 | Endorsed | [DOI](https://doi.org/10.1177/0194599818801757) | — | — |
 | Treatment of Drug-Resistant TB | 2019 | Current | — | — | 2 |
-| Antimicrobial Prophylaxis for Adult Patients with Cancer-Related Immunosuppression | 2018 | Current | [DOI](https://doi.org/10.1200/JOP.18.00366) | [PDF](https://ascopubs.org/doi/pdfdirect/10.1200/JOP.18.00366) | — |
+| Antimicrobial Prophylaxis for Adult Patients with Cancer-Related Immunosuppression | 2018 | Current | [DOI](https://doi.org/10.1200/JOP.18.00366) | — | — |
 | Clostridioides difficile Prevention | 2018 | Endorsed | [DOI](https://doi.org/10.1017/ice.2018.209) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/58A118CA053D3275655703216DD64610/S0899823X1800209Xa.pdf/div-class-title-shea-neonatal-intensive-care-unit-nicu-white-paper-series-practical-approaches-to-span-class-italic-clostridioides-difficile-span-prevention-div.pdf) | 1 |
 | Clostridium difficile | 2018 | Current | [DOI](https://doi.org/10.1093/cid/cix1085) | [PDF](https://academic.oup.com/cid/article-pdf/66/7/e1/25084560/cix1085.pdf) | — |
 | Fever and Neutropenia in Adults with Cancer | 2018 | Current | — | — | — |
@@ -134,7 +134,7 @@ _No changes since last run._
 | Healthcare-Associated Ventriculitis and Meningitis | 2017 | Current | [DOI](https://doi.org/10.1093/cid/ciw861) | [PDF](https://academic.oup.com/cid/article-pdf/64/6/e34/29172643/ciw861.pdf) | 2 |
 | Infectious Diarrhea | 2017 | Current | [DOI](https://doi.org/10.1093/cid/cix669) | [PDF](https://academic.oup.com/cid/article-pdf/65/12/e45/24267059/cix669.pdf) | — |
 | Outbreak Response Training Program | 2017 | Endorsed | [DOI](https://doi.org/10.1017/ice.2017.212) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8C035426B3C86E075BBB0AFFAE42F0AC/S0899823X17002124a.pdf/div-class-title-outbreak-response-and-incident-management-shea-guidance-and-resources-for-healthcare-epidemiologists-in-united-states-acute-care-hospitals-div.pdf) | 1 |
-| Aspergillosis | 2016 | Current, In Development | [DOI](https://doi.org/10.1093/cid/ciw326) | [PDF](https://escholarship.org/content/qt66q4f120/qt66q4f120.pdf) | — |
+| Aspergillosis | 2016 | Current, In Development | [DOI](https://doi.org/10.1093/cid/ciw326) | — | — |
 | Coccidioidomycosis | 2016 | Current | [DOI](https://doi.org/10.1093/cid/ciw360) | [PDF](https://academic.oup.com/cid/article-pdf/63/6/e112/13132812/ciw360.pdf) | — |
 | Diagnosis of Tuberculosis in Adults and Children | 2016 | Current | [DOI](https://doi.org/10.1093/cid/ciw694) | [PDF](https://academic.oup.com/cid/article-pdf/64/2/e1/13803345/ciw694.pdf) | — |
 | Hospital-Acquired and Ventilator-Associated Pneumonia | 2016 | Current | [DOI](https://doi.org/10.1093/cid/ciw353) | [PDF](https://academic.oup.com/cid/article-pdf/63/5/e61/28679213/ciw353.pdf) | — |
@@ -167,12 +167,12 @@ _No changes since last run._
 | Opportunistic Infections Among Hematopoietic Stem Cell Transplant Recipients | 2009 | Endorsed | [DOI](https://doi.org/10.1016/S1083-8791(00)70002-4) | — | — |
 | Blastomycosis | 2008 | Archived | [DOI](https://doi.org/10.1086/588300) | — | — |
 | Encephalitis | 2008 | Archived | [DOI](https://doi.org/10.1086/589747) | [PDF](https://academic.oup.com/cid/article-pdf/47/3/303/13141982/47-3-303.pdf) | — |
-| Antimicrobial Stewardship | 2007 | Archived | [DOI](https://doi.org/10.1086/510393) | [PDF](https://academic.oup.com/cid/article-pdf/44/2/159/34127150/44-2-159.pdf) | — |
+| Antimicrobial Stewardship | 2007 | Archived | [DOI](https://doi.org/10.1086/510393) | — | — |
 | Histoplasmosis | 2007 | Archived | [DOI](https://doi.org/10.1086/521259) | — | — |
 | Nervous System Lyme Disease | 2007 | Archived, Endorsed | [DOI](https://doi.org/10.1212/01.wnl.0000265517.66976.28) | [PDF](https://n.neurology.org/content/neurology/69/1/91.full.pdf) | — |
 | Prevention of Infective Endocarditis | 2007 | Endorsed | — | — | — |
 | Sporotrichosis | 2007 | Archived | [DOI](https://doi.org/10.1086/522765) | — | — |
 | Travel Medicine | 2006 | Archived | [DOI](https://doi.org/10.1086/508782) | — | — |
 | Control of Tuberculosis in the United States | 2005 | Endorsed | — | — | — |
-| Bacterial Meningitis | 2004 | Archived | [DOI](https://doi.org/10.1086/425368) | [PDF](https://academic.oup.com/cid/article-pdf/39/9/1267/34126253/39-9-1267.pdf) | — |
+| Bacterial Meningitis | 2004 | Archived | [DOI](https://doi.org/10.1086/425368) | — | — |
 | Management of Dyslipidemia in Adults Receiving ART | 2003 | Archived | [DOI](https://doi.org/10.1086/378131) | — | — |
