@@ -1,6 +1,6 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-09-03 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-09-04 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
@@ -8,7 +8,7 @@ _Last updated: 2026-09-03 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 **Total guidelines tracked:** 114  
 **Total PDFs downloaded:** 186  
-**Previous run:** 2026-09-02T10:07:43.601781+00:00  
+**Previous run:** 2026-09-03T10:04:27.603601+00:00  
 
 ### Guidelines Published per Year
 
@@ -51,8 +51,7 @@ _Last updated: 2026-09-03 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 ## Recent Changes
 
-### Updated (new PDFs downloaded)
-- **Seasonal RTI Vaccinations in Immunocompromised Patients** — 9 new PDF(s)
+_No changes since last run._
 
 
 **Open-access full text available:** 70 of 114  
