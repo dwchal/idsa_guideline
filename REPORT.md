@@ -1,21 +1,21 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-09-09 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-09-10 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
 ## Summary Statistics
 
 **Total guidelines tracked:** 114  
-**Total PDFs downloaded:** 186  
-**Previous run:** 2026-09-08T10:04:06.626812+00:00  
+**Total PDFs downloaded:** 203  
+**Previous run:** 2026-09-09T10:04:16.567368+00:00  
 
 ### Guidelines Published per Year
 
 | Year | Count |
 |------|-------|
-| 2026 | 12 |
-| 2025 | 10 |
+| 2026 | 13 |
+| 2025 | 9 |
 | 2024 | 9 |
 | 2023 | 7 |
 | 2022 | 3 |
@@ -42,16 +42,17 @@ _Last updated: 2026-09-09 10:04 UTC — auto-generated daily by [scraper.py](scr
 ### Status Breakdown
 
 - **Current:** 53
-- **Archived:** 28
+- **Archived:** 27
 - **Endorsed:** 42
-- **In Development:** 5
+- **In Development:** 4
 - **Unknown:** 4
 
 ---
 
 ## Recent Changes
 
-_No changes since last run._
+### Updated (new PDFs downloaded)
+- **Staphylococcus aureus Bacteremia** — 17 new PDF(s)
 
 
 **Open-access full text available:** 70 of 114  
@@ -72,6 +73,7 @@ _No changes since last run._
 | Knowledge and Skills Required for Antimicrobial Stewardship Leaders | 2026 | Current, Endorsed | [DOI](https://doi.org/10.1017/ash.2026.10344) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3B710B07D042BDF0A2B3D2090E1B9665/S2732494X26103441a.pdf/div-class-title-guidance-for-the-knowledge-and-skills-required-for-antimicrobial-stewardship-leaders-an-update-from-the-society-for-healthcare-epidemiology-of-america-infectious-diseases-society-of-america-pediatric-infectious-diseases-society-and-the-society-of-infectious-diseases-pharmacists-div.pdf) | 1 |
 | Maternal Immunizations | 2026 | Current, Endorsed | — | — | — |
 | Prevention of Invasive Aspergillosis | 2026 | Current, Endorsed | — | — | 2 |
+| Staphylococcus aureus Bacteremia | 2026 | Current, Endorsed | — | — | 17 |
 | Surviving Sepsis Campaign Adult Guidelines 2026 | 2026 | Current, Endorsed | — | — | — |
 | Surviving Sepsis Campaign Children Guidelines 2026 | 2026 | Current, Endorsed | — | — | — |
 | COVID-19 Guideline Part 1: Treatment and Management | 2025 | Current | [DOI](https://doi.org/10.1093/cid/ciaf680) | — | 87 |
@@ -82,11 +84,10 @@ _No changes since last run._
 | Histoplasmosis | 2025 | Current | [DOI](https://doi.org/10.1093/cid/ciaf256) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciaf256/63774372/ciaf256.pdf) | 1 |
 | Infection Prevention and Control in Nursing Homes | 2025 | Endorsed | [DOI](https://doi.org/10.1017/ice.2025.10252) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/88B28E99CD7FDB3668DDAE9C3D2184A0/S0899823X25102523a.pdf/div-class-title-multisociety-guidance-for-infection-prevention-and-control-in-nursing-homes-div.pdf) | 1 |
 | Seasonal RTI Vaccinations in Immunocompromised Patients | 2025 | Current | — | — | 12 |
-| Staphylococcus aureus Bacteremia | 2025 | Current, Archived, In Development, Endorsed | — | — | — |
 | Sterilization and High-Level Disinfection | 2025 | Endorsed | — | — | — |
 | COVID-19 Guideline Part 4: Serology | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae121) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciae121/56990784/ciae121.pdf) | 3 |
 | Cardiovascular Infection | 2024 | Endorsed | [DOI](https://doi.org/10.1093/cid/ciae046) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciae046/56827414/ciae046.pdf) | — |
-| Cryptococcosis | 2024 | Endorsed | [DOI](https://doi.org/10.1016/S1473-3099(23)00731-4) | — | — |
+| Cryptococcosis | 2024 | Endorsed | [DOI](https://doi.org/10.1016/S1473-3099(23)00731-4) | [PDF](https://pmc.ncbi.nlm.nih.gov/articles/PMC11526416/pdf/nihms-2026967.pdf) | — |
 | Dental Procedures | 2024 | Endorsed | — | — | 1 |
 | Intra-abdominal Infections | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae347) | [PDF](https://digitalcommons.library.tmc.edu/cgi/viewcontent.cgi?article=7706&context=baylor_docs) | 1 |
 | Laboratory Diagnosis of Infectious Diseases | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae104) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciae104/57262354/ciae104.pdf) | — |
