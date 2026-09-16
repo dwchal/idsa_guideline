@@ -1,6 +1,6 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-09-15 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-09-16 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
@@ -8,7 +8,7 @@ _Last updated: 2026-09-15 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 **Total guidelines tracked:** 114  
 **Total PDFs downloaded:** 203  
-**Previous run:** 2026-09-14T10:04:08.344283+00:00  
+**Previous run:** 2026-09-15T10:04:09.108171+00:00  
 
 ### Guidelines Published per Year
 
