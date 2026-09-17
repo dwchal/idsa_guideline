@@ -1,21 +1,21 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-09-16 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-09-17 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
 ## Summary Statistics
 
 **Total guidelines tracked:** 114  
-**Total PDFs downloaded:** 203  
-**Previous run:** 2026-09-15T10:04:09.108171+00:00  
+**Total PDFs downloaded:** 206  
+**Previous run:** 2026-09-16T10:04:09.694747+00:00  
 
 ### Guidelines Published per Year
 
 | Year | Count |
 |------|-------|
-| 2026 | 13 |
-| 2025 | 9 |
+| 2026 | 14 |
+| 2025 | 8 |
 | 2024 | 9 |
 | 2023 | 7 |
 | 2022 | 3 |
@@ -51,10 +51,14 @@ _Last updated: 2026-09-16 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 ## Recent Changes
 
-_No changes since last run._
+### New Guidelines
+- **Histoplasmosis Archive** (2007)
+
+### Updated (new PDFs downloaded)
+- **Histoplasmosis 2026** — 4 new PDF(s)
 
 
-**Open-access full text available:** 70 of 114  
+**Open-access full text available:** 69 of 114  
 
 ---
 
@@ -68,6 +72,7 @@ _No changes since last run._
 | Cardiovascular Implantable Electronic Device Lead Management and Extraction | 2026 | Endorsed | [DOI](https://doi.org/10.1016/j.hrthm.2026.04.015) | — | — |
 | Childhood and Adolescent Immunization Schedule: United States 2026 Policy Statement | 2026 | Endorsed | [DOI](https://doi.org/10.1542/peds.2025-075754) | [PDF](https://publications.aap.org/pediatrics/article-pdf/doi/10.1542/peds.2025-075754/1908868/peds_2025075754.pdf) | — |
 | Community-Acquired Pneumonia in Infants and Children | 2026 | Current, Endorsed | — | — | 10 |
+| Histoplasmosis 2026 | 2026 | Current | — | — | 4 |
 | Infection Prevention and Control of Candida auris in Pediatric Settings | 2026 | Current, Endorsed | [DOI](https://doi.org/10.1017/ash.2026.10419) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D1012137F51BF268BC89FE5DBCC1DA8A/S2732494X26104197a.pdf/div-class-title-infection-prevention-and-control-of-em-class-italic-candida-auris-em-in-pediatric-settings-div.pdf) | 1 |
 | Knowledge and Skills Required for Antimicrobial Stewardship Leaders | 2026 | Current, Endorsed | [DOI](https://doi.org/10.1017/ash.2026.10344) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3B710B07D042BDF0A2B3D2090E1B9665/S2732494X26103441a.pdf/div-class-title-guidance-for-the-knowledge-and-skills-required-for-antimicrobial-stewardship-leaders-an-update-from-the-society-for-healthcare-epidemiology-of-america-infectious-diseases-society-of-america-pediatric-infectious-diseases-society-and-the-society-of-infectious-diseases-pharmacists-div.pdf) | 1 |
 | Maternal Immunizations | 2026 | Current, Endorsed | — | — | — |
@@ -80,7 +85,6 @@ _No changes since last run._
 | Group A Streptococcal Pharyngitis | 2025 | Current | [DOI](https://doi.org/10.1093/cid/ciaf668) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciaf668/65756988/ciaf668.pdf) | 2 |
 | Healthcare Facility Infection Prevention and Control Programs | 2025 | Endorsed | [DOI](https://doi.org/10.1017/ice.2025.73) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C311429CFF522A0F94E6D9B5643017A6/S0899823X2500073Xa.pdf/div-class-title-shea-apic-idsa-pids-multisociety-position-paper-raising-the-bar-necessary-resources-and-structure-for-effective-healthcare-facility-infection-prevention-and-control-programs-div.pdf) | 1 |
 | Hepatitis B | 2025 | Current | — | — | — |
-| Histoplasmosis | 2025 | Current | [DOI](https://doi.org/10.1093/cid/ciaf256) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciaf256/63774372/ciaf256.pdf) | 1 |
 | Infection Prevention and Control in Nursing Homes | 2025 | Endorsed | [DOI](https://doi.org/10.1017/ice.2025.10252) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/88B28E99CD7FDB3668DDAE9C3D2184A0/S0899823X25102523a.pdf/div-class-title-multisociety-guidance-for-infection-prevention-and-control-in-nursing-homes-div.pdf) | 1 |
 | Seasonal RTI Vaccinations in Immunocompromised Patients | 2025 | Current | — | — | 12 |
 | Sterilization and High-Level Disinfection | 2025 | Endorsed | — | — | — |
@@ -168,7 +172,7 @@ _No changes since last run._
 | Blastomycosis | 2008 | Archived | [DOI](https://doi.org/10.1086/588300) | — | — |
 | Encephalitis | 2008 | Archived | [DOI](https://doi.org/10.1086/589747) | [PDF](https://academic.oup.com/cid/article-pdf/47/3/303/13141982/47-3-303.pdf) | — |
 | Antimicrobial Stewardship | 2007 | Archived | [DOI](https://doi.org/10.1086/510393) | [PDF](https://academic.oup.com/cid/article-pdf/44/2/159/34127150/44-2-159.pdf) | — |
-| Histoplasmosis | 2007 | Archived | [DOI](https://doi.org/10.1086/521259) | — | — |
+| Histoplasmosis Archive | 2007 | Archived | [DOI](https://doi.org/10.1086/521259) | — | — |
 | Nervous System Lyme Disease | 2007 | Archived, Endorsed | [DOI](https://doi.org/10.1212/01.wnl.0000265517.66976.28) | [PDF](https://n.neurology.org/content/neurology/69/1/91.full.pdf) | — |
 | Prevention of Infective Endocarditis | 2007 | Endorsed | — | — | — |
 | Sporotrichosis | 2007 | Archived | [DOI](https://doi.org/10.1086/522765) | — | — |
