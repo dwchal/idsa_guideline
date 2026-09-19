@@ -1,6 +1,6 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-09-18 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-09-19 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
@@ -8,7 +8,7 @@ _Last updated: 2026-09-18 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 **Total guidelines tracked:** 114  
 **Total PDFs downloaded:** 206  
-**Previous run:** 2026-09-17T10:04:15.588640+00:00  
+**Previous run:** 2026-09-18T10:04:05.658587+00:00  
 
 ### Guidelines Published per Year
 
@@ -51,7 +51,8 @@ _Last updated: 2026-09-18 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 ## Recent Changes
 
-_No changes since last run._
+### New Guidelines
+- **Histoplasmosis 2007** (2007)
 
 
 **Open-access full text available:** 69 of 114  
@@ -168,7 +169,7 @@ _No changes since last run._
 | Blastomycosis | 2008 | Archived | [DOI](https://doi.org/10.1086/588300) | — | — |
 | Encephalitis | 2008 | Archived | [DOI](https://doi.org/10.1086/589747) | [PDF](https://academic.oup.com/cid/article-pdf/47/3/303/13141982/47-3-303.pdf) | — |
 | Antimicrobial Stewardship | 2007 | Archived | [DOI](https://doi.org/10.1086/510393) | [PDF](https://academic.oup.com/cid/article-pdf/44/2/159/34127150/44-2-159.pdf) | — |
-| Histoplasmosis Archive | 2007 | Archived | [DOI](https://doi.org/10.1086/521259) | — | — |
+| Histoplasmosis 2007 | 2007 | Archived | [DOI](https://doi.org/10.1086/521259) | — | — |
 | Nervous System Lyme Disease | 2007 | Archived, Endorsed | [DOI](https://doi.org/10.1212/01.wnl.0000265517.66976.28) | [PDF](https://n.neurology.org/content/neurology/69/1/91.full.pdf) | — |
 | Prevention of Infective Endocarditis | 2007 | Endorsed | — | — | — |
 | Sporotrichosis | 2007 | Archived | [DOI](https://doi.org/10.1086/522765) | — | — |
