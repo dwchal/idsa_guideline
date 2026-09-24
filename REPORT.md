@@ -1,21 +1,21 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-09-23 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-09-24 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
 ## Summary Statistics
 
 **Total guidelines tracked:** 115  
-**Total PDFs downloaded:** 206  
-**Previous run:** 2026-09-22T10:04:07.859423+00:00  
+**Total PDFs downloaded:** 211  
+**Previous run:** 2026-09-23T10:04:11.635182+00:00  
 
 ### Guidelines Published per Year
 
 | Year | Count |
 |------|-------|
-| 2026 | 16 |
-| 2025 | 7 |
+| 2026 | 17 |
+| 2025 | 6 |
 | 2024 | 9 |
 | 2023 | 7 |
 | 2022 | 3 |
@@ -51,8 +51,8 @@ _Last updated: 2026-09-23 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 ## Recent Changes
 
-### New Guidelines
-- **Personalized Bacteriophage Therapy** (2026)
+### Updated (new PDFs downloaded)
+- **COVID-19 Guideline Part 1: Treatment and Management** — 5 new PDF(s)
 
 
 **Open-access full text available:** 69 of 115  
@@ -66,6 +66,7 @@ _Last updated: 2026-09-23 10:04 UTC — auto-generated daily by [scraper.py](scr
 | AMR Guidance | 2026 | Unknown | [DOI](https://doi.org/10.1093/cid/ciae403) | — | 6 |
 | Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Adults | 2026 | Endorsed | [DOI](https://doi.org/10.1002/phar.70188) | — | — |
 | Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Patients | 2026 | Endorsed | [DOI](https://doi.org/10.1002/phar.70181) | — | 1 |
+| COVID-19 Guideline Part 1: Treatment and Management | 2026 | Current | [DOI](https://doi.org/10.1093/cid/ciaf680) | — | 92 |
 | Cardiovascular Implantable Electronic Device Lead Management and Extraction | 2026 | Endorsed | [DOI](https://doi.org/10.1016/j.hrthm.2026.04.015) | — | — |
 | Childhood and Adolescent Immunization Schedule: United States 2026 Policy Statement | 2026 | Endorsed | [DOI](https://doi.org/10.1542/peds.2025-075754) | [PDF](https://publications.aap.org/pediatrics/article-pdf/doi/10.1542/peds.2025-075754/1908868/peds_2025075754.pdf) | — |
 | Community-Acquired Pneumonia in Infants and Children | 2026 | Current, Endorsed | — | — | 10 |
@@ -79,7 +80,6 @@ _Last updated: 2026-09-23 10:04 UTC — auto-generated daily by [scraper.py](scr
 | Staphylococcus aureus Bacteremia | 2026 | Unknown | — | — | 17 |
 | Surviving Sepsis Campaign Adult Guidelines 2026 | 2026 | Current, Endorsed | — | — | — |
 | Surviving Sepsis Campaign Children Guidelines 2026 | 2026 | Current, Endorsed | — | — | — |
-| COVID-19 Guideline Part 1: Treatment and Management | 2025 | Current | [DOI](https://doi.org/10.1093/cid/ciaf680) | — | 87 |
 | Complicated Urinary Tract Infections | 2025 | Current | — | — | 19 |
 | Group A Streptococcal Pharyngitis | 2025 | Current | [DOI](https://doi.org/10.1093/cid/ciaf668) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciaf668/65756988/ciaf668.pdf) | 2 |
 | Healthcare Facility Infection Prevention and Control Programs | 2025 | Endorsed | [DOI](https://doi.org/10.1017/ice.2025.73) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C311429CFF522A0F94E6D9B5643017A6/S0899823X2500073Xa.pdf/div-class-title-shea-apic-idsa-pids-multisociety-position-paper-raising-the-bar-necessary-resources-and-structure-for-effective-healthcare-facility-infection-prevention-and-control-programs-div.pdf) | 1 |
