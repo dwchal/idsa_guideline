@@ -1,14 +1,14 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-09-24 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-09-25 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
 ## Summary Statistics
 
 **Total guidelines tracked:** 115  
-**Total PDFs downloaded:** 211  
-**Previous run:** 2026-09-23T10:04:11.635182+00:00  
+**Total PDFs downloaded:** 212  
+**Previous run:** 2026-09-24T10:04:20.409382+00:00  
 
 ### Guidelines Published per Year
 
@@ -52,10 +52,10 @@ _Last updated: 2026-09-24 10:04 UTC — auto-generated daily by [scraper.py](scr
 ## Recent Changes
 
 ### Updated (new PDFs downloaded)
-- **COVID-19 Guideline Part 1: Treatment and Management** — 5 new PDF(s)
+- **Personalized Bacteriophage Therapy** — 1 new PDF(s)
 
 
-**Open-access full text available:** 69 of 115  
+**Open-access full text available:** 70 of 115  
 
 ---
 
@@ -74,7 +74,7 @@ _Last updated: 2026-09-24 10:04 UTC — auto-generated daily by [scraper.py](scr
 | Infection Prevention and Control of Candida auris in Pediatric Settings | 2026 | Current, Endorsed | [DOI](https://doi.org/10.1017/ash.2026.10419) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D1012137F51BF268BC89FE5DBCC1DA8A/S2732494X26104197a.pdf/div-class-title-infection-prevention-and-control-of-em-class-italic-candida-auris-em-in-pediatric-settings-div.pdf) | 1 |
 | Knowledge and Skills Required for Antimicrobial Stewardship Leaders | 2026 | Current, Endorsed | [DOI](https://doi.org/10.1017/ash.2026.10344) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3B710B07D042BDF0A2B3D2090E1B9665/S2732494X26103441a.pdf/div-class-title-guidance-for-the-knowledge-and-skills-required-for-antimicrobial-stewardship-leaders-an-update-from-the-society-for-healthcare-epidemiology-of-america-infectious-diseases-society-of-america-pediatric-infectious-diseases-society-and-the-society-of-infectious-diseases-pharmacists-div.pdf) | 1 |
 | Maternal Immunizations | 2026 | Current, Endorsed | — | — | — |
-| Personalized Bacteriophage Therapy | 2026 | Endorsed | [DOI](https://doi.org/10.1038/s41591-026-04654-6) | — | — |
+| Personalized Bacteriophage Therapy | 2026 | Endorsed | [DOI](https://doi.org/10.1038/s41591-026-04654-6) | [PDF](https://www.nature.com/articles/s41591-026-04654-6.pdf) | 1 |
 | Prevention of Invasive Aspergillosis | 2026 | Current, Endorsed | — | — | 2 |
 | Seasonal RTI Vaccinations | 2026 | Unknown | — | — | 12 |
 | Staphylococcus aureus Bacteremia | 2026 | Unknown | — | — | 17 |
