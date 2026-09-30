@@ -1,14 +1,14 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-09-29 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-09-30 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
 ## Summary Statistics
 
 **Total guidelines tracked:** 115  
-**Total PDFs downloaded:** 212  
-**Previous run:** 2026-09-28T10:04:13.916987+00:00  
+**Total PDFs downloaded:** 213  
+**Previous run:** 2026-09-29T10:04:15.734879+00:00  
 
 ### Guidelines Published per Year
 
@@ -51,7 +51,8 @@ _Last updated: 2026-09-29 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 ## Recent Changes
 
-_No changes since last run._
+### Updated (new PDFs downloaded)
+- **COVID-19 Guideline Part 1: Treatment and Management** — 1 new PDF(s)
 
 
 **Open-access full text available:** 70 of 115  
@@ -65,7 +66,7 @@ _No changes since last run._
 | AMR Guidance | 2026 | Unknown | [DOI](https://doi.org/10.1093/cid/ciae403) | — | 6 |
 | Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Adults | 2026 | Endorsed | [DOI](https://doi.org/10.1002/phar.70188) | — | — |
 | Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Patients | 2026 | Endorsed | [DOI](https://doi.org/10.1002/phar.70181) | — | 1 |
-| COVID-19 Guideline Part 1: Treatment and Management | 2026 | Current | [DOI](https://doi.org/10.1093/cid/ciaf680) | — | 92 |
+| COVID-19 Guideline Part 1: Treatment and Management | 2026 | Current | [DOI](https://doi.org/10.1101/2022.06.21.22276724) | — | 93 |
 | Cardiovascular Implantable Electronic Device Lead Management and Extraction | 2026 | Endorsed | [DOI](https://doi.org/10.1016/j.hrthm.2026.04.015) | — | — |
 | Childhood and Adolescent Immunization Schedule: United States 2026 Policy Statement | 2026 | Endorsed | [DOI](https://doi.org/10.1542/peds.2025-075754) | [PDF](https://publications.aap.org/pediatrics/article-pdf/doi/10.1542/peds.2025-075754/1908868/peds_2025075754.pdf) | — |
 | Community-Acquired Pneumonia in Infants and Children | 2026 | Current, Endorsed | — | — | 10 |
