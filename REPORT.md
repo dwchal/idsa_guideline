@@ -1,6 +1,6 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-10-13 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-10-14 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
@@ -8,7 +8,7 @@ _Last updated: 2026-10-13 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 **Total guidelines tracked:** 115  
 **Total PDFs downloaded:** 214  
-**Previous run:** 2026-10-12T10:04:15.329879+00:00  
+**Previous run:** 2026-10-13T10:04:22.629992+00:00  
 
 ### Guidelines Published per Year
 
@@ -51,8 +51,7 @@ _Last updated: 2026-10-13 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 ## Recent Changes
 
-### Updated (new PDFs downloaded)
-- **Cryptococcosis** — 1 new PDF(s)
+_No changes since last run._
 
 
 **Open-access full text available:** 70 of 115  
