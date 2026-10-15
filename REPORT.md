@@ -1,14 +1,14 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-10-14 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-10-15 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
 ## Summary Statistics
 
-**Total guidelines tracked:** 115  
+**Total guidelines tracked:** 114  
 **Total PDFs downloaded:** 214  
-**Previous run:** 2026-10-13T10:04:22.629992+00:00  
+**Previous run:** 2026-10-14T10:04:14.855162+00:00  
 
 ### Guidelines Published per Year
 
@@ -23,7 +23,7 @@ _Last updated: 2026-10-14 10:04 UTC — auto-generated daily by [scraper.py](scr
 | 2020 | 8 |
 | 2019 | 6 |
 | 2018 | 7 |
-| 2017 | 5 |
+| 2017 | 4 |
 | 2016 | 7 |
 | 2015 | 3 |
 | 2014 | 2 |
@@ -43,7 +43,7 @@ _Last updated: 2026-10-14 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 - **Current:** 53
 - **Archived:** 27
-- **Endorsed:** 42
+- **Endorsed:** 41
 - **In Development:** 4
 - **Unknown:** 4
 
@@ -54,7 +54,7 @@ _Last updated: 2026-10-14 10:04 UTC — auto-generated daily by [scraper.py](scr
 _No changes since last run._
 
 
-**Open-access full text available:** 70 of 115  
+**Open-access full text available:** 70 of 114  
 
 ---
 
@@ -130,7 +130,6 @@ _No changes since last run._
 | Influenza | 2018 | Current | [DOI](https://doi.org/10.1093/cid/ciy866) | [PDF](https://academic.oup.com/cid/article-pdf/68/6/e1/28009553/ciy866.pdf) | — |
 | Neurocysticercosis | 2018 | Current | [DOI](https://doi.org/10.1093/cid/cix1084) | [PDF](https://academic.oup.com/cid/article-pdf/66/8/e49/25084581/cix1084.pdf) | — |
 | Outpatient Parenteral Antimicrobial Therapy | 2018 | Current | [DOI](https://doi.org/10.1093/cid/ciy745) | [PDF](https://academic.oup.com/cid/article-pdf/68/1/e1/27201589/ciy745.pdf) | — |
-| Cardiovascular Implantable Electronic Device Lead Management and Extraction | 2017 | Endorsed | — | — | — |
 | HIV Chronic Pain Management | 2017 | Current | [DOI](https://doi.org/10.1093/cid/cix636) | [PDF](https://academic.oup.com/cid/article-pdf/65/10/e1/24266976/cix636.pdf) | — |
 | Healthcare-Associated Ventriculitis and Meningitis | 2017 | Current | [DOI](https://doi.org/10.1093/cid/ciw861) | [PDF](https://academic.oup.com/cid/article-pdf/64/6/e34/29172643/ciw861.pdf) | 2 |
 | Infectious Diarrhea | 2017 | Current | [DOI](https://doi.org/10.1093/cid/cix669) | [PDF](https://academic.oup.com/cid/article-pdf/65/12/e45/24267059/cix669.pdf) | — |
