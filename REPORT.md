@@ -1,6 +1,6 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-10-15 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-10-16 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
@@ -8,7 +8,7 @@ _Last updated: 2026-10-15 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 **Total guidelines tracked:** 114  
 **Total PDFs downloaded:** 214  
-**Previous run:** 2026-10-14T10:04:14.855162+00:00  
+**Previous run:** 2026-10-15T10:04:13.160191+00:00  
 
 ### Guidelines Published per Year
 
@@ -62,7 +62,7 @@ _No changes since last run._
 
 | Title | Year | Status | DOI | Free PDF |  Supp. Files |
 |-------|------|--------|-----|----------|--------------|
-| AMR Guidance | 2026 | Unknown | [DOI](https://doi.org/10.1093/cid/ciae403) | — | 6 |
+| AMR Guidance | 2026 | Unknown | [DOI](https://doi.org/10.1093/cid/ciag481) | — | 6 |
 | Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Adults | 2026 | Endorsed | [DOI](https://doi.org/10.1002/phar.70188) | — | — |
 | Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Patients | 2026 | Endorsed | [DOI](https://doi.org/10.1002/phar.70181) | — | 1 |
 | COVID-19 Guideline Part 1: Treatment and Management | 2026 | Current | [DOI](https://doi.org/10.1101/2022.06.21.22276724) | — | 93 |
