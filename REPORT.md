@@ -1,14 +1,14 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-10-16 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-10-17 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
 ## Summary Statistics
 
 **Total guidelines tracked:** 114  
-**Total PDFs downloaded:** 214  
-**Previous run:** 2026-10-15T10:04:13.160191+00:00  
+**Total PDFs downloaded:** 215  
+**Previous run:** 2026-10-16T10:04:11.001182+00:00  
 
 ### Guidelines Published per Year
 
@@ -51,7 +51,8 @@ _Last updated: 2026-10-16 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 ## Recent Changes
 
-_No changes since last run._
+### Updated (new PDFs downloaded)
+- **Treatment of Drug-Susceptible TB** — 1 new PDF(s)
 
 
 **Open-access full text available:** 70 of 114  
@@ -140,7 +141,7 @@ _No changes since last run._
 | Hospital-Acquired and Ventilator-Associated Pneumonia | 2016 | Current | [DOI](https://doi.org/10.1093/cid/ciw353) | [PDF](https://academic.oup.com/cid/article-pdf/63/5/e61/28679213/ciw353.pdf) | — |
 | Implementing an ASP | 2016 | Current | [DOI](https://doi.org/10.1093/cid/ciw118) | — | 1 |
 | Leishmaniasis | 2016 | Current | [DOI](https://doi.org/10.1093/cid/ciw670) | [PDF](https://academic.oup.com/cid/article-pdf/63/12/e202/21383118/ciw670.pdf) | — |
-| Treatment of Drug-Susceptible TB | 2016 | Current | [DOI](https://doi.org/10.1093/cid/ciw376) | — | — |
+| Treatment of Drug-Susceptible TB | 2016 | Current | [DOI](https://doi.org/10.1093/cid/ciw376) | [PDF](https://iris.uniss.it/bitstream/11388/174490/2/Nahid.pdf) | 1 |
 | Candidiasis | 2015 | Current | [DOI](https://doi.org/10.1093/cid/civ933) | — | — |
 | Endocarditis Management | 2015 | Endorsed | — | — | — |
 | Vertebral Osteomyelitis | 2015 | Current | [DOI](https://doi.org/10.1093/cid/civ482) | — | — |
