@@ -1,14 +1,14 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-10-20 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-10-21 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
 ## Summary Statistics
 
 **Total guidelines tracked:** 114  
-**Total PDFs downloaded:** 215  
-**Previous run:** 2026-10-19T10:04:11.356277+00:00  
+**Total PDFs downloaded:** 217  
+**Previous run:** 2026-10-20T10:04:11.795581+00:00  
 
 ### Guidelines Published per Year
 
@@ -51,7 +51,8 @@ _Last updated: 2026-10-20 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 ## Recent Changes
 
-_No changes since last run._
+### Updated (new PDFs downloaded)
+- **Seasonal RTI Vaccinations** — 2 new PDF(s)
 
 
 **Open-access full text available:** 70 of 114  
@@ -75,7 +76,7 @@ _No changes since last run._
 | Maternal Immunizations | 2026 | Current, Endorsed | — | — | — |
 | Personalized Bacteriophage Therapy | 2026 | Endorsed | [DOI](https://doi.org/10.1038/s41591-026-04654-6) | [PDF](https://www.nature.com/articles/s41591-026-04654-6.pdf) | 1 |
 | Prevention of Invasive Aspergillosis | 2026 | Current, Endorsed | — | — | 2 |
-| Seasonal RTI Vaccinations | 2026 | Unknown | — | — | 12 |
+| Seasonal RTI Vaccinations | 2026 | Unknown | — | — | 14 |
 | Staphylococcus aureus Bacteremia | 2026 | Unknown | — | — | 17 |
 | Surviving Sepsis Campaign Adult Guidelines 2026 | 2026 | Current, Endorsed | — | — | — |
 | Surviving Sepsis Campaign Children Guidelines 2026 | 2026 | Current, Endorsed | — | — | — |
