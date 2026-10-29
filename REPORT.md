@@ -1,6 +1,6 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-10-28 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-10-29 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
@@ -8,7 +8,7 @@ _Last updated: 2026-10-28 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 **Total guidelines tracked:** 114  
 **Total PDFs downloaded:** 217  
-**Previous run:** 2026-10-27T10:04:33.427435+00:00  
+**Previous run:** 2026-10-28T10:04:33.524915+00:00  
 
 ### Guidelines Published per Year
 
@@ -54,7 +54,7 @@ _Last updated: 2026-10-28 10:04 UTC — auto-generated daily by [scraper.py](scr
 _No changes since last run._
 
 
-**Open-access full text available:** 70 of 114  
+**Open-access full text available:** 72 of 114  
 
 ---
 
@@ -66,7 +66,7 @@ _No changes since last run._
 | Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Adults | 2026 | Endorsed | [DOI](https://doi.org/10.1002/phar.70188) | — | — |
 | Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Patients | 2026 | Endorsed | [DOI](https://doi.org/10.1002/phar.70181) | — | 1 |
 | COVID-19 Guideline Part 1: Treatment and Management | 2026 | Current | [DOI](https://doi.org/10.1101/2022.06.21.22276724) | — | 93 |
-| Cardiovascular Implantable Electronic Device Lead Management and Extraction | 2026 | Endorsed | [DOI](https://doi.org/10.1016/j.hrthm.2026.04.015) | — | — |
+| Cardiovascular Implantable Electronic Device Lead Management and Extraction | 2026 | Endorsed | [DOI](https://doi.org/10.1016/j.hrthm.2026.04.015) | [PDF](https://www.heartrhythmjournal.com/article/S1547-5271(26)02264-2/pdf) | — |
 | Childhood and Adolescent Immunization Schedule: United States 2026 Policy Statement | 2026 | Endorsed | [DOI](https://doi.org/10.1542/peds.2025-075754) | [PDF](https://publications.aap.org/pediatrics/article-pdf/doi/10.1542/peds.2025-075754/1908868/peds_2025075754.pdf) | — |
 | Community-Acquired Pneumonia in Infants and Children | 2026 | Current, Endorsed | — | — | 10 |
 | Histoplasmosis | 2026 | Unknown | — | — | 4 |
@@ -109,7 +109,7 @@ _No changes since last run._
 | Clostridioides difficile 2021 Focused Update | 2021 | Current | [DOI](https://doi.org/10.1093/cid/ciab549) | [PDF](https://academic.oup.com/cid/article-pdf/73/5/e1029/40326165/ciab549.pdf) | — |
 | Surviving Sepsis Campaign Adult Guidelines 2021 | 2021 | Archived, Endorsed | [DOI](https://doi.org/10.1007/s00134-021-06506-y) | [PDF](https://link.springer.com/content/pdf/10.1007/s00134-021-06506-y.pdf) | 1 |
 | Suspected Sepsis Report | 2021 | Endorsed | [DOI](https://doi.org/10.1016/j.annemergmed.2021.02.006) | [PDF](http://www.annemergmed.com/article/S0196064421001177/pdf) | — |
-| Babesiosis | 2020 | Current | [DOI](https://doi.org/10.1093/cid/ciab275) | — | — |
+| Babesiosis | 2020 | Current | [DOI](https://doi.org/10.1093/cid/ciab275) | [PDF](https://academic.oup.com/cid/article-pdf/73/1/172/38846991/ciab275.pdf) | — |
 | Healthcare Personnel Living with Hepatitis B, Hepatitis C, or Human Immunodeficiency Virus | 2020 | Endorsed | — | — | — |
 | Lyme Disease | 2020 | Current | [DOI](https://doi.org/10.1093/cid/ciaa1215) | [PDF](https://academic.oup.com/cid/article-pdf/72/1/e1/39075868/ciaa1215.pdf) | 1 |
 | Nontuberculous Mycobacterial Diseases | 2020 | Current | [DOI](https://doi.org/10.1093/cid/ciaa241) | [PDF](https://academic.oup.com/cid/article-pdf/71/4/e1/35000000/ciaa241.pdf) | — |
