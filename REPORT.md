@@ -1,6 +1,6 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-10-29 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-10-30 10:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
@@ -8,7 +8,7 @@ _Last updated: 2026-10-29 10:04 UTC — auto-generated daily by [scraper.py](scr
 
 **Total guidelines tracked:** 114  
 **Total PDFs downloaded:** 217  
-**Previous run:** 2026-10-28T10:04:33.524915+00:00  
+**Previous run:** 2026-10-29T10:04:38.976524+00:00  
 
 ### Guidelines Published per Year
 
@@ -54,7 +54,7 @@ _Last updated: 2026-10-29 10:04 UTC — auto-generated daily by [scraper.py](scr
 _No changes since last run._
 
 
-**Open-access full text available:** 72 of 114  
+**Open-access full text available:** 73 of 114  
 
 ---
 
@@ -62,7 +62,7 @@ _No changes since last run._
 
 | Title | Year | Status | DOI | Free PDF |  Supp. Files |
 |-------|------|--------|-----|----------|--------------|
-| AMR Guidance | 2026 | Unknown | [DOI](https://doi.org/10.1093/cid/ciag481) | — | 6 |
+| AMR Guidance | 2026 | Unknown | [DOI](https://doi.org/10.1093/cid/ciag481) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciad428/51246148/ciad428.pdf) | 6 |
 | Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Adults | 2026 | Endorsed | [DOI](https://doi.org/10.1002/phar.70188) | — | — |
 | Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Patients | 2026 | Endorsed | [DOI](https://doi.org/10.1002/phar.70181) | — | 1 |
 | COVID-19 Guideline Part 1: Treatment and Management | 2026 | Current | [DOI](https://doi.org/10.1101/2022.06.21.22276724) | — | 93 |
@@ -92,7 +92,7 @@ _No changes since last run._
 | Intra-abdominal Infections | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae347) | [PDF](https://digitalcommons.library.tmc.edu/cgi/viewcontent.cgi?article=7706&context=baylor_docs) | 1 |
 | Laboratory Diagnosis of Infectious Diseases | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae104) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciae104/57262354/ciae104.pdf) | — |
 | Primary Care Guidance for Persons With HIV | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae479) | [PDF](https://escholarship.org/content/qt2595546v/qt2595546v.pdf) | 1 |
-| Treatment of Drug-Resistant and Drug-Susceptible TB | 2024 | Current | [DOI](https://doi.org/10.1164/rccm.202410-2096ST) | [PDF](https://discovery.ucl.ac.uk/id/eprint/10209599/3/Lipman_NCHHSTP_final%20accepted%20document%20Nov%202024.pdf) | 1 |
+| Treatment of Drug-Resistant and Drug-Susceptible TB | 2024 | Current | [DOI](https://doi.org/10.1164/rccm.202410-2096ST) | [PDF](https://pmc.ncbi.nlm.nih.gov/articles/PMC11755361/pdf/rccm.202410-2096ST.pdf) | 1 |
 | Tuberculosis in Community Settings | 2024 | Endorsed | [DOI](https://doi.org/10.1093/cid/ciae199) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciae199/57262824/ciae199.pdf) | — |
 | Acute Bacterial Arthritis in Pediatrics | 2023 | Current | [DOI](https://doi.org/10.1093/jpids/piad089) | [PDF](https://academic.oup.com/jpids/advance-article-pdf/doi/10.1093/jpids/piad089/52952535/piad089.pdf) | — |
 | COVID-19 Guideline Part 3: Molecular Diagnostic Testing | 2023 | Current | [DOI](https://doi.org/10.1093/cid/ciab048) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciab048/38834447/ciab048.pdf) | 4 |
