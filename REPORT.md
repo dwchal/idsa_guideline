@@ -1,6 +1,6 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-11-11 11:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-11-12 11:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
@@ -8,7 +8,7 @@ _Last updated: 2026-11-11 11:04 UTC — auto-generated daily by [scraper.py](scr
 
 **Total guidelines tracked:** 114  
 **Total PDFs downloaded:** 217  
-**Previous run:** 2026-11-10T11:04:19.283881+00:00  
+**Previous run:** 2026-11-11T11:04:21.996096+00:00  
 
 ### Guidelines Published per Year
 
@@ -63,9 +63,9 @@ _No changes since last run._
 | Title | Year | Status | DOI | Free PDF |  Supp. Files |
 |-------|------|--------|-----|----------|--------------|
 | AMR Guidance | 2026 | Unknown | [DOI](https://doi.org/10.1093/cid/ciag481) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciad428/51246148/ciad428.pdf) | 6 |
-| Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Adults | 2026 | Endorsed | [DOI](https://doi.org/10.1002/phar.70188) | — | — |
-| Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Patients | 2026 | Endorsed | [DOI](https://doi.org/10.1002/phar.70181) | [PDF](https://research.rug.nl/files/1574613462/Consensus_Guidance_for_Beta-Lactam_Antibiotic_Dose.pdf) | 1 |
-| COVID-19 Guideline Part 1: Treatment and Management | 2026 | Current | [DOI](https://doi.org/10.1101/2022.06.21.22276724) | — | 93 |
+| Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Adults | 2026 | Endorsed | [DOI](https://doi.org/10.1002/phar.70188) | [PDF](https://pmc.ncbi.nlm.nih.gov/articles/PMC13474301/pdf/) | — |
+| Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Patients | 2026 | Endorsed | [DOI](https://doi.org/10.1002/phar.70181) | [PDF](https://pmc.ncbi.nlm.nih.gov/articles/PMC13392062/pdf/) | 1 |
+| COVID-19 Guideline Part 1: Treatment and Management | 2026 | Current | [DOI](https://doi.org/10.1101/2022.06.21.22276724) | [PDF](https://pmc.ncbi.nlm.nih.gov/articles/PMC9258292/pdf/) | 93 |
 | Cardiovascular Implantable Electronic Device Lead Management and Extraction | 2026 | Endorsed | [DOI](https://doi.org/10.1016/j.hrthm.2026.04.015) | [PDF](https://www.heartrhythmjournal.com/article/S1547-5271(26)02264-2/pdf) | — |
 | Childhood and Adolescent Immunization Schedule: United States 2026 Policy Statement | 2026 | Endorsed | [DOI](https://doi.org/10.1542/peds.2025-075754) | [PDF](https://publications.aap.org/pediatrics/article-pdf/doi/10.1542/peds.2025-075754/1908868/peds_2025075754.pdf) | — |
 | Community-Acquired Pneumonia in Infants and Children | 2026 | Current, Endorsed | — | — | 10 |
@@ -164,7 +164,7 @@ _No changes since last run._
 | IV Catheter | 2009 | Archived | [DOI](https://doi.org/10.1086/599376) | [PDF](https://academic.oup.com/cid/article-pdf/49/1/1/34127570/49-1-1.pdf) | 1 |
 | Immunization of Infants, Children, Adolescents, and Adults | 2009 | Archived | [DOI](https://doi.org/10.1086/605430) | [PDF](https://academic.oup.com/cid/article-pdf/49/6/817/34127960/49-6-817.pdf) | — |
 | Immunomodulators | 2009 | Archived, In Development, Current, Endorsed | — | — | — |
-| Opportunistic Infections Among Hematopoietic Stem Cell Transplant Recipients | 2009 | Endorsed | [DOI](https://doi.org/10.1016/S1083-8791(00)70002-4) | — | — |
+| Opportunistic Infections Among Hematopoietic Stem Cell Transplant Recipients | 2009 | Endorsed | [DOI](https://doi.org/10.1016/S1083-8791(00)70002-4) | [PDF](https://pmc.ncbi.nlm.nih.gov/articles/PMC7129667/pdf/) | — |
 | Blastomycosis | 2008 | Archived | [DOI](https://doi.org/10.1086/588300) | — | — |
 | Encephalitis | 2008 | Archived | [DOI](https://doi.org/10.1086/589747) | [PDF](https://academic.oup.com/cid/article-pdf/47/3/303/13141982/47-3-303.pdf) | — |
 | Antimicrobial Stewardship | 2007 | Archived | [DOI](https://doi.org/10.1086/510393) | [PDF](https://academic.oup.com/cid/article-pdf/44/2/159/34127150/44-2-159.pdf) | — |
