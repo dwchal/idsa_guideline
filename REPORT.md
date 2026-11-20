@@ -1,6 +1,6 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-11-19 11:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-11-20 11:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
@@ -8,7 +8,7 @@ _Last updated: 2026-11-19 11:04 UTC — auto-generated daily by [scraper.py](scr
 
 **Total guidelines tracked:** 114  
 **Total PDFs downloaded:** 217  
-**Previous run:** 2026-11-18T11:04:17.266413+00:00  
+**Previous run:** 2026-11-19T11:04:13.394490+00:00  
 
 ### Guidelines Published per Year
 
@@ -41,11 +41,11 @@ _Last updated: 2026-11-19 11:04 UTC — auto-generated daily by [scraper.py](scr
 
 ### Status Breakdown
 
-- **Current:** 53
+- **Current:** 52
 - **Archived:** 27
 - **Endorsed:** 41
 - **In Development:** 4
-- **Unknown:** 4
+- **Unknown:** 5
 
 ---
 
@@ -65,7 +65,7 @@ _No changes since last run._
 | AMR Guidance | 2026 | Unknown | [DOI](https://doi.org/10.1093/cid/ciag481) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciad428/51246148/ciad428.pdf) | 6 |
 | Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Adults | 2026 | Endorsed | [DOI](https://doi.org/10.1002/phar.70188) | [PDF](https://pmc.ncbi.nlm.nih.gov/articles/PMC13474301/pdf/) | — |
 | Beta-Lactam Antibiotic Dose Individualization in Acutely Ill Patients | 2026 | Endorsed | [DOI](https://doi.org/10.1002/phar.70181) | [PDF](https://pmc.ncbi.nlm.nih.gov/articles/PMC13392062/pdf/) | 1 |
-| COVID-19 Guideline Part 1: Treatment and Management | 2026 | Current | [DOI](https://doi.org/10.1101/2022.06.21.22276724) | [PDF](https://pmc.ncbi.nlm.nih.gov/articles/PMC9258292/pdf/) | 93 |
+| COVID-19 Treatment | 2026 | Unknown | [DOI](https://doi.org/10.1101/2022.06.21.22276724) | [PDF](https://pmc.ncbi.nlm.nih.gov/articles/PMC9258292/pdf/) | 93 |
 | Cardiovascular Implantable Electronic Device Lead Management and Extraction | 2026 | Endorsed | [DOI](https://doi.org/10.1016/j.hrthm.2026.04.015) | [PDF](https://www.heartrhythmjournal.com/article/S1547-5271(26)02264-2/pdf) | — |
 | Childhood and Adolescent Immunization Schedule: United States 2026 Policy Statement | 2026 | Endorsed | [DOI](https://doi.org/10.1542/peds.2025-075754) | [PDF](https://publications.aap.org/pediatrics/article-pdf/doi/10.1542/peds.2025-075754/1908868/peds_2025075754.pdf) | — |
 | Community-Acquired Pneumonia in Infants and Children | 2026 | Current, Endorsed | — | — | 10 |
