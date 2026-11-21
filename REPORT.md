@@ -1,6 +1,6 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-11-20 11:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-11-21 11:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
@@ -8,7 +8,7 @@ _Last updated: 2026-11-20 11:04 UTC — auto-generated daily by [scraper.py](scr
 
 **Total guidelines tracked:** 114  
 **Total PDFs downloaded:** 217  
-**Previous run:** 2026-11-19T11:04:13.394490+00:00  
+**Previous run:** 2026-11-20T11:04:13.418716+00:00  
 
 ### Guidelines Published per Year
 
@@ -91,7 +91,7 @@ _No changes since last run._
 | Dental Procedures | 2024 | Endorsed | — | — | 1 |
 | Intra-abdominal Infections | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae347) | [PDF](https://digitalcommons.library.tmc.edu/cgi/viewcontent.cgi?article=7706&context=baylor_docs) | 1 |
 | Laboratory Diagnosis of Infectious Diseases | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae104) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciae104/57262354/ciae104.pdf) | — |
-| Primary Care Guidance for Persons With HIV | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae479) | [PDF](https://escholarship.org/content/qt2595546v/qt2595546v.pdf) | 1 |
+| Primary Care Guidance for Persons With HIV | 2024 | Current | [DOI](https://doi.org/10.1093/cid/ciae479) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciae479/61213202/ciae479.pdf) | 1 |
 | Treatment of Drug-Resistant and Drug-Susceptible TB | 2024 | Current | [DOI](https://doi.org/10.1164/rccm.202410-2096ST) | [PDF](https://pmc.ncbi.nlm.nih.gov/articles/PMC11755361/pdf/rccm.202410-2096ST.pdf) | 1 |
 | Tuberculosis in Community Settings | 2024 | Endorsed | [DOI](https://doi.org/10.1093/cid/ciae199) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciae199/57262824/ciae199.pdf) | — |
 | Acute Bacterial Arthritis in Pediatrics | 2023 | Current | [DOI](https://doi.org/10.1093/jpids/piad089) | [PDF](https://academic.oup.com/jpids/advance-article-pdf/doi/10.1093/jpids/piad089/52952535/piad089.pdf) | — |
