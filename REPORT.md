@@ -1,6 +1,6 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-11-24 11:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-11-25 11:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
@@ -8,7 +8,7 @@ _Last updated: 2026-11-24 11:04 UTC — auto-generated daily by [scraper.py](scr
 
 **Total guidelines tracked:** 114  
 **Total PDFs downloaded:** 217  
-**Previous run:** 2026-11-23T11:04:13.318676+00:00  
+**Previous run:** 2026-11-24T11:04:11.666635+00:00  
 
 ### Guidelines Published per Year
 
@@ -79,7 +79,7 @@ _No changes since last run._
 | Staphylococcus aureus Bacteremia | 2026 | Unknown | — | — | 17 |
 | Surviving Sepsis Campaign Adult Guidelines 2026 | 2026 | Current, Endorsed | — | — | — |
 | Surviving Sepsis Campaign Children Guidelines 2026 | 2026 | Current, Endorsed | — | — | — |
-| Complicated Urinary Tract Infections | 2025 | Current | — | — | 19 |
+| Complicated Urinary Tract Infections | 2025 | Current | [DOI](https://doi.org/10.1093/cid/ciaf459) | — | 19 |
 | Group A Streptococcal Pharyngitis | 2025 | Current | [DOI](https://doi.org/10.1093/cid/ciaf668) | [PDF](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciaf668/65756988/ciaf668.pdf) | 2 |
 | Healthcare Facility Infection Prevention and Control Programs | 2025 | Endorsed | [DOI](https://doi.org/10.1017/ice.2025.73) | [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C311429CFF522A0F94E6D9B5643017A6/S0899823X2500073Xa.pdf/div-class-title-shea-apic-idsa-pids-multisociety-position-paper-raising-the-bar-necessary-resources-and-structure-for-effective-healthcare-facility-infection-prevention-and-control-programs-div.pdf) | 1 |
 | Hepatitis B | 2025 | Current | — | — | — |
