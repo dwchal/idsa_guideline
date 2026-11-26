@@ -1,14 +1,14 @@
 # IDSA Practice Guidelines Report
 
-_Last updated: 2026-11-25 11:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
+_Last updated: 2026-11-26 11:04 UTC — auto-generated daily by [scraper.py](scraper.py)_
 
 ---
 
 ## Summary Statistics
 
 **Total guidelines tracked:** 114  
-**Total PDFs downloaded:** 217  
-**Previous run:** 2026-11-24T11:04:11.666635+00:00  
+**Total PDFs downloaded:** 218  
+**Previous run:** 2026-11-25T11:04:15.128801+00:00  
 
 ### Guidelines Published per Year
 
@@ -51,10 +51,11 @@ _Last updated: 2026-11-25 11:04 UTC — auto-generated daily by [scraper.py](scr
 
 ## Recent Changes
 
-_No changes since last run._
+### Updated (new PDFs downloaded)
+- **Vertebral Osteomyelitis** — 1 new PDF(s)
 
 
-**Open-access full text available:** 74 of 114  
+**Open-access full text available:** 75 of 114  
 
 ---
 
@@ -143,7 +144,7 @@ _No changes since last run._
 | Treatment of Drug-Susceptible TB | 2016 | Current | [DOI](https://doi.org/10.1093/cid/ciw376) | [PDF](https://iris.uniss.it/bitstream/11388/174490/2/Nahid.pdf) | 1 |
 | Candidiasis | 2015 | Current | [DOI](https://doi.org/10.1093/cid/civ933) | — | — |
 | Endocarditis Management | 2015 | Endorsed | — | — | — |
-| Vertebral Osteomyelitis | 2015 | Current | [DOI](https://doi.org/10.1093/cid/civ482) | — | — |
+| Vertebral Osteomyelitis | 2015 | Current | [DOI](https://doi.org/10.1093/cid/civ482) | [PDF](https://scholarworks.aub.edu.lb/bitstreams/9fc488c6-5416-46c1-9514-5ee9b6b6e2f8/download) | 1 |
 | Chronic Kidney Disease in HIV | 2014 | Current | [DOI](https://doi.org/10.1093/cid/ciu617) | [PDF](https://academic.oup.com/cid/article-pdf/59/9/e96/34135364/ciu617.pdf) | — |
 | Skin and Soft Tissue Infections | 2014 | Current | [DOI](https://doi.org/10.1093/cid/ciu296) | — | — |
 | Antimicrobial Prophylaxis in Surgery | 2013 | Archived, In Development | [DOI](https://doi.org/10.2146/ajhp120568) | — | — |
